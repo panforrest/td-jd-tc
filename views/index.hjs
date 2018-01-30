@@ -537,7 +537,9 @@
 						</ul>
 
 					</div>
-				  </div>	
+				  </div>
+				  <br />
+				  <br />	
                  
                   <div id="section-staff" class="container clearfix">
 					<div class="col_one_fourth nobottommargin">
@@ -547,15 +549,36 @@
 						</div>
 
 						<ul>
-                            <li>Steve Jobs</li>
-                            <li>Bill Gates</li>
-                            <li>Tom Brady</li>
+                            <li>颜伟民</li>
+                            <li>Marvin</li>
+                            <li>周嘉琦</li>
+                            <li>Zelun</li>
+                            <li>刘永奇</li>
+                            <li>姜昕卓</li>
+                            <li>李雪伦</li>
+                            <li>孙金钊</li>
+                            <li>李欣冉y</li>
+                            <li>leannisgood</li>
+                            <li>杜若森</li>
+                            <li>吴笑寒</li>
+                            <li>庞笑天</li>
+                            <li>Hao Wang</li>
+                            <li>April张</li>
+                            <li>姜天婵</li>
+                            <li>红门</li>
+                            <li>艾筱豆</li>
+                            <li>天财 章琪</li>
+                            <li>张宇</li>
+                            <li>白芳薇</li>
+                            
 						</ul>
 
 						<a href="#" class="button button-rounded button-dark noleftmargin"><i class="icon-file-alt"></i> Browse the team</a>
 
 					</div>
                   </div>
+                  <br />
+                  <br />
 
                   <div id="section-gallery" class="container clearfix">
 					<div class="col_half nobottommargin col_last">
@@ -578,9 +601,15 @@
 					</div>
                   </div>
 				</div>
-              
-
+                <br />
+                <br />
 			  <div id="section-speakers" class="container clearfix">
+                    <div class="heading-block center">
+							<h2>Speakers <span>include</span></h2>
+							<span></span>
+						</div>
+                        
+
 				<div class="section nobg topmargin-lg nobottommargin">
 					<div class="container clearfix">
 
