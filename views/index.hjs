@@ -176,7 +176,7 @@
 							data-elementdelay="0.01"
 							data-endelementdelay="0.1"
 							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;">Lunar new year Extravaganza</div>
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;">Lunar new year Extravaganza <br> Feb. 18, 2018 <br> 265 W 37th St., NYC</div>
 
 							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text tleft"
 							data-x="0"
@@ -412,94 +412,20 @@
 
 					<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
 
-					<!-- Logo
-					============================================= -->
-					<div id="logo">
-						<a href="index.html" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="images/logo-resto.png" alt="Canvas Logo"></a>
-						<a href="index.html" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="images/logo@2x.png" alt="Canvas Logo"></a>
-					</div><!-- #logo end -->
-
 					<!-- Primary Navigation
 					============================================= -->
 					<nav id="primary-menu" class="style-5">
 
-						<ul class="norightborder norightpadding norightmargin">
-							<li class="current"><a href="#"><div><i class="icon-home2"></i>Home</div></a>
-								<ul>
-									<li><a href="index-corporate.html"><div>Home - Corporate</div></a>
-										<ul>
-											<li><a href="index-corporate.html"><div>Corporate - Layout 1</div></a></li>
-											<li><a href="index-corporate-2.html"><div>Corporate - Layout 2</div></a></li>
-											<li><a href="index-corporate-3.html"><div>Corporate - Layout 3</div></a></li>
-											<li><a href="index-corporate-4.html"><div>Corporate - Layout 4</div></a></li>
-										</ul>
-									</li>
-									<li><a href="index-portfolio.html"><div>Home - Portfolio</div></a>
-										<ul>
-											<li><a href="index-portfolio.html"><div>Portfolio - Layout 1</div></a></li>
-											<li><a href="index-portfolio-2.html"><div>Portfolio - Layout 2</div></a></li>
-											<li><a href="index-portfolio-3.html"><div>Portfolio - Masonry</div></a></li>
-											<li><a href="index-portfolio-4.html"><div>Portfolio - AJAX</div></a></li>
-										</ul>
-									</li>
-									<li><a href="index-blog.html"><div>Home - Blog</div></a>
-										<ul>
-											<li><a href="index-blog.html"><div>Blog - Layout 1</div></a></li>
-											<li><a href="index-blog-2.html"><div>Blog - Layout 2</div></a></li>
-											<li><a href="index-blog-3.html"><div>Blog - Layout 3</div></a></li>
-										</ul>
-									</li>
-									<li><a href="index-shop.html"><div>Home - Shop</div></a>
-										<ul>
-											<li><a href="index-shop.html"><div>Shop - Layout 1</div></a></li>
-											<li><a href="index-shop-2.html"><div>Shop - Layout 2</div></a></li>
-										</ul>
-									</li>
-									<li><a href="index-magazine.html"><div>Home - Magazine</div></a>
-										<ul>
-											<li><a href="index-magazine.html"><div>Magazine - Layout 1</div></a></li>
-											<li><a href="index-magazine-2.html"><div>Magazine - Layout 2</div></a></li>
-											<li><a href="index-magazine-3.html"><div>Magazine - Layout 3</div></a></li>
-										</ul>
-									</li>
-									<li><a href="landing.html"><div>Home - Landing Page</div></a>
-										<ul>
-											<li><a href="landing.html"><div>Landing Page - Layout 1</div></a></li>
-											<li><a href="landing-2.html"><div>Landing Page - Layout 2</div></a></li>
-											<li><a href="landing-3.html"><div>Landing Page - Layout 3</div></a></li>
-											<li><a href="landing-4.html"><div>Landing Page - Layout 4</div></a></li>
-											<li><a href="landing-5.html"><div>Landing Page - Layout 5</div></a></li>
-										</ul>
-									</li>
-									<li><a href="index-fullscreen-image.html"><div>Home - Full Screen</div></a>
-										<ul>
-											<li><a href="index-fullscreen-image.html"><div>Full Screen - Image</div></a></li>
-											<li><a href="index-fullscreen-slider.html"><div>Full Screen - Slider</div></a></li>
-											<li><a href="index-fullscreen-video.html"><div>Full Screen - Video</div></a></li>
-										</ul>
-									</li>
-									<li><a href="index-onepage.html"><div>Home - One Page</div></a>
-										<ul>
-											<li><a href="index-onepage.html"><div>One Page - Default</div></a></li>
-											<li><a href="index-onepage-2.html"><div>One Page - Submenu</div></a></li>
-											<li><a href="index-onepage-3.html"><div>One Page - Dots Style</div></a></li>
-										</ul>
-									</li>
-									<li><a href="index-wedding.html"><div>Home - Wedding</div></a></li>
-									<li><a href="index-restaurant.html"><div>Home - Restaurant</div></a></li>
-									<li><a href="index-events.html"><div>Home - Events</div></a></li>
-									<li><a href="index-parallax.html"><div>Home - Parallax</div></a></li>
-									<li><a href="index-app-showcase.html"><div>Home - App Showcase</div></a></li>
-									<li><a href="index-boxed.html"><div>Home - Boxed Layout</div></a></li>
-								</ul>
-							</li>
-							<li><a href="#"><div><i class="icon-file-alt"></i>Menu</div></a></li>
-							<li><a href="#"><div><i class="icon-users2"></i>Staff</div></a></li>
-							<li><a href="#"><div><i class="icon-picture"></i>Gallery</div></a></li>
-							<li><a href="#"><div><i class="icon-star3"></i>Reviews</div></a></li>
-							<li><a href="#"><div><i class="icon-pencil2"></i>Blog</div></a></li>
-							<li><a href="#"><div><i class="icon-map-marker2"></i>Contact</div></a></li>
-							<li><a href="#"><div><i class="icon-th"></i>Demos</div></a></li>
+						<ul class="one-page-menu" data-easing="easeInOutExpo" data-speed="1500">
+							<li><a href="#"><div><i class="icon-home2"></i>Home</div></a></li>
+							<li><a href="#" data-href="#section-about"><div><i class="icon-file-alt"></i>About</div></a></li>
+							<li><a href="#" data-href="#section-gallery"><div><i class="icon-th"></i>Schedule</div></a></li>
+							<li><a href="#" data-href="#section-gallery"><div><i class="icon-users2"></i>Staff</div></a></li>
+							<li><a href="#" data-href="#section-gallery"><div><i class="icon-picture"></i>Gallery</div></a></li>
+							<li><a href="#" data-href="#section-speakers"><div><i class="icon-star3"></i>Speakers</div></a></li>
+							<li><a href="#" data-href="#section-sponsors"><div><i class="icon-pencil2"></i>Sponsors</div></a></li>
+							<li><a href="#" data-href="#section-contact"><div><i class="icon-map-marker2"></i>Contact</div></a></li>
+							
 						</ul>
 
 					</nav><!-- #primary-menu end -->
@@ -518,178 +444,96 @@
 
 			<div class="content-wrap">
 
-				<div class="container clearfix">
+				<section id="section-about" class="page-section">
 
-					<div class="col_one_third nobottommargin">
-						<div class="feature-box media-box">
-							<div class="fbox-media">
-								<img src="images/restaurant/thumb/3.jpg" alt="Why choose Us?">
-							</div>
-							<div class="fbox-desc">
-								<h3>Why choose Us.<span class="subtitle">Because we are Reliable.</span></h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi rem, facilis nobis voluptatum est voluptatem accusamus molestiae eaque perspiciatis mollitia.</p>
+					<div class="container clearfix">
+
+						<div class="heading-block center">
+							<h2>We are <span>Proud Alumni</span></h2>
+							<span>Tianjin University, Jilin University, and Tianjin U. of Finance & Economics</span>
+						</div>
+
+						<div class="col_one_third nobottommargin">
+							<div class="feature-box media-box">
+								<div class="fbox-media">
+									<img src="images/td_jd_tc/ChineseNewYear2018.PNG" alt="Why this event">
+								</div>
+								<div class="fbox-desc">
+									<h3>Why this event<span class="subtitle">Coming soon...</span></h3>
+									<p></p>
+								</div>
 							</div>
 						</div>
-					</div>
 
-					<div class="col_one_third nobottommargin">
-						<div class="feature-box media-box">
-							<div class="fbox-media">
-								<img src="images/restaurant/thumb/16.jpg" alt="Why choose Us?">
-							</div>
-							<div class="fbox-desc">
-								<h3>Our Mission.<span class="subtitle">To Redefine your Brand.</span></h3>
-								<p>Quos, non, esse eligendi ab accusantium voluptatem. Maxime eligendi beatae, atque tempora ullam. Vitae delectus quia, consequuntur rerum molestias quo.</p>
-							</div>
-						</div>
-					</div>
-
-					<div class="col_one_third nobottommargin col_last">
-						<div class="feature-box media-box">
-							<div class="fbox-media">
-								<img src="images/restaurant/thumb/12.jpg" alt="Why choose Us?">
-							</div>
-							<div class="fbox-desc">
-								<h3>What we Do.<span class="subtitle">Make our Customers Happy.</span></h3>
-								<p>Porro repellat vero sapiente amet vitae quibusdam necessitatibus consectetur, labore totam. Accusamus perspiciatis asperiores labore esse ab accusantium ea modi ut.</p>
+						<div class="col_one_third nobottommargin">
+							<div class="feature-box media-box">
+								<div class="fbox-media">
+									<img src="images/td_jd_tc/mission.jpeg" alt="Our mission">
+								</div>
+								<div class="fbox-desc">
+									<h3>Our Mission<span class="subtitle">Coming soon...</span></h3>
+									<p></p>
+								</div>
 							</div>
 						</div>
+
+						<div class="col_one_third nobottommargin col_last">
+							<div class="feature-box media-box">
+								<div class="fbox-media">
+									<img src="images/td_jd_tc/yaboyilang.JPG" alt="Event Venue">
+								</div>
+								<div class="fbox-desc">
+									<h3>Event Venue<span class="subtitle">Coming soon...</span></h3>
+									<p></p>
+								</div>
+							</div>
+						</div>
+
+						<div class="clear"></div>
+
 					</div>
 
-					<div class="clear"></div>
+					
+				</section>
 
-				</div>
-
-				<div class="section dark bottommargin-lg" style="height: 500px;">
+				<div class="section dark bottommargin-lg" style="height: 1000px;">
 					<div class="container center clearfix vertical-middle">
 
-						<i class="i-plain i-xlarge icon-food2 divcenter bottommargin"></i>
+						
 
 						<div class="slider-caption slider-caption-center">
-							<h2 data-animate="fadeInUp">Brilliant Service</h2>
-							<p data-animate="fadeInUp" data-delay="200">"Momentum poverty tackling fellows social impact. Expanding community ownership, future affiliate protect civil society. Bloomberg."</p>
+							<h2 data-animate="fadeInUp"></h2>
+							<p data-animate="fadeInUp" data-delay="200"></p>
 						</div>
 
 					</div>
 					<div class="video-wrap">
-						<video poster="images/videos/explore.jpg" preload="auto" loop autoplay muted>
-							<source src='images/videos/explore.mp4' type='video/mp4' />
-							<source src='images/videos/explore.webm' type='video/webm' />
+						<video poster="images/td_jd_tc/nycChineseNewYear1.jpg" preload="auto" loop autoplay muted>
+							<source src='images/td_jd_tc/nycChineseNewYear1.jpg'  />
+							<source src='images/td_jd_tc/nycChineseNewYear1.jpg' />
 						</video>
 						<div class="video-overlay" style="background-color: rgba(0,0,0,0.35);"></div>
 					</div>
 				</div>
 
-				<div class="container clearfix">
-
-					<div class="col_one_fourth nobottommargin">
-						<div class="feature-box fbox-center fbox-plain nobottomborder">
-							<div class="fbox-icon">
-								<a href="#"><img src="images/icons/restaurant/glass.png" alt="Icon" data-animate="zoomIn"></a>
-							</div>
-							<h3>Exclusive Bar Available<span class="subtitle">Start getting high</span></h3>
-						</div>
-					</div>
-
-					<div class="col_one_fourth nobottommargin">
-						<div class="feature-box fbox-center fbox-plain nobottomborder">
-							<div class="fbox-icon">
-								<a href="#"><img src="images/icons/restaurant/fork.png" alt="Icon" data-animate="zoomIn" data-delay="200"></a>
-							</div>
-							<h3>International Food Menu<span class="subtitle">World Famous Recipes</span></h3>
-						</div>
-					</div>
-
-					<div class="col_one_fourth nobottommargin">
-						<div class="feature-box fbox-center fbox-plain nobottomborder">
-							<div class="fbox-icon">
-								<a href="#"><img src="images/icons/restaurant/cup.png" alt="Icon" data-animate="zoomIn" data-delay="400"></a>
-							</div>
-							<h3>Breakfast Available<span class="subtitle">Specialized Morning Menus</span></h3>
-						</div>
-					</div>
-
-					<div class="col_one_fourth nobottommargin col_last">
-						<div class="feature-box fbox-center fbox-plain nobottomborder">
-							<div class="fbox-icon">
-								<a href="#"><img src="images/icons/restaurant/tea.png" alt="Icon" data-animate="zoomIn" data-delay="600"></a>
-							</div>
-							<h3>Quiet Cafe Dining<span class="subtitle">Private &amp; Personalized</span></h3>
-						</div>
-					</div>
-
-					<div class="clear"></div>
-
-				</div>
-
-				<div class="section nobg topmargin-lg nobottommargin">
-					<div class="container clearfix">
-
-						<div class="col_half nobottommargin center">
-
-							<img src="images/restaurant/20.png" alt="Image" data-animate="fadeInLeft">
-
-						</div>
-
-						<div class="col_half nobottommargin col_last">
-
-							<div class="heading-block" style="padding-top: 40px;">
-
-								<h2>Fresh from the Garden.</h2>
-								<span>Duis mollis, est non commodo luctus. Donec sed odio dui</span>
-
-							</div>
-
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae, repudiandae, maxime, earum, sapiente assumenda non odit laborum qui vero vel quos sint excepturi in laudantium.</p>
-
-							<a href="#" class="button button-border button-large button-rounded topmargin-sm noleftmargin">View Recipes</a>
-
-						</div>
-
-					</div>
-				</div>
-
-				<div class="section nobg notopmargin noborder bottommargin-sm">
-					<div class="container clearfix">
-
-						<div class="col_half nobottommargin">
-
-							<div class="heading-block" style="padding-top: 40px;">
-
-								<h2>You'll be Lovin' It.</h2>
-								<span>Duis mollis, est non commodo luctus. Donec sed odio dui</span>
-
-							</div>
-
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae, repudiandae, maxime, earum, sapiente assumenda non odit laborum qui vero vel quos sint excepturi in laudantium.</p>
-
-							<a href="#" class="button button-border button-large button-rounded topmargin-sm noleftmargin">More Details</a>
-
-						</div>
-
-						<div class="col_half bottommargin-sm center col_last">
-
-							<img src="images/restaurant/22.png" alt="Image" data-animate="fadeInRight">
-
-						</div>
-
-					</div>
-				</div>
-
-				<div class="container clearfix">
+              <div id="section-gallery" class="container clearfix">
+                <div class="container clearfix">
 
 					<div class="col_one_fourth nobottommargin">
 
 						<div class="fancy-title title-border">
-							<h4>Opening Hours</h4>
+							<h4>Schedule</h4>
 						</div>
 
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aspernatur facilis cumque amet suscipit odio.</p>
+						<p></p>
 
 						<ul class="iconlist nobottommargin">
-							<li><i class="icon-time color"></i> <strong>Mondays-Fridays:</strong> 10AM to 7PM</li>
-							<li><i class="icon-time color"></i> <strong>Saturdays:</strong> 11AM to 3PM</li>
-							<li><i class="icon-time text-danger"></i> <strong>Sundays:</strong> Closed</li>
+							<li><i class="icon-time color"></i> <strong>11am:</strong> Opening</li>
+							<li><i class="icon-time color"></i> <strong>12am:</strong> Keynote speech</li>
+							<li><i class="icon-time text-danger"></i> <strong>1pm:</strong> Lunch</li>
+							<li><i class="icon-time text-danger"></i> <strong>2pm:</strong> Sharing</li>
+							<li><i class="icon-time text-danger"></i> <strong>3pm:</strong> Games</li>
+							<li><i class="icon-time text-danger"></i> <strong>4pm:</strong> Closing</li>
 						</ul>
 
 					</div>
@@ -697,12 +541,16 @@
 					<div class="col_one_fourth nobottommargin">
 
 						<div class="fancy-title title-border">
-							<h4>Our Buffet Menu</h4>
+							<h4>Our Staff</h4>
 						</div>
 
-						<p>Our Buffet Menu is unique &amp; filling consisting of different types of 5 Starters, 12 Full-Course Dishes, 9 Desserts &amp; 3 Mocktails which you are gonna relish to the core.</p>
+						<ul>
+                            <li>Steve Jobs</li>
+                            <li>Bill Gates</li>
+                            <li>Tom Brady</li>
+						</ul>
 
-						<a href="#" class="button button-rounded button-dark noleftmargin"><i class="icon-file-alt"></i> Browse Menu</a>
+						<a href="#" class="button button-rounded button-dark noleftmargin"><i class="icon-file-alt"></i> Browse the team</a>
 
 					</div>
 
@@ -726,31 +574,89 @@
 					</div>
 
 				</div>
+              </section>
 
+			  <div id="section-speakers" class="container clearfix">
+				<div class="section nobg topmargin-lg nobottommargin">
+					<div class="container clearfix">
+
+						<div class="col_half nobottommargin center">
+
+							<img src="images/td_jd_tc/maYun.jpeg" alt="Image" data-animate="fadeInLeft">
+
+						</div>
+
+						<div class="col_half nobottommargin col_last">
+
+							<div class="heading-block" style="padding-top: 40px;">
+
+								<h2>Jack Ma</h2>
+								<span></span>
+
+							</div>
+
+							<p></p>
+
+							<a href="#" class="button button-border button-large button-rounded topmargin-sm noleftmargin">View Bio</a>
+
+						</div>
+
+					</div>
+				</div>
+
+				<div class="section nobg notopmargin noborder bottommargin-sm">
+					<div class="container clearfix">
+
+						<div class="col_half nobottommargin">
+
+							<div class="heading-block" style="padding-top: 40px;">
+
+								<h2>Mark Zuckerberg</h2>
+								<span></span>
+
+							</div>
+
+							<p></p>
+
+							<a href="#" class="button button-border button-large button-rounded topmargin-sm noleftmargin">See Bio</a>
+
+						</div>
+
+						<div class="col_half bottommargin-sm center col_last">
+
+							<img src="images/td_jd_tc/mark-zuckerberg.jpg" alt="Image" data-animate="fadeInRight">
+
+						</div>
+
+					</div>
+				</div>
+              </div>
+				
+			  <div id="section-sponsors" class="container clearfix">	
 				<div class="section parallax noborder dark footer-stick topmargin-lg" style="background-image: url('images/restaurant/4.jpg'); padding: 80px 0;" data-stellar-background-ratio="0.3">
 					<div class="container clearfix">
 						<div class="col_three_fifth nobottommargin">
 
 							<div class="heading-block nobottomborder">
-								<h3>Reviews</h3>
+								<h3>Sponsors</h3>
 							</div>
 
 							<div class="fslider restaurant-reviews" data-arrows="false" data-animation="slide">
 								<div class="flexslider">
 									<div class="slider-wrap">
 										<div class="slide">
-											<p class="lead">"Globalization fairness non-partisan visionary, institutions Aga Khan resolve. Results public-private partnerships, international development elevate scalable."</p>
-											<span><strong>John Doe</strong>, New York Magazine</span><br>
+											<p class="lead">China Southern Airlines</p>
+											<span><strong></strong></span><br>
 											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star-half-full"></i>
 										</div>
 										<div class="slide">
-											<p class="lead">"Medicine; experience in the field climate change achieve voice public-private partnerships process our ambitions. Sanitation."</p>
-											<span><strong>Mary Jane</strong>, Chicago News</span><br>
+											<p class="lead">Alibaba</p>
+											<span><strong></strong></span><br>
 											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star-half-full"></i> <i class="icon-star-empty"></i>
 										</div>
 										<div class="slide">
-											<p class="lead">"Healthcare forward-thinking public service, social innovation making progress. Arab Spring social analysis, equality treatment, diversification."</p>
-											<span><strong>Luis Frank</strong>, France</span><br>
+											<p class="lead">Tencent</p>
+											<span><strong></strong></span><br>
 											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star-empty"></i>
 										</div>
 									</div>
@@ -767,10 +673,13 @@
 						</div>
 					</div>
 				</div>
+			  </div>	
 
 			</div>
 
 		</section><!-- #content end -->
+
+		<Br />
 
 		<!-- Footer
 		============================================= -->
@@ -781,15 +690,16 @@
 				<!-- Footer Widgets
 				============================================= -->
 				<div class="footer-widgets-wrap clearfix">
+				  <div id="section-contact" class="container clearfix">	
 
 					<div class="col_full">
 
 						<div class="heading-block center nobottommargin">
-							<h2>Need to make a Reservation? <strong>Call +165.4455.6254</strong></h2>
+							<h2>Want to be a sponsor? <strong>Call +212.123.4567</strong></h2>
 						</div>
 
 					</div>
-
+                  </div>
 				</div><!-- .footer-widgets-wrap end -->
 
 			</div>
@@ -801,7 +711,7 @@
 				<div class="container clearfix">
 
 					<div class="col_half">
-						Copyrights &copy; 2014 All Rights Reserved by Canvas Inc.<br>
+						Copyrights &copy; 2014 All Rights Reserved by td_jd_tc Inc.<br>
 						<div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>
 					</div>
 
