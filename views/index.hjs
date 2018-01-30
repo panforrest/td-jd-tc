@@ -419,8 +419,8 @@
 						<ul class="one-page-menu" data-easing="easeInOutExpo" data-speed="1500">
 							<li><a href="#"><div><i class="icon-home2"></i>Home</div></a></li>
 							<li><a href="#" data-href="#section-about"><div><i class="icon-file-alt"></i>About</div></a></li>
-							<li><a href="#" data-href="#section-gallery"><div><i class="icon-th"></i>Schedule</div></a></li>
-							<li><a href="#" data-href="#section-gallery"><div><i class="icon-users2"></i>Staff</div></a></li>
+							<li><a href="#" data-href="#section-schedule"><div><i class="icon-th"></i>Schedule</div></a></li>
+							<li><a href="#" data-href="#section-staff"><div><i class="icon-users2"></i>Staff</div></a></li>
 							<li><a href="#" data-href="#section-gallery"><div><i class="icon-picture"></i>Gallery</div></a></li>
 							<li><a href="#" data-href="#section-speakers"><div><i class="icon-star3"></i>Speakers</div></a></li>
 							<li><a href="#" data-href="#section-sponsors"><div><i class="icon-pencil2"></i>Sponsors</div></a></li>
@@ -516,9 +516,9 @@
 					</div>
 				</div>
 
-              <div id="section-gallery" class="container clearfix">
+              
                 <div class="container clearfix">
-
+                  <div id="section-schedule" class="container clearfix">
 					<div class="col_one_fourth nobottommargin">
 
 						<div class="fancy-title title-border">
@@ -537,7 +537,9 @@
 						</ul>
 
 					</div>
-
+				  </div>	
+                 
+                  <div id="section-staff" class="container clearfix">
 					<div class="col_one_fourth nobottommargin">
 
 						<div class="fancy-title title-border">
@@ -553,7 +555,9 @@
 						<a href="#" class="button button-rounded button-dark noleftmargin"><i class="icon-file-alt"></i> Browse the team</a>
 
 					</div>
+                  </div>
 
+                  <div id="section-gallery" class="container clearfix">
 					<div class="col_half nobottommargin col_last">
 
 						<div class="fancy-title title-border">
@@ -572,9 +576,9 @@
 						</div>
 
 					</div>
-
+                  </div>
 				</div>
-              </section>
+              
 
 			  <div id="section-speakers" class="container clearfix">
 				<div class="section nobg topmargin-lg nobottommargin">
