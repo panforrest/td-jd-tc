@@ -2,42 +2,35 @@
 <html dir="ltr" lang="en-US">
 <head>
 
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="author" content="SemiColonWeb" />
 
-    <!-- Stylesheets
-    ============================================= -->
+	<!-- Stylesheets
+	============================================= -->
 	<link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="/css/bootstrap.css" type="text/css" />
-    <link rel="stylesheet" href="/style.css" type="text/css" />
-    <link rel="stylesheet" href="/css/dark.css" type="text/css" />
-    <link rel="stylesheet" href="/css/font-icons.css" type="text/css" />
-    <link rel="stylesheet" href="/css/animate.css" type="text/css" />
-    <link rel="stylesheet" href="/css/magnific-popup.css" type="text/css" />
+	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="stylesheet" href="css/dark.css" type="text/css" />
+	<link rel="stylesheet" href="css/font-icons.css" type="text/css" />
+	<link rel="stylesheet" href="css/animate.css" type="text/css" />
+	<link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
 
-    <link rel="stylesheet" href="/css/responsive.css" type="text/css" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <!--[if lt IE 9]>
-    	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-    <![endif]-->
+	<link rel="stylesheet" href="css/responsive.css" type="text/css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!--[if lt IE 9]>
+		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<![endif]-->
 
-    <!-- External JavaScripts
-    ============================================= -->
-	<script type="text/javascript" src="js/jquery.js"></script>
-	<script type="text/javascript" src="js/plugins.js"></script>
+	<!-- SLIDER REVOLUTION 5.x CSS SETTINGS -->
+	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/settings.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/layers.css">
+	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/navigation.css">
 
-    <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
-    <script type="text/javascript" src="include/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-    <script type="text/javascript" src="include/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+	<!-- Document Title
+	============================================= -->
+	<title>td-jd-tc|New year Gala </title>
 
-    <!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
-    <link rel="stylesheet" type="text/css" href="include/rs-plugin/css/settings.css" media="screen" />
-
-    <!-- Document Title
-    ============================================= -->
-	<title>天大-吉大-天财|迎新春 三校联欢 </title>
-
-    	<style>
+	<style>
 
 		.revo-slider-emphasis-text {
 			font-size: 64px;
@@ -73,51 +66,11 @@
 
 <body class="stretched">
 
-    <!-- Document Wrapper
-    ============================================= -->
-    <div id="wrapper" class="clearfix">
+	<!-- Document Wrapper
+	============================================= -->
+	<div id="wrapper" class="clearfix">
 
-        <!-- Header
-        ============================================= -->
-        <header id="header" class="transparent-header full-header" data-sticky-class="not-dark">
-
-            <div id="header-wrap">
-
-                <div class="container clearfix">
-
-                    <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
-
-                    <!-- Logo
-                    ============================================= -->
-                    
-
-                    <!-- Primary Navigation
-                    ============================================= -->
-                    <nav id="primary-menu">
-
-                        <ul style="border:none">
-                            <li><a href="en_page"><div>English</div></a>
-                                
-                            </li>
-                            <li class="current"><a href="cn_page"><div>中文</div></a>
-                                
-                            </li>
-                            
-                            
-                            
-                            
-                            
-                        </ul>
-                        
-                    </nav><!-- #primary-menu end -->
-
-                </div>
-
-            </div>
-
-        </header><!-- #header end -->
-
-        <section id="slider" class="slider-parallax revslider-wrap full-screen clearfix">
+		<section id="slider" class="slider-parallax revslider-wrap full-screen clearfix">
 
 			<!--
 			#################################
@@ -449,15 +402,344 @@
 
 		</section>
 
+		<!-- Header
+		============================================= -->
+		<header id="header">
 
-        <!-- Content
-        ============================================= -->
-        
-        <!-- Footer
-        ============================================= -->
-        <footer id="footer" class="dark">
+			<div id="header-wrap">
 
-            <div id="copyrights">
+				<div class="container clearfix">
+
+					<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+					<!-- Primary Navigation
+					============================================= -->
+					<nav id="primary-menu" class="style-5">
+
+						<ul class="one-page-menu" data-easing="easeInOutExpo" data-speed="1500">
+							<li><a href="#"><div><i class="icon-home2"></i>Home</div></a></li>
+							<li><a href="#" data-href="#section-about"><div><i class="icon-file-alt"></i>About</div></a></li>
+							<li><a href="#" data-href="#section-schedule"><div><i class="icon-th"></i>Schedule</div></a></li>
+							<li><a href="#" data-href="#section-staff"><div><i class="icon-users2"></i>Staff</div></a></li>
+							<li><a href="#" data-href="#section-gallery"><div><i class="icon-picture"></i>Gallery</div></a></li>
+							<li><a href="#" data-href="#section-speakers"><div><i class="icon-star3"></i>Speakers</div></a></li>
+							<li><a href="#" data-href="#section-sponsors"><div><i class="icon-pencil2"></i>Sponsors</div></a></li>
+							<li><a href="#" data-href="#section-contact"><div><i class="icon-map-marker2"></i>Contact</div></a></li>
+							
+						</ul>
+
+					</nav><!-- #primary-menu end -->
+
+				</div>
+
+			</div>
+
+		</header><!-- #header end -->
+
+		<div class="clear"></div>
+
+		<!-- Content
+		============================================= -->
+		<section id="content">
+
+			<div class="content-wrap">
+
+				<section id="section-about" class="page-section">
+
+					<div class="container clearfix">
+
+						<div class="heading-block center">
+							<h2>Spring Festival Gala <br /><span> jointly presented by</span></h2>
+							<span>Tianjin University <br /> Jilin University <br /> Tianjin University of Finance & Economics</span>
+						</div>
+
+						<div class="col_one_third nobottommargin">
+							<div class="feature-box media-box">
+								<div class="fbox-media">
+									<img src="images/td_jd_tc/ChineseNewYear2018.PNG" alt="Why this event">
+								</div>
+								<div class="fbox-desc">
+									<h3>Why this event<span class="subtitle">Coming soon...</span></h3>
+									<p></p>
+								</div>
+							</div>
+						</div>
+
+						<div class="col_one_third nobottommargin">
+							<div class="feature-box media-box">
+								<div class="fbox-media">
+									<img src="images/td_jd_tc/mission.jpeg" alt="Our mission">
+								</div>
+								<div class="fbox-desc">
+									<h3>Our Mission<span class="subtitle">Coming soon...</span></h3>
+									<p></p>
+								</div>
+							</div>
+						</div>
+
+						<div class="col_one_third nobottommargin col_last">
+							<div class="feature-box media-box">
+								<div class="fbox-media">
+									<img src="images/td_jd_tc/yaboyilang.JPG" alt="Event Venue">
+								</div>
+								<div class="fbox-desc">
+									<h3>Event Venue<span class="subtitle">Coming soon...</span></h3>
+									<p></p>
+								</div>
+							</div>
+						</div>
+
+						<div class="clear"></div>
+
+					</div>
+
+					
+				</section>
+
+				<div class="section dark bottommargin-lg" style="height: 1000px;">
+					<div class="container center clearfix vertical-middle">
+
+						
+
+						<div class="slider-caption slider-caption-center">
+							<h2 data-animate="fadeInUp"></h2>
+							<p data-animate="fadeInUp" data-delay="200"></p>
+						</div>
+
+					</div>
+					<div class="video-wrap">
+						<video poster="images/td_jd_tc/nycChineseNewYear1.jpg" preload="auto" loop autoplay muted>
+							<source src='images/td_jd_tc/nycChineseNewYear1.jpg'  />
+							<source src='images/td_jd_tc/nycChineseNewYear1.jpg' />
+						</video>
+						<div class="video-overlay" style="background-color: rgba(0,0,0,0.35);"></div>
+					</div>
+				</div>
+
+              
+                <div class="container clearfix">
+                  <div id="section-schedule" class="container clearfix">
+					<div class="col_one_fourth nobottommargin">
+
+						<div class="fancy-title title-border">
+							<h4>Schedule</h4>
+						</div>
+
+						<p></p>
+
+						<ul class="iconlist nobottommargin">
+							<li><i class="icon-time color"></i> <strong>11am:</strong> Opening</li>
+							<li><i class="icon-time color"></i> <strong>12am:</strong> Keynote speech</li>
+							<li><i class="icon-time text-danger"></i> <strong>1pm:</strong> Lunch</li>
+							<li><i class="icon-time text-danger"></i> <strong>2pm:</strong> Sharing</li>
+							<li><i class="icon-time text-danger"></i> <strong>3pm:</strong> Games</li>
+							<li><i class="icon-time text-danger"></i> <strong>4pm:</strong> Closing</li>
+						</ul>
+
+					</div>
+				  </div>
+				  <br />
+				  <br />	
+                 
+                  <div id="section-staff" class="container clearfix">
+					<div class="col_one_fourth nobottommargin">
+
+						<div class="fancy-title title-border">
+							<h4>Our Staff</h4>
+						</div>
+
+						<ul>
+                            <li>颜伟民</li>
+                            <li>Marvin</li>
+                            <li>周嘉琦</li>
+                            <li>Zelun</li>
+                            <li>刘永奇</li>
+                            <li>姜昕卓</li>
+                            <li>李雪伦</li>
+                            <li>孙金钊</li>
+                            <li>李欣冉y</li>
+                            <li>leannisgood</li>
+                            <li>杜若森</li>
+                            <li>吴笑寒</li>
+                            <li>庞笑天</li>
+                            <li>Hao Wang</li>
+                            <li>April张</li>
+                            <li>姜天婵</li>
+                            <li>红门</li>
+                            <li>艾筱豆</li>
+                            <li>天财 章琪</li>
+                            <li>张宇</li>
+                            <li>白芳薇</li>
+                            
+						</ul>
+
+						<a href="#" class="button button-rounded button-dark noleftmargin"><i class="icon-file-alt"></i> Browse the team</a>
+
+					</div>
+                  </div>
+                  <br />
+                  <br />
+
+                  <div id="section-gallery" class="container clearfix">
+					<div class="col_half nobottommargin col_last">
+
+						<div class="fancy-title title-border">
+							<h4>Gallery</h4>
+						</div>
+
+						<div class="masonry-thumbs col-4 clearfix" data-lightbox="gallery" style="width: 100.3%;">
+							<a href="images/restaurant/3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/restaurant/thumb/gallery/3.jpg" alt="Gallery Thumb 1" data-animate="zoomIn"></a>
+							<a href="images/restaurant/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/restaurant/thumb/gallery/5.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
+							<a href="images/restaurant/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/restaurant/thumb/gallery/6.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/restaurant/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/restaurant/thumb/gallery/7.jpg" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="300"></a>
+							<a href="images/restaurant/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/restaurant/thumb/gallery/8.jpg" alt="Gallery Thumb 5" data-animate="zoomIn" data-delay="400"></a>
+							<a href="images/restaurant/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/restaurant/thumb/gallery/10.jpg" alt="Gallery Thumb 6" data-animate="zoomIn" data-delay="500"></a>
+							<a href="images/restaurant/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/restaurant/thumb/gallery/11.jpg" alt="Gallery Thumb 7" data-animate="zoomIn" data-delay="600"></a>
+							<a href="images/restaurant/12.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/restaurant/thumb/gallery/12.jpg" alt="Gallery Thumb 8" data-animate="zoomIn" data-delay="700"></a>
+						</div>
+
+					</div>
+                  </div>
+				</div>
+                <br />
+                <br />
+			  <div id="section-speakers" class="container clearfix">
+                    <div class="heading-block center">
+							<h2>Speakers <span>include</span></h2>
+							<span></span>
+						</div>
+                        
+
+				<div class="section nobg topmargin-lg nobottommargin">
+					<div class="container clearfix">
+
+						<div class="col_half nobottommargin center">
+
+							<img src="images/td_jd_tc/maYun.jpeg" alt="Image" data-animate="fadeInLeft">
+
+						</div>
+
+						<div class="col_half nobottommargin col_last">
+
+							<div class="heading-block" style="padding-top: 40px;">
+
+								<h2>Jack Ma</h2>
+								<span></span>
+
+							</div>
+
+							<p></p>
+
+							<a href="#" class="button button-border button-large button-rounded topmargin-sm noleftmargin">View Bio</a>
+
+						</div>
+
+					</div>
+				</div>
+
+				<div class="section nobg notopmargin noborder bottommargin-sm">
+					<div class="container clearfix">
+
+						<div class="col_half nobottommargin">
+
+							<div class="heading-block" style="padding-top: 40px;">
+
+								<h2>Mark Zuckerberg</h2>
+								<span></span>
+
+							</div>
+
+							<p></p>
+
+							<a href="#" class="button button-border button-large button-rounded topmargin-sm noleftmargin">See Bio</a>
+
+						</div>
+
+						<div class="col_half bottommargin-sm center col_last">
+
+							<img src="images/td_jd_tc/mark-zuckerberg.jpg" alt="Image" data-animate="fadeInRight">
+
+						</div>
+
+					</div>
+				</div>
+              </div>
+				
+			  <div id="section-sponsors" class="container clearfix">	
+				<div class="section parallax noborder dark footer-stick topmargin-lg" style="background-image: url('images/restaurant/4.jpg'); padding: 80px 0;" data-stellar-background-ratio="0.3">
+					<div class="container clearfix">
+						<div class="col_three_fifth nobottommargin">
+
+							<div class="heading-block nobottomborder">
+								<h3>Sponsors</h3>
+							</div>
+
+							<div class="fslider restaurant-reviews" data-arrows="false" data-animation="slide">
+								<div class="flexslider">
+									<div class="slider-wrap">
+										<div class="slide">
+											<p class="lead">China Southern Airlines</p>
+											<span><strong></strong></span><br>
+											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star-half-full"></i>
+										</div>
+										<div class="slide">
+											<p class="lead">Alibaba</p>
+											<span><strong></strong></span><br>
+											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star-half-full"></i> <i class="icon-star-empty"></i>
+										</div>
+										<div class="slide">
+											<p class="lead">Tencent</p>
+											<span><strong></strong></span><br>
+											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star-empty"></i>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<style>
+								.restaurant-reviews .flex-control-nav {
+									top: auto;
+									bottom: 25px;
+								}
+							</style>
+
+						</div>
+					</div>
+				</div>
+			  </div>	
+
+			</div>
+
+		</section><!-- #content end -->
+
+		<Br />
+
+		<!-- Footer
+		============================================= -->
+		<footer id="footer" class="dark">
+
+			<div class="container">
+
+				<!-- Footer Widgets
+				============================================= -->
+				<div class="footer-widgets-wrap clearfix">
+				  <div id="section-contact" class="container clearfix">	
+
+					<div class="col_full">
+
+						<div class="heading-block center nobottommargin">
+							<h2>Want to be a sponsor? <strong>Call +212.123.4567</strong></h2>
+						</div>
+
+					</div>
+                  </div>
+				</div><!-- .footer-widgets-wrap end -->
+
+			</div>
+
+			<!-- Copyrights
+			============================================= -->
+			<div id="copyrights">
 
 				<div class="container clearfix">
 
@@ -516,13 +798,14 @@
 				</div>
 
 			</div><!-- #copyrights end -->
-        </footer><!-- #footer end -->
 
-    </div><!-- #wrapper end -->
+		</footer><!-- #footer end -->
 
-    <!-- Go To Top
-    ============================================= -->
-    <div id="gotoTop" class="icon-angle-up"></div>
+	</div><!-- #wrapper end -->
+    
+	<!-- Go To Top
+	============================================= -->
+	<div id="gotoTop" class="icon-angle-up"></div>
 
 	<!-- External JavaScripts
 	============================================= -->
