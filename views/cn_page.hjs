@@ -2,35 +2,42 @@
 <html dir="ltr" lang="en-US">
 <head>
 
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="author" content="SemiColonWeb" />
 
-	<!-- Stylesheets
-	============================================= -->
+    <!-- Stylesheets
+    ============================================= -->
 	<link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
-	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
-	<link rel="stylesheet" href="style.css" type="text/css" />
-	<link rel="stylesheet" href="css/dark.css" type="text/css" />
-	<link rel="stylesheet" href="css/font-icons.css" type="text/css" />
-	<link rel="stylesheet" href="css/animate.css" type="text/css" />
-	<link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
+    <link rel="stylesheet" href="/css/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="/style.css" type="text/css" />
+    <link rel="stylesheet" href="/css/dark.css" type="text/css" />
+    <link rel="stylesheet" href="/css/font-icons.css" type="text/css" />
+    <link rel="stylesheet" href="/css/animate.css" type="text/css" />
+    <link rel="stylesheet" href="/css/magnific-popup.css" type="text/css" />
 
-	<link rel="stylesheet" href="css/responsive.css" type="text/css" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<!--[if lt IE 9]>
-		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-	<![endif]-->
+    <link rel="stylesheet" href="/css/responsive.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <!--[if lt IE 9]>
+    	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
 
-	<!-- SLIDER REVOLUTION 5.x CSS SETTINGS -->
-	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/settings.css" media="screen" />
-	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/layers.css">
-	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/navigation.css">
+    <!-- External JavaScripts
+    ============================================= -->
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/plugins.js"></script>
 
-	<!-- Document Title
-	============================================= -->
-	<title>天大-吉大-天财|迎新春 三校联欢 </title>
+    <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
+    <script type="text/javascript" src="include/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="include/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 
-	<style>
+    <!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
+    <link rel="stylesheet" type="text/css" href="include/rs-plugin/css/settings.css" media="screen" />
+
+    <!-- Document Title
+    ============================================= -->
+	<title>天大-吉大-天财 | 迎新春三校联欢 </title>
+
+    	<style>
 
 		.revo-slider-emphasis-text {
 			font-size: 64px;
@@ -66,11 +73,45 @@
 
 <body class="stretched">
 
-	<!-- Document Wrapper
-	============================================= -->
-	<div id="wrapper" class="clearfix">
+    <!-- Document Wrapper
+    ============================================= -->
+    <div id="wrapper" class="clearfix">
 
-		<section id="slider" class="slider-parallax revslider-wrap full-screen clearfix">
+        <!-- Header
+        ============================================= -->
+        <header id="header" class="transparent-header full-header" data-sticky-class="not-dark">
+
+            <div id="header-wrap">
+
+                <div class="container clearfix">
+
+                    <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+					<!-- Primary Navigation
+					============================================= -->
+					<nav id="primary-menu" class="style-5">
+
+						<ul class="one-page-menu" data-easing="easeInOutExpo" data-speed="1500" style="border:none">
+							<li><a href="/"><div><i class="icon-home2"></i>English</div></a></li>
+							<li><a href="#" data-href="#section-about"><div><i class="icon-file-alt"></i>关于</div></a></li>
+							<li><a href="#" data-href="#section-schedule"><div><i class="icon-th"></i>时间表</div></a></li>
+							<li><a href="#" data-href="#section-staff"><div><i class="icon-users2"></i>筹备组</div></a></li>
+							<li><a href="#" data-href="#section-gallery"><div><i class="icon-picture"></i>画廊</div></a></li>
+							<li><a href="#" data-href="#section-speakers"><div><i class="icon-star3"></i>演讲嘉宾</div></a></li>
+							<li><a href="#" data-href="#section-sponsors"><div><i class="icon-pencil2"></i>赞助商</div></a></li>
+							<li><a href="#" data-href="#section-contact"><div><i class="icon-map-marker2"></i>联络方式</div></a></li>
+							
+						</ul>
+
+					</nav><!-- #primary-menu end -->
+
+                </div>
+
+            </div>
+
+        </header><!-- #header end -->
+
+        <section id="slider" class="slider-parallax revslider-wrap full-screen clearfix">
 
 			<!--
 			#################################
@@ -112,7 +153,7 @@
 							data-elementdelay="0.01"
 							data-endelementdelay="0.1"
 							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;">Lunar new year Extravaganza <br> Feb. 18, 2018 <br> 265 W 37th St., NYC</div>
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;"></div>
 
 							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text tleft"
 							data-x="600"
@@ -176,7 +217,7 @@
 							data-elementdelay="0.01"
 							data-endelementdelay="0.1"
 							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;">Lunar new year Extravaganza <br> Feb. 18, 2018 <br> 265 W 37th St., NYC</div>
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;">迎新春三校联欢会 <br> 2018年2月18日 <br> 265 西 37 街，纽约</div>
 
 							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text tleft"
 							data-x="0"
@@ -240,7 +281,7 @@
 							data-elementdelay="0.01"
 							data-endelementdelay="0.1"
 							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;  color: #111">Co-host: Tianjin University<br /> 主办：天津大学</div>
+							data-endeasing="Power4.easeIn" style="z-index: 3;  color: #111"> 主办：天津大学</div>
 
 							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text"
 							data-x="245"
@@ -303,7 +344,7 @@
 							data-elementdelay="0.01"
 							data-endelementdelay="0.1"
 							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;  color: #f0f">Co-host: Jilin University </div>
+							data-endeasing="Power4.easeIn" style="z-index: 3;  color: #f0f">主办：吉林大学 </div>
 
 							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text"
 							data-x="245"
@@ -366,7 +407,7 @@
 							data-elementdelay="0.01"
 							data-endelementdelay="0.1"
 							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #00f; font-size: 60px;">Co-host: Tianjin U. of Finance & Economics <br />主办：天津财经大学</div>
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #f0f; font-size: 60px;">主办：天津财经大学</div>
 
 							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text"
 							data-x="245"
@@ -402,45 +443,8 @@
 
 		</section>
 
-		<!-- Header
-		============================================= -->
-		<header id="header">
 
-			<div id="header-wrap">
-
-				<div class="container clearfix">
-
-					<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
-
-					<!-- Primary Navigation
-					============================================= -->
-					<nav id="primary-menu" class="style-5">
-
-						<ul class="one-page-menu" data-easing="easeInOutExpo" data-speed="1500">
-							<li><a href="#"><div><i class="icon-home2"></i>Home</div></a></li>
-							<li><a href="#" data-href="#section-about"><div><i class="icon-file-alt"></i>About</div></a></li>
-							<li><a href="#" data-href="#section-schedule"><div><i class="icon-th"></i>Schedule</div></a></li>
-							<li><a href="#" data-href="#section-staff"><div><i class="icon-users2"></i>Staff</div></a></li>
-							<li><a href="#" data-href="#section-gallery"><div><i class="icon-picture"></i>Gallery</div></a></li>
-							<li><a href="#" data-href="#section-speakers"><div><i class="icon-star3"></i>Speakers</div></a></li>
-							<li><a href="#" data-href="#section-sponsors"><div><i class="icon-pencil2"></i>Sponsors</div></a></li>
-							<li><a href="#" data-href="#section-contact"><div><i class="icon-map-marker2"></i>Contact</div></a></li>
-							
-						</ul>
-
-					</nav><!-- #primary-menu end -->
-
-				</div>
-
-			</div>
-
-		</header><!-- #header end -->
-
-		<div class="clear"></div>
-
-		<!-- Content
-		============================================= -->
-		<section id="content">
+        <section id="content">
 
 			<div class="content-wrap">
 
@@ -449,8 +453,8 @@
 					<div class="container clearfix">
 
 						<div class="heading-block center">
-							<h2>Spring Festival Gala <br /><span> jointly presented by</span></h2>
-							<span>Tianjin University <br /> Jilin University <br /> Tianjin University of Finance & Economics</span>
+							<h2>春节联欢晚会<br /><span> 由以下学校共同主办</span></h2>
+							<span>天津大学 <br /> 吉林大学 <br /> 天津财经大学</span>
 						</div>
 
 						<div class="col_one_third nobottommargin">
@@ -459,8 +463,8 @@
 									<img src="images/td_jd_tc/ChineseNewYear2018.PNG" alt="Why this event">
 								</div>
 								<div class="fbox-desc">
-									<h3>Why this event<span class="subtitle">Coming soon...</span></h3>
-									<p></p>
+									<h3>为什么举办这个活动<span class="subtitle"></span></h3>
+									<p>校友相聚</p>
 								</div>
 							</div>
 						</div>
@@ -471,8 +475,8 @@
 									<img src="images/td_jd_tc/mission.jpeg" alt="Our mission">
 								</div>
 								<div class="fbox-desc">
-									<h3>Our Mission<span class="subtitle">Coming soon...</span></h3>
-									<p></p>
+									<h3>我们的使命<span class="subtitle"></span></h3>
+									<p>产品宣传，形象策划</p>
 								</div>
 							</div>
 						</div>
@@ -483,8 +487,8 @@
 									<img src="images/td_jd_tc/yaboyilang.JPG" alt="Event Venue">
 								</div>
 								<div class="fbox-desc">
-									<h3>Event Venue<span class="subtitle">Coming soon...</span></h3>
-									<p></p>
+									<h3>活动地点<span class="subtitle"></span></h3>
+									<p>265 西 37 街，纽约</p>
 								</div>
 							</div>
 						</div>
@@ -522,18 +526,18 @@
 					<div class="col_one_fourth nobottommargin">
 
 						<div class="fancy-title title-border">
-							<h4>Schedule</h4>
+							<h4>时间表</h4>
 						</div>
 
 						<p></p>
 
 						<ul class="iconlist nobottommargin">
-							<li><i class="icon-time color"></i> <strong>11am:</strong> Opening</li>
-							<li><i class="icon-time color"></i> <strong>12am:</strong> Keynote speech</li>
-							<li><i class="icon-time text-danger"></i> <strong>1pm:</strong> Lunch</li>
-							<li><i class="icon-time text-danger"></i> <strong>2pm:</strong> Sharing</li>
-							<li><i class="icon-time text-danger"></i> <strong>3pm:</strong> Games</li>
-							<li><i class="icon-time text-danger"></i> <strong>4pm:</strong> Closing</li>
+							<li><i class="icon-time color"></i> <strong>上午11点：</strong> 开幕</li>
+							<li><i class="icon-time color"></i> <strong>上午12点：</strong> 主题演讲</li>
+							<li><i class="icon-time text-danger"></i> <strong>下午1点：</strong> 午餐</li>
+							<li><i class="icon-time text-danger"></i> <strong>下午2点：</strong> 分享</li>
+							<li><i class="icon-time text-danger"></i> <strong>下午3点：</strong> 游戏</li>
+							<li><i class="icon-time text-danger"></i> <strong>下午4点：</strong> 闭幕</li>
 						</ul>
 
 					</div>
@@ -545,7 +549,7 @@
 					<div class="col_one_fourth nobottommargin">
 
 						<div class="fancy-title title-border">
-							<h4>Our Staff</h4>
+							<h4>筹备组</h4>
 						</div>
 
 						<ul>
@@ -573,7 +577,7 @@
                             
 						</ul>
 
-						<a href="#" class="button button-rounded button-dark noleftmargin"><i class="icon-file-alt"></i> Browse the team</a>
+						<a href="#" class="button button-rounded button-dark noleftmargin"><i class="icon-file-alt"></i> 浏览详情</a>
 
 					</div>
                   </div>
@@ -584,7 +588,7 @@
 					<div class="col_half nobottommargin col_last">
 
 						<div class="fancy-title title-border">
-							<h4>Gallery</h4>
+							<h4>画廊</h4>
 						</div>
 
 						<div class="masonry-thumbs col-4 clearfix" data-lightbox="gallery" style="width: 100.3%;">
@@ -605,7 +609,7 @@
                 <br />
 			  <div id="section-speakers" class="container clearfix">
                     <div class="heading-block center">
-							<h2>Speakers <span>include</span></h2>
+							<h2>演讲嘉宾 <span>包括</span></h2>
 							<span></span>
 						</div>
                         
@@ -623,14 +627,14 @@
 
 							<div class="heading-block" style="padding-top: 40px;">
 
-								<h2>Jack Ma</h2>
+								<h2>马云</h2>
 								<span></span>
 
 							</div>
 
 							<p></p>
 
-							<a href="#" class="button button-border button-large button-rounded topmargin-sm noleftmargin">View Bio</a>
+							<a href="#" class="button button-border button-large button-rounded topmargin-sm noleftmargin">查看简历</a>
 
 						</div>
 
@@ -644,14 +648,14 @@
 
 							<div class="heading-block" style="padding-top: 40px;">
 
-								<h2>Mark Zuckerberg</h2>
+								<h2>马克·扎克伯格</h2>
 								<span></span>
 
 							</div>
 
 							<p></p>
 
-							<a href="#" class="button button-border button-large button-rounded topmargin-sm noleftmargin">See Bio</a>
+							<a href="#" class="button button-border button-large button-rounded topmargin-sm noleftmargin">查看简历</a>
 
 						</div>
 
@@ -671,24 +675,24 @@
 						<div class="col_three_fifth nobottommargin">
 
 							<div class="heading-block nobottomborder">
-								<h3>Sponsors</h3>
+								<h3>赞助商</h3>
 							</div>
 
 							<div class="fslider restaurant-reviews" data-arrows="false" data-animation="slide">
 								<div class="flexslider">
 									<div class="slider-wrap">
 										<div class="slide">
-											<p class="lead">China Southern Airlines</p>
+											<p class="lead">中国南方航空</p>
 											<span><strong></strong></span><br>
 											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star-half-full"></i>
 										</div>
 										<div class="slide">
-											<p class="lead">Alibaba</p>
+											<p class="lead">阿里巴巴</p>
 											<span><strong></strong></span><br>
 											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star-half-full"></i> <i class="icon-star-empty"></i>
 										</div>
 										<div class="slide">
-											<p class="lead">Tencent</p>
+											<p class="lead">腾讯</p>
 											<span><strong></strong></span><br>
 											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star-empty"></i>
 										</div>
@@ -715,8 +719,14 @@
 		<Br />
 
 		<!-- Footer
-		============================================= -->
-		<footer id="footer" class="dark">
+		
+
+        <!-- Content
+        ============================================= -->
+        
+        <!-- Footer
+        ============================================= -->
+        <footer id="footer" class="dark">
 
 			<div class="container">
 
@@ -728,7 +738,7 @@
 					<div class="col_full">
 
 						<div class="heading-block center nobottommargin">
-							<h2>Want to be a sponsor? <strong>Call +212.123.4567</strong></h2>
+							<h2>请您大力赞助我们!<strong>请致电 +212.123.4567</strong></h2>
 						</div>
 
 					</div>
@@ -736,10 +746,7 @@
 				</div><!-- .footer-widgets-wrap end -->
 
 			</div>
-
-			<!-- Copyrights
-			============================================= -->
-			<div id="copyrights">
+            <div id="copyrights">
 
 				<div class="container clearfix">
 
@@ -798,14 +805,13 @@
 				</div>
 
 			</div><!-- #copyrights end -->
+        </footer><!-- #footer end -->
 
-		</footer><!-- #footer end -->
+    </div><!-- #wrapper end -->
 
-	</div><!-- #wrapper end -->
-
-	<!-- Go To Top
-	============================================= -->
-	<div id="gotoTop" class="icon-angle-up"></div>
+    <!-- Go To Top
+    ============================================= -->
+    <div id="gotoTop" class="icon-angle-up"></div>
 
 	<!-- External JavaScripts
 	============================================= -->
