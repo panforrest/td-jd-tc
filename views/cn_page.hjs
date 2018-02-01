@@ -546,40 +546,289 @@
 				  <br />	
                  
                   <div id="section-staff" class="container clearfix">
-					<div class="col_one_fourth nobottommargin">
+					
 
 						<div class="fancy-title title-border">
 							<h4>筹备组</h4>
 						</div>
 
-						<ul>
-                            <li>颜伟民</li>
-                            <li>Marvin</li>
-                            <li>周嘉琦</li>
-                            <li>Zelun</li>
-                            <li>刘永奇</li>
-                            <li>姜昕卓</li>
-                            <li>李雪伦</li>
-                            <li>孙金钊</li>
-                            <li>李欣冉y</li>
-                            <li>leannisgood</li>
-                            <li>杜若森</li>
-                            <li>吴笑寒</li>
-                            <li>庞笑天</li>
-                            <li>Hao Wang</li>
-                            <li>April张</li>
-                            <li>姜天婵</li>
-                            <li>红门</li>
-                            <li>艾筱豆</li>
-                            <li>天财 章琪</li>
-                            <li>张宇</li>
-                            <li>白芳薇</li>
-                            
-						</ul>
+						<div class="container clearfix center">
 
-						<a href="#" class="button button-rounded button-dark noleftmargin"><i class="icon-file-alt"></i> 浏览详情</a>
+						<!-- Portfolio Items
+						============================================= -->
+						<div id="portfolio" class="portfolio grid-container portfolio-nomargin clearfix">
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/颜为民天津大学.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">颜为民</a></h3>
+									<span><a href="#">天津大学</a>, <a href="#">校友会会长</a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/红门.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">红门</a></h3>
+									<span><a href="#">吉林大学</a>, <a href="#">校友会会长代表</a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/姜天婵－吉大.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">姜天婵</a></h3>
+									<span><a href="#">吉林大学</a>, <a href="#">校友会会长代表</a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/张宇吉林大学.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">张宇</a></h3>
+									<span><a href="#">吉林大学</a>, <a href="#">校友会会长代表</a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/四月晴天.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">April张</a></h3>
+									<span><a href="#">天津财经大学</a>, <a href="#">校友会会长</a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/艾筱豆.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">艾筱豆</a></h3>
+									<span><a href="#">天津财经大学</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/白芳薇.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">白芳薇</a></h3>
+									<span><a href="#"> - </a> <a href="#"> </a> </span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/杜若森天大.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">杜若森</a></h3>
+									<span><a href="#">天津大学</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/姜昕卓－天津大学.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">姜昕卓</a></h3>
+									<span><a href="#">天津大学</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/leannisgood.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">leannisgood</a></h3>
+									<span><a href="#"></a> -<a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/李欣冉.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">李欣冉</a></h3>
+									<span><a href="#">-</a><a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/李雪伦Sharon.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">李雪伦</a></h3>
+									<span><a href="#">-</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/刘永奇.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">刘永奇</a></h3>
+									<span><a href="#">-</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/孙金钊-天津大学.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">孙金钊</a></h3>
+									<span><a href="#">-</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/Hao_Wang.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">Hao Wang</a></h3>
+									<span><a href="#">-</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/吴笑寒天大ShawnWu.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">吴笑寒</a></h3>
+									<span><a href="#">天大</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/Zelun.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">Zelun</a></h3>
+									<span><a href="#">-</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/天财章琪.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">章琪  </a></h3>
+									<span><a href="#">天财</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/周嘉琦.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">周嘉琦</a></h3>
+									<span><a href="#">-</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/幽思悠然.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">幽思悠然</a></h3>
+									<span><a href="#">-</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/Marvin.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">Marvin</a></h3>
+									<span><a href="#">-</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/庞笑天－天大.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">庞笑天</a></h3>
+									<span><a href="#">天津大学</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/portrait1.png" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">阿强</a></h3>
+									<span><a href="#">天津财经大学</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src="images/td_jd_tc/April.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">四月晴天</a></h3>
+									<span><a href="#">天津财经大学</a> <a href="#"></a></span>
+								</div>
+							</article>
+							
+							
+							
+                        </div>
+                    
+						
 
-					</div>
+					
                   </div>
                   <br />
                   <br />
@@ -619,7 +868,7 @@
 
 						<div class="col_half nobottommargin center">
 
-							<img src="images/td_jd_tc/maYun.jpeg" alt="Image" data-animate="fadeInLeft">
+							<img src="images/td_jd_tc/tj_university.PNG" alt="Image" data-animate="fadeInLeft">
 
 						</div>
 
@@ -627,14 +876,14 @@
 
 							<div class="heading-block" style="padding-top: 40px;">
 
-								<h2>马云</h2>
-								<span></span>
+								<h2>石山铭博士</h2>
+								<span>天津大学校友 <br />野村证劵 全球股本市场自营交易部，董事总经理</span>
 
 							</div>
 
-							<p></p>
+							<p>拥有超过二十年全球股市量化交易经验。在数家大型国际银行管理自营量化交易团队以及十亿美元规模的资产。涉及量化研究，机器学习（AI），资产管理，风险控制等多个领域。主要交易策略包括：统计套利，多空策略，指数套利，以及期货管理等。1990年代在天大和科罗拉多大学读博士的研究方向即为神经网络原理与预测和人工智能系统。</p>
 
-							<a href="#" class="button button-border button-large button-rounded topmargin-sm noleftmargin">查看简历</a>
+							
 
 						</div>
 
@@ -648,20 +897,20 @@
 
 							<div class="heading-block" style="padding-top: 40px;">
 
-								<h2>马克·扎克伯格</h2>
-								<span></span>
+								<h2>田永驰博士</h2>
+								<span>吉林大学杰出校友，国家“千人计划”专家。</span>
 
 							</div>
 
-							<p></p>
+							<p>目前，他担任杭州聚力氢能科技有限公司总经理，主要负责制定研发策略、规划及指导团队从事客户导向的荧光材料产品开发。他先后成功地将两个系列的荧光材料产品推向全球市场，创造年产值两千万美元。此前，他创立了莱凯材料公司（LMI），并于2012年被陶氏化学（Dow Chemical）以高溢价收购。</p>
 
-							<a href="#" class="button button-border button-large button-rounded topmargin-sm noleftmargin">查看简历</a>
+							
 
 						</div>
 
 						<div class="col_half bottommargin-sm center col_last">
 
-							<img src="images/td_jd_tc/mark-zuckerberg.jpg" alt="Image" data-animate="fadeInRight">
+							<img src="images/td_jd_tc/jd.jpg" alt="Image" data-animate="fadeInRight">
 
 						</div>
 
