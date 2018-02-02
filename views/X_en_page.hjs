@@ -2,35 +2,42 @@
 <html dir="ltr" lang="en-US">
 <head>
 
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="author" content="SemiColonWeb" />
 
-	<!-- Stylesheets
-	============================================= -->
+    <!-- Stylesheets
+    ============================================= -->
 	<link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
-	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
-	<link rel="stylesheet" href="style.css" type="text/css" />
-	<link rel="stylesheet" href="css/dark.css" type="text/css" />
-	<link rel="stylesheet" href="css/font-icons.css" type="text/css" />
-	<link rel="stylesheet" href="css/animate.css" type="text/css" />
-	<link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
+    <link rel="stylesheet" href="/css/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="/style.css" type="text/css" />
+    <link rel="stylesheet" href="/css/dark.css" type="text/css" />
+    <link rel="stylesheet" href="/css/font-icons.css" type="text/css" />
+    <link rel="stylesheet" href="/css/animate.css" type="text/css" />
+    <link rel="stylesheet" href="/css/magnific-popup.css" type="text/css" />
 
-	<link rel="stylesheet" href="css/responsive.css" type="text/css" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<!--[if lt IE 9]>
-		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-	<![endif]-->
+    <link rel="stylesheet" href="/css/responsive.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <!--[if lt IE 9]>
+    	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
 
-	<!-- SLIDER REVOLUTION 5.x CSS SETTINGS -->
-	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/settings.css" media="screen" />
-	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/layers.css">
-	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/navigation.css">
+    <!-- External JavaScripts
+    ============================================= -->
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/plugins.js"></script>
 
-	<!-- Document Title
-	============================================= -->
-	<title>td-jd-tc|New year Gala </title>
+    <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
+    <script type="text/javascript" src="include/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="include/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 
-	<style>
+    <!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
+    <link rel="stylesheet" type="text/css" href="include/rs-plugin/css/settings.css" media="screen" />
+
+    <!-- Document Title
+    ============================================= -->
+	<title>天大-吉大-天财|迎新春 三校联欢 </title>
+
+    	<style>
 
 		.revo-slider-emphasis-text {
 			font-size: 64px;
@@ -66,11 +73,45 @@
 
 <body class="stretched">
 
-	<!-- Document Wrapper
-	============================================= -->
-	<div id="wrapper" class="clearfix">
+    <!-- Document Wrapper
+    ============================================= -->
+    <div id="wrapper" class="clearfix">
 
-		<section id="slider" class="slider-parallax revslider-wrap full-screen clearfix">
+        <!-- Header
+        ============================================= -->
+        <header id="header" class="transparent-header full-header" data-sticky-class="not-dark">
+
+            <div id="header-wrap">
+
+                <div class="container clearfix">
+
+                    <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+					<!-- Primary Navigation
+					============================================= -->
+					<nav id="primary-menu" class="style-5">
+
+						<ul class="one-page-menu" data-easing="easeInOutExpo" data-speed="1500" style="border:none">
+							<li><a href="/cn_page"><div><i class="icon-home2"></i>中文</div></a></li>
+							<li><a href="#" data-href="#section-about"><div><i class="icon-file-alt"></i>About</div></a></li>
+							<li><a href="#" data-href="#section-schedule"><div><i class="icon-th"></i>Schedule</div></a></li>
+							<li><a href="#" data-href="#section-staff"><div><i class="icon-users2"></i>Staff</div></a></li>
+							<li><a href="#" data-href="#section-gallery"><div><i class="icon-picture"></i>Gallery</div></a></li>
+							<li><a href="#" data-href="#section-speakers"><div><i class="icon-star3"></i>Speakers</div></a></li>
+							<li><a href="#" data-href="#section-sponsors"><div><i class="icon-pencil2"></i>Sponsors</div></a></li>
+							<li><a href="#" data-href="#section-contact"><div><i class="icon-map-marker2"></i>Contact</div></a></li>
+							
+						</ul>
+
+					</nav><!-- #primary-menu end -->
+
+                </div>
+
+            </div>
+
+        </header><!-- #header end -->
+
+        <section id="slider" class="slider-parallax revslider-wrap full-screen clearfix">
 
 			<!--
 			#################################
@@ -112,7 +153,7 @@
 							data-elementdelay="0.01"
 							data-endelementdelay="0.1"
 							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;">Lunar new year Extravaganza <br> Feb. 18, 2018 <br> 265 W 37th St., NYC</div>
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;"></div>
 
 							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text tleft"
 							data-x="600"
@@ -176,7 +217,7 @@
 							data-elementdelay="0.01"
 							data-endelementdelay="0.1"
 							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;">Lunar new year Extravaganza <br> Feb. 18, 2018 <br> 265 W 37th St., NYC</div>
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;">Lunar new year Extravaganza <br> Feb. 18, 2018 <br> Artosino <br /> 265 W 37th St., NYC </div>
 
 							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text tleft"
 							data-x="0"
@@ -240,7 +281,7 @@
 							data-elementdelay="0.01"
 							data-endelementdelay="0.1"
 							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;  color: #111">Co-host: Tianjin University<br /> 主办：天津大学</div>
+							data-endeasing="Power4.easeIn" style="z-index: 3;  color: #111">Co-host: Tianjin University</div>
 
 							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text"
 							data-x="245"
@@ -366,7 +407,7 @@
 							data-elementdelay="0.01"
 							data-endelementdelay="0.1"
 							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #00f; font-size: 60px;">Co-host: Tianjin U. of Finance & Economics <br />主办：天津财经大学</div>
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #f0f; font-size: 60px;">Co-host: Tianjin U. of Finance & Economics </div>
 
 							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text"
 							data-x="245"
@@ -402,45 +443,8 @@
 
 		</section>
 
-		<!-- Header
-		============================================= -->
-		<header id="header">
 
-			<div id="header-wrap">
-
-				<div class="container clearfix">
-
-					<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
-
-					<!-- Primary Navigation
-					============================================= -->
-					<nav id="primary-menu" class="style-5">
-
-						<ul class="one-page-menu" data-easing="easeInOutExpo" data-speed="1500">
-							<li><a href="#"><div><i class="icon-home2"></i>Home</div></a></li>
-							<li><a href="#" data-href="#section-about"><div><i class="icon-file-alt"></i>About</div></a></li>
-							<li><a href="#" data-href="#section-schedule"><div><i class="icon-th"></i>Schedule</div></a></li>
-							<li><a href="#" data-href="#section-staff"><div><i class="icon-users2"></i>Staff</div></a></li>
-							<li><a href="#" data-href="#section-gallery"><div><i class="icon-picture"></i>Gallery</div></a></li>
-							<li><a href="#" data-href="#section-speakers"><div><i class="icon-star3"></i>Speakers</div></a></li>
-							<li><a href="#" data-href="#section-sponsors"><div><i class="icon-pencil2"></i>Sponsors</div></a></li>
-							<li><a href="#" data-href="#section-contact"><div><i class="icon-map-marker2"></i>Contact</div></a></li>
-							
-						</ul>
-
-					</nav><!-- #primary-menu end -->
-
-				</div>
-
-			</div>
-
-		</header><!-- #header end -->
-
-		<div class="clear"></div>
-
-		<!-- Content
-		============================================= -->
-		<section id="content">
+        <section id="content">
 
 			<div class="content-wrap">
 
@@ -459,8 +463,8 @@
 									<img src="images/td_jd_tc/ChineseNewYear2018.PNG" alt="Why this event">
 								</div>
 								<div class="fbox-desc">
-									<h3>Why this event<span class="subtitle">Coming soon...</span></h3>
-									<p></p>
+									<h3>Why this event<span class="subtitle"></span></h3>
+									<p>Alumni reunion</p>
 								</div>
 							</div>
 						</div>
@@ -471,8 +475,8 @@
 									<img src="images/td_jd_tc/mission.jpeg" alt="Our mission">
 								</div>
 								<div class="fbox-desc">
-									<h3>Our Mission<span class="subtitle">Coming soon...</span></h3>
-									<p></p>
+									<h3>Our Mission<span class="subtitle"></span></h3>
+									<p>Product promotion, and branding campaign</p>
 								</div>
 							</div>
 						</div>
@@ -483,8 +487,8 @@
 									<img src="images/td_jd_tc/yaboyilang.JPG" alt="Event Venue">
 								</div>
 								<div class="fbox-desc">
-									<h3>Event Venue<span class="subtitle">Coming soon...</span></h3>
-									<p></p>
+									<h3>Venue provided by: Artosino<span class="subtitle"></span></h3>
+									<p>265 W 37th St., NYC</p>
 								</div>
 							</div>
 						</div>
@@ -542,40 +546,289 @@
 				  <br />	
                  
                   <div id="section-staff" class="container clearfix">
-					<div class="col_one_fourth nobottommargin">
+					
 
 						<div class="fancy-title title-border">
-							<h4>Our Staff</h4>
+							<h4>筹备组</h4>
 						</div>
 
-						<ul>
-                            <li>颜伟民</li>
-                            <li>Marvin</li>
-                            <li>周嘉琦</li>
-                            <li>Zelun</li>
-                            <li>刘永奇</li>
-                            <li>姜昕卓</li>
-                            <li>李雪伦</li>
-                            <li>孙金钊</li>
-                            <li>李欣冉y</li>
-                            <li>leannisgood</li>
-                            <li>杜若森</li>
-                            <li>吴笑寒</li>
-                            <li>庞笑天</li>
-                            <li>Hao Wang</li>
-                            <li>April张</li>
-                            <li>姜天婵</li>
-                            <li>红门</li>
-                            <li>艾筱豆</li>
-                            <li>天财 章琪</li>
-                            <li>张宇</li>
-                            <li>白芳薇</li>
-                            
-						</ul>
+						<div class="container clearfix center">
 
-						<a href="#" class="button button-rounded button-dark noleftmargin"><i class="icon-file-alt"></i> Browse the team</a>
+						<!-- Portfolio Items
+						============================================= -->
+						<div id="portfolio" class="portfolio grid-container portfolio-nomargin clearfix">
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/颜为民天津大学.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">颜为民</a></h3>
+									<span><a href="#">天津大学</a>, <a href="#">校友会会长</a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/红门.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">红门</a></h3>
+									<span><a href="#">吉林大学</a>, <a href="#">校友会会长代表</a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/姜天婵－吉大.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">姜天婵</a></h3>
+									<span><a href="#">吉林大学</a>, <a href="#">校友会会长代表</a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/张宇吉林大学.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">张宇</a></h3>
+									<span><a href="#">吉林大学</a>, <a href="#">校友会会长代表</a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/四月晴天.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">April张</a></h3>
+									<span><a href="#">天津财经大学</a>, <a href="#">校友会会长</a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/艾筱豆.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">艾筱豆</a></h3>
+									<span><a href="#">天津财经大学</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/白芳薇.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">白芳薇</a></h3>
+									<span><a href="#"> - </a> <a href="#"> </a> </span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/杜若森天大.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">杜若森</a></h3>
+									<span><a href="#">天津大学</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/姜昕卓－天津大学.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">姜昕卓</a></h3>
+									<span><a href="#">天津大学</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/leannisgood.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">leannisgood</a></h3>
+									<span><a href="#"></a> -<a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/李欣冉.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">李欣冉</a></h3>
+									<span><a href="#">-</a><a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/李雪伦Sharon.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">李雪伦</a></h3>
+									<span><a href="#">-</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/刘永奇.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">刘永奇</a></h3>
+									<span><a href="#">-</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/孙金钊-天津大学.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">孙金钊</a></h3>
+									<span><a href="#">-</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/Hao_Wang.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">Hao Wang</a></h3>
+									<span><a href="#">-</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/吴笑寒天大ShawnWu.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">吴笑寒</a></h3>
+									<span><a href="#">天大</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/Zelun.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">Zelun</a></h3>
+									<span><a href="#">-</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/天财章琪.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">章琪  </a></h3>
+									<span><a href="#">天财</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/周嘉琦.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">周嘉琦</a></h3>
+									<span><a href="#">-</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/幽思悠然.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">幽思悠然</a></h3>
+									<span><a href="#">-</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/Marvin.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">Marvin</a></h3>
+									<span><a href="#">-</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/庞笑天－天大.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">庞笑天</a></h3>
+									<span><a href="#">天津大学</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/portrait1.png" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">阿强</a></h3>
+									<span><a href="#">天津财经大学</a> <a href="#"></a></span>
+								</div>
+							</article>
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="#">
+										<img src="images/td_jd_tc/April.jpg" alt="Open Imagination">
+									</a>
+								</div>
+								<div class="portfolio-desc">
+									<h3><a href="#">四月晴天</a></h3>
+									<span><a href="#">天津财经大学</a> <a href="#"></a></span>
+								</div>
+							</article>
+							
+							
+							
+                        </div>
+                    
+						
 
-					</div>
+					
                   </div>
                   <br />
                   <br />
@@ -615,7 +868,7 @@
 
 						<div class="col_half nobottommargin center">
 
-							<img src="images/td_jd_tc/maYun.jpeg" alt="Image" data-animate="fadeInLeft">
+							<img src="images/td_jd_tc/tj_university.PNG" alt="Image" data-animate="fadeInLeft">
 
 						</div>
 
@@ -623,14 +876,14 @@
 
 							<div class="heading-block" style="padding-top: 40px;">
 
-								<h2>Jack Ma</h2>
-								<span></span>
+								<h2>石山铭博士</h2>
+								<span>天津大学校友 <br />野村证劵 全球股本市场自营交易部，董事总经理</span>
 
 							</div>
 
-							<p></p>
+							<p>拥有超过二十年全球股市量化交易经验。在数家大型国际银行管理自营量化交易团队以及十亿美元规模的资产。涉及量化研究，机器学习（AI），资产管理，风险控制等多个领域。主要交易策略包括：统计套利，多空策略，指数套利，以及期货管理等。1990年代在天大和科罗拉多大学读博士的研究方向即为神经网络原理与预测和人工智能系统。</p>
 
-							<a href="#" class="button button-border button-large button-rounded topmargin-sm noleftmargin">View Bio</a>
+							
 
 						</div>
 
@@ -644,20 +897,20 @@
 
 							<div class="heading-block" style="padding-top: 40px;">
 
-								<h2>Mark Zuckerberg</h2>
-								<span></span>
+								<h2>田永驰博士</h2>
+								<span>吉林大学杰出校友，国家“千人计划”专家。</span>
 
 							</div>
 
-							<p></p>
+							<p>目前，他担任杭州聚力氢能科技有限公司总经理，主要负责制定研发策略、规划及指导团队从事客户导向的荧光材料产品开发。他先后成功地将两个系列的荧光材料产品推向全球市场，创造年产值两千万美元。此前，他创立了莱凯材料公司（LMI），并于2012年被陶氏化学（Dow Chemical）以高溢价收购。</p>
 
-							<a href="#" class="button button-border button-large button-rounded topmargin-sm noleftmargin">See Bio</a>
+							
 
 						</div>
 
 						<div class="col_half bottommargin-sm center col_last">
 
-							<img src="images/td_jd_tc/mark-zuckerberg.jpg" alt="Image" data-animate="fadeInRight">
+							<img src="images/td_jd_tc/jd.jpg" alt="Image" data-animate="fadeInRight">
 
 						</div>
 
@@ -678,19 +931,19 @@
 								<div class="flexslider">
 									<div class="slider-wrap">
 										<div class="slide">
+											<p class="lead">LineMoney</p>
+											<span><strong></strong></span><br>
+											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i>
+										</div>
+										<div class="slide">
 											<p class="lead">China Southern Airlines</p>
 											<span><strong></strong></span><br>
-											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star-half-full"></i>
+											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> 
 										</div>
 										<div class="slide">
-											<p class="lead">Alibaba</p>
+											<p class="lead">留香72</p>
 											<span><strong></strong></span><br>
-											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star-half-full"></i> <i class="icon-star-empty"></i>
-										</div>
-										<div class="slide">
-											<p class="lead">Tencent</p>
-											<span><strong></strong></span><br>
-											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star-empty"></i>
+											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> 
 										</div>
 									</div>
 								</div>
@@ -715,8 +968,14 @@
 		<Br />
 
 		<!-- Footer
-		============================================= -->
-		<footer id="footer" class="dark">
+		
+
+        <!-- Content
+        ============================================= -->
+        
+        <!-- Footer
+        ============================================= -->
+        <footer id="footer" class="dark">
 
 			<div class="container">
 
@@ -736,10 +995,7 @@
 				</div><!-- .footer-widgets-wrap end -->
 
 			</div>
-
-			<!-- Copyrights
-			============================================= -->
-			<div id="copyrights">
+            <div id="copyrights">
 
 				<div class="container clearfix">
 
@@ -798,14 +1054,13 @@
 				</div>
 
 			</div><!-- #copyrights end -->
+        </footer><!-- #footer end -->
 
-		</footer><!-- #footer end -->
+    </div><!-- #wrapper end -->
 
-	</div><!-- #wrapper end -->
-    
-	<!-- Go To Top
-	============================================= -->
-	<div id="gotoTop" class="icon-angle-up"></div>
+    <!-- Go To Top
+    ============================================= -->
+    <div id="gotoTop" class="icon-angle-up"></div>
 
 	<!-- External JavaScripts
 	============================================= -->
