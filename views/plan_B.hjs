@@ -96,10 +96,11 @@
 							<li><a href="#" data-href="#section-about"><div><i class="icon-file-alt"></i>关于</div></a></li>
 							<li><a href="#" data-href="#section-schedule"><div><i class="icon-th"></i>时间表</div></a></li>
 							<li><a href="#" data-href="#section-staff"><div><i class="icon-users2"></i>筹备组</div></a></li>
+							<li><a href="#" data-href="#section-facts"><div><i class="icon-folder-open"></i>概况</div></a></li>
 							<li><a href="#" data-href="#section-gallery"><div><i class="icon-picture"></i>画廊</div></a></li>
 							<li><a href="#" data-href="#section-speakers"><div><i class="icon-star3"></i>分享嘉宾</div></a></li>
 							<li><a href="#" data-href="#section-sponsors"><div><i class="icon-pencil2"></i>赞助商</div></a></li>
-							<li><a href="https://www.eventbrite.com/e/42486678800" target="_blank" ><div><i class="icon-thumbs-up"></i>参加</div></a></li>
+							<li><a href="https://www.eventbrite.com/e/42486678800" target="_blank" ><div><i class="icon-thumbs-up"></i>我想参加</div></a></li>
 							<li><a href="#" data-href="#section-contact"><div><i class="icon-map-marker2"></i>联络方式</div></a></li>
 							
 						</ul>
@@ -716,23 +717,24 @@
 
 						<div class="fancy-title title-border">
 							<h4>时间表</h4>
-						</div>
+						</div><br />
 
 						<p></p>
 
 						<ul class="iconlist nobottommargin">
-							<li><i class="icon-time color"></i> <strong>上午11点：</strong> 领事馆的科技参赞，教育参赞，国家外专局总代表，贸促会总代表等特邀嘉宾到场致辞, 校方官方视频和贺信朗读</li>
-							<li><i class="icon-time color"></i> <strong>上午12点：</strong> 成功校友分享会(主题:人工智能，区块链技术发展，中美创业体会)</li>
-							<li><i class="icon-time text-danger"></i> <strong>下午1点：</strong> 文艺表演:舞蹈，萨克斯，古筝，小乐队合奏，相声等，更多节目在增加中</li>
-							<li><i class="icon-time text-danger"></i> <strong>下午2点：</strong> 传统新春活动:包饺子，猜灯谜，书法、对春联、手工剪窗花、扎灯笼、国画、做糖人、肖 像剪纸、捏面人</li>
-							<li><i class="icon-time text-danger"></i> <strong>下午3点：</strong> 游戏:踩气球抢凳子等游戏</li>
-							<li><i class="icon-time text-danger"></i> <strong>下午4点：</strong> 抽奖:冲顶大会礼物大派送</li>
+							<li><i class="icon-time color"></i> <strong>上午11点：</strong> 领事馆的科技参赞，教育参赞，国家外专局总代表，贸促会总代表等特邀嘉宾到场致辞, 校方官方视频和贺信朗读</li><br /><br />
+							<li><i class="icon-time color"></i> <strong>上午12点：</strong> 成功校友分享会(主题:人工智能，区块链技术发展，中美创业体会)</li><br /><br />
+							<li><i class="icon-time text-danger"></i> <strong>下午1点：</strong> 文艺表演:舞蹈，萨克斯，古筝，小乐队合奏，相声等，更多节目在增加中</li><br /><br />
+							<li><i class="icon-time text-danger"></i> <strong>下午2点：</strong> 传统新春活动:包饺子，猜灯谜，书法、对春联、手工剪窗花、扎灯笼、国画、做糖人、肖 像剪纸、捏面人</li><br /><br />
+							<li><i class="icon-time text-danger"></i> <strong>下午3点：</strong> 游戏:踩气球抢凳子等游戏</li><br /><br />
+							<li><i class="icon-time text-danger"></i> <strong>下午4点：</strong> 抽奖:冲顶大会礼物大派送</li><br /><br />
 						</ul>
 
 					
 				  </div>
 				  <br />
 				  <br />	
+
                  
                   <div id="section-staff" class="container clearfix">
 					
@@ -741,284 +743,142 @@
 							<h4>筹备组</h4>
 						</div>
 
-						<div class="container clearfix center">
-
-						<!-- Portfolio Items
-						============================================= -->
-						<div id="portfolio" class="portfolio grid-container portfolio-nomargin clearfix">
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/颜为民天津大学.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">颜为民</a></h3>
-									<span><a href="#">天津大学</a>, <a href="#">校友会会长</a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/红门.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">红门</a></h3>
-									<span><a href="#">吉林大学</a>, <a href="#">校友会会长代表</a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/姜天婵－吉大.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">姜天婵</a></h3>
-									<span><a href="#">吉林大学</a>, <a href="#">校友会会长代表</a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/张宇吉林大学.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">张宇</a></h3>
-									<span><a href="#">吉林大学</a>, <a href="#">校友会会长代表</a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/四月晴天.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">April张</a></h3>
-									<span><a href="#">天津财经大学</a>, <a href="#">校友会会长</a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/艾筱豆.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">艾筱豆</a></h3>
-									<span><a href="#">天津财经大学</a> <a href="#"></a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/白芳薇.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">白芳薇</a></h3>
-									<span><a href="#"> - </a> <a href="#"> </a> </span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/杜若森天大.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">杜若森</a></h3>
-									<span><a href="#">天津大学</a> <a href="#"></a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/姜昕卓－天津大学.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">姜昕卓</a></h3>
-									<span><a href="#">天津大学</a> <a href="#"></a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/leannisgood.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">leannisgood</a></h3>
-									<span><a href="#"></a> -<a href="#"></a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/李欣冉.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">李欣冉</a></h3>
-									<span><a href="#">-</a><a href="#"></a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/李雪伦Sharon.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">李雪伦</a></h3>
-									<span><a href="#">-</a> <a href="#"></a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/刘永奇.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">刘永奇</a></h3>
-									<span><a href="#">-</a> <a href="#"></a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/孙金钊-天津大学.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">孙金钊</a></h3>
-									<span><a href="#">-</a> <a href="#"></a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/Hao_Wang.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">Hao Wang</a></h3>
-									<span><a href="#">-</a> <a href="#"></a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/吴笑寒天大ShawnWu.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">吴笑寒</a></h3>
-									<span><a href="#">天大</a> <a href="#"></a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/Zelun.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">Zelun</a></h3>
-									<span><a href="#">-</a> <a href="#"></a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/天财章琪.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">章琪  </a></h3>
-									<span><a href="#">天财</a> <a href="#"></a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/周嘉琦.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">周嘉琦</a></h3>
-									<span><a href="#">-</a> <a href="#"></a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/幽思悠然.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">幽思悠然</a></h3>
-									<span><a href="#">-</a> <a href="#"></a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/Marvin.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">Marvin</a></h3>
-									<span><a href="#">-</a> <a href="#"></a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/庞笑天－天大.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">庞笑天</a></h3>
-									<span><a href="#">天津大学</a> <a href="#"></a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/portrait1.png" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">阿强</a></h3>
-									<span><a href="#">天津财经大学</a> <a href="#"></a></span>
-								</div>
-							</article>
-							<article class="portfolio-item pf-media pf-icons">
-								<div class="portfolio-image">
-									<a href="#">
-										<img src="images/td_jd_tc/April.jpg" alt="Open Imagination">
-									</a>
-								</div>
-								<div class="portfolio-desc">
-									<h3><a href="#">四月晴天</a></h3>
-									<span><a href="#">天津财经大学</a> <a href="#"></a></span>
-								</div>
-							</article>
+						<div class="masonry-thumbs col-6 clearfix" data-lightbox="gallery" style="width: 100.3%;">
 							
+							<a href="images/td_jd_tc/颜为民天津大学.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/颜为民天津大学.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
+							<a href="images/td_jd_tc/红门.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/红门.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/姜天婵－吉大.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/姜天婵－吉大.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/张宇吉林大学.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/张宇吉林大学.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/April.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/April.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/艾筱豆.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/艾筱豆.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/白芳薇.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/白芳薇.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/杜若森天大.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/杜若森天大.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
+							<a href="images/td_jd_tc/姜昕卓－天津大学.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/姜昕卓－天津大学.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/leannisgood.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/leannisgood.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							
-							
-                        </div>
-                    
-						
+							<a href="images/td_jd_tc/李欣冉.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/李欣冉.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/李雪伦Sharon.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/李雪伦Sharon.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/刘永奇.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/刘永奇.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/孙金钊-天津大学.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/孙金钊-天津大学.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
+							<a href="images/td_jd_tc/Hao_Wang.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/Hao_Wang.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/吴笑寒天大ShawnWu.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/吴笑寒天大ShawnWu.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/Zelun.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/Zelun.jpg" alt="Gallery Thumb 1" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/天财章琪.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/天财章琪.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/周嘉琦.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/周嘉琦.jpg" alt="Open Imagination" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/幽思悠然.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/幽思悠然.jpg" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/portrait1.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/portrait1.png" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
+						</div>
 
 					
                   </div>
+                  <br />
+                  <br />
+                  <br />
+                  <br />
+                  <br />
+                  <br />
+                  <br />
+
+
+                  <div id="section-facts" class="container clearfix">
+
+
+
+
+	                <div class="container clearfix">
+	                	<div class="fancy-title title-border">
+							<h4>概况</h4>
+						</div>
+
+						<div class="col_one_fourth nobottommargin">
+							<div class="feature-box fbox-center fbox-plain nobottomborder">
+								<div class="fbox-icon">
+									<a href="#"><img src="images/icons/restaurant/glass.png" alt="Icon" data-animate="zoomIn"></a>
+								</div>
+								<h3>1 场<span class="subtitle">空前的联欢会</span></h3>
+							</div>
+						</div>
+
+						<div class="col_one_fourth nobottommargin">
+							<div class="feature-box fbox-center fbox-plain nobottomborder">
+								<div class="fbox-icon">
+									<a href="#"><img src="images/td_jd_tc/speaker.png" alt="Icon" data-animate="zoomIn" data-delay="200"></a>
+								</div>
+								<h3>2 位<span class="subtitle"> 德高望重的分享嘉宾</span></h3>
+							</div>
+						</div>
+
+						<div class="col_one_fourth nobottommargin">
+							<div class="feature-box fbox-center fbox-plain nobottomborder">
+								<div class="fbox-icon">
+									<a href="#"><img src="images/td_jd_tc/SponsorIcon.png" alt="Icon" data-animate="zoomIn" data-delay="400"></a>
+								</div>
+								<h3>3 家<span class="subtitle"> 慷慨解囊的赞助商</span></h3>
+							</div>
+						</div>
+
+						<div class="col_one_fourth nobottommargin col_last">
+							<div class="feature-box fbox-center fbox-plain nobottomborder">
+								<div class="fbox-icon">
+									<a href="#"><img src="images/td_jd_tc/perform.png" alt="Icon" data-animate="zoomIn" data-delay="600"></a>
+								</div>
+								<h3>10 多项<span class="subtitle"> 精心准备、精彩纷呈的节目</span></h3>
+							</div>
+						</div>
+
+
+						
+
+						<div class="clear"></div>
+
+					</div>
+
+
+
+
+
+                  </div>
+
+                  <br />
+                  <br />
+                  <br />
+                  <br />
+
+                  <div id="section-facts" class="container clearfix">
+
+
+
+
+	                <div class="container clearfix">
+
+						
+						
+
+						<div class="col_one_fourth nobottommargin col_last">
+							<div class="feature-box fbox-center fbox-plain nobottomborder">
+								<div class="fbox-icon">
+									<a href="#"><img src="images/td_jd_tc/attendee.png" alt="Icon" data-animate="zoomIn" data-delay="600"></a>
+								</div>
+								<h3>100 位<span class="subtitle"> 渴望相聚的来宾</span></h3>
+							</div>
+						</div>
+
+						<div class="clear"></div>
+
+					</div>
+
+
+
+
+
+                  </div>
+
+
+                  <br />
+                  <br />
+                  <br />
+                  <br />
+                  <br />
                   <br />
                   <br />
 
@@ -1031,13 +891,16 @@
 
 						<div class="masonry-thumbs col-3 clearfix" data-lightbox="gallery" style="width: 100.3%;">
 							<a href="images/td_jd_tc/0.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/0Thumb.png" alt="Gallery Thumb 1" data-animate="zoomIn"></a>
+							<a href="images/td_jd_tc/td2017.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/td2017Thumb.jpg" alt="Gallery Thumb 1" data-animate="zoomIn"></a>
+							<a href="images/td_jd_tc/jdoverseas.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/jdoverseasThumb.jpg" alt="Gallery Thumb 1" data-animate="zoomIn"></a>
+							<a href="images/td_jd_tc/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/7Thumb.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/1.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/1Thumb.png" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
 							<a href="images/td_jd_tc/2.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/2Thumb.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/3.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/3Thumb.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							
 							<a href="images/td_jd_tc/4.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/4Thumb.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/5.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/5Thumb.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/6.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/6Thumb.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/7Thumb.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							
 						</div>
 
 					
