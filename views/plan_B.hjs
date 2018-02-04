@@ -125,7 +125,7 @@
 					<ul>    <!-- SLIDE  -->
 						
 						<!-- SLIDE  -->
-						<li data-transition="slidedown" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/nycChineseNewYearThumb.jpg" data-delay="6000"  data-saveperformance="off"  data-title="Book your Tables">
+						<li data-transition="slidedown" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/nycChineseNewYearThumb.jpg" data-delay="4000"  data-saveperformance="off"  data-title="Book your Tables">
 							<!-- MAIN IMAGE -->
 							<img src="images/td_jd_tc/nycChineseNewYear.jpg"  alt="kenburns6"  data-bgposition="center top" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="120" data-scaleend="100" data-bgpositionend="center center">
 							<!-- LAYERS -->
@@ -188,8 +188,74 @@
 							
 
 						</li>
+
 						<!-- SLIDE  -->
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/BeiyangThumb.jpg" data-delay="6000"  data-saveperformance="off"  data-title="Full Featured Menu">
+						<li data-transition="slidedown" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/eventBriteThumb.png" data-delay="6000"  data-saveperformance="off"  data-title="Book your Tables">
+							<!-- MAIN IMAGE -->
+							<img src="images/td_jd_tc/eventBrite.png"  alt="kenburns6"  data-bgposition="center top" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="120" data-scaleend="100" data-bgpositionend="center center">
+							<!-- LAYERS -->
+
+							<!-- LAYER NR. 2 -->
+							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
+							data-x="0"
+							data-y="215"
+							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
+							data-speed="800"
+							data-start="1000"
+							data-easing="easeOutQuad"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.01"
+							data-endelementdelay="0.1"
+							data-endspeed="1000"
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #222;"></div>
+
+							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
+							data-x="-3"
+							data-y="230"
+							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
+							data-speed="800"
+							data-start="1200"
+							data-easing="easeOutQuad"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.01"
+							data-endelementdelay="0.1"
+							data-endspeed="1000"
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;"><br />  <br /> <br/> </div>
+
+							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text tleft"
+							data-x="0"
+							data-y="340"
+							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
+							data-speed="800"
+							data-start="1400"
+							data-easing="easeOutQuad"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.01"
+							data-endelementdelay="0.1"
+							data-endspeed="1000"
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #222; max-width: 550px; white-space: normal;"></div>
+
+							<div class="tp-caption customin ltl tp-resizeme"
+							data-x="0"
+							data-y="450"
+							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
+							data-speed="800"
+							data-start="1550"
+							data-easing="easeOutQuad"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.01"
+							data-endelementdelay="0.1"
+							data-endspeed="1000"
+							data-endeasing="Power4.easeIn" style="z-index: 3;"><a href="https://www.eventbrite.com/e/42486678800" target="-blank" class="button button-border button-white button-light button-large button-rounded tright nomargin"><span>我想参加</span> <i class="icon-angle-right"></i></a></div>
+							
+
+						</li>
+						<!-- SLIDE  -->
+						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/BeiyangThumb.jpg" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
 							<img src="images/td_jd_tc/Beiyang.jpg"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
@@ -252,7 +318,7 @@
 							
 						</li>
 						<!-- SLIDE  -->
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/jdThumb.jpg" data-delay="6000"  data-saveperformance="off"  data-title="Full Featured Menu">
+						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/jdThumb.jpg" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
 							<img src="images/td_jd_tc/jd.jpg"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
@@ -315,7 +381,7 @@
 							
 						</li>
 						<!-- SLIDE  -->
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/tjufe_watercolorThumb.png" data-delay="6000"  data-saveperformance="off"  data-title="Full Featured Menu">
+						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/tjufe_watercolorThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
 							<img src="images/td_jd_tc/tjufe_watercolor.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
@@ -378,7 +444,7 @@
 							
 						</li>
 						
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/diamondThumb.png" data-delay="6000"  data-saveperformance="off"  data-title="Full Featured Menu">
+						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/diamondThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
 							<img src="images/td_jd_tc/diamond.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
@@ -440,7 +506,7 @@
 							data-endspeed="1000"
 							
 						</li>
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/goldThumb.png" data-delay="6000"  data-saveperformance="off"  data-title="Full Featured Menu">
+						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/goldThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
 							<img src="images/td_jd_tc/gold.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
@@ -502,7 +568,7 @@
 							data-endspeed="1000"
 							
 						</li>
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/silverThumb.png" data-delay="6000"  data-saveperformance="off"  data-title="Full Featured Menu">
+						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/silverThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
 							<img src="images/td_jd_tc/silver.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
@@ -592,7 +658,8 @@
 								</div>
 								<div class="fbox-desc">
 									<h3>活动目的<span class="subtitle"></span></h3>
-									<p>辞旧岁，迎新春！又一年的新春校友联欢会即将开始啦！值此佳节来临之际，天津大学（北洋大学）北美校友会，吉林大学海外校友会、天津财经大学美国校友会，诚邀各位校友和亲属，共同举办一场别开生面，诚意满满的新年聚会！</p>
+									<p>辞旧岁，迎新春！又一年的新春校友联欢会即将开始啦！值此佳节来临之际，天津大学（北洋大学）北美校友会，吉林大学海外校友会、天津财经大学美国校友会，诚邀各位校友和亲属，共同举办一场别开生面，诚意满满的新年聚会！<br />本次活动是本着联络校友感情，服务校友，帮助校友扩展人脉资源而举办的可持续性极强的 大型特色活动。</p>
+									<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">我想参加</a>
 								</div>
 							</div>
 						</div>
@@ -605,6 +672,7 @@
 								<div class="fbox-desc">
 									<h3>活动内容<span class="subtitle"></span></h3>
 									<p>在这里，我们共叙大学时光，畅谈当下发展，展望美好未来；在这里，既有年味满满的包饺子活动，趣味益智的有奖灯谜，更有包括杂技、萨克斯、古筝、舞蹈、北洋军乐团小乐队等众多精彩纷呈的节目。此外，我们还特别邀请了两位杰出校友，和大家分享金融职业和产业发展和中美创业体会与机会。欢迎校友们，朋友们来和他们以及包括中国驻纽约总领馆教育和科技参赞，中国国家外专局总代表等贵宾和纽约各界社团领导及媒体嘉宾们一起交流。</p>
+									<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">我想参加</a>
 								</div>
 							</div>
 						</div>
@@ -617,6 +685,7 @@
 								<div class="fbox-desc">
 									<h3>活动地点: 265 西 37 街，纽约<span class="subtitle"></span></h3>
 									<p> 雅博艺廊, 作为全球华人的传统节日，春节在我们的内心拥有不一样的地位和感情。让我们相约雅博艺廊，共同迎接新年的到来！博雅艺廊是校友会的长期合作伙伴，环境优美，气氛温馨。为了更好地保障活动体验，我们特别将本次春节联欢名额限制为100人。</p>
+									<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">我想参加</a>
 								</div>
 							</div>
 						</div>
@@ -697,6 +766,7 @@
 							<a href="images/td_jd_tc/李欣冉.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/李欣冉.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/李雪伦Sharon.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/李雪伦Sharon.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/刘永奇.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/刘永奇.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+
 							<a href="images/td_jd_tc/孙金钊-天津大学.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/孙金钊-天津大学.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
 							<a href="images/td_jd_tc/Hao_Wang.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/Hao_Wang.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/吴笑寒天大ShawnWu.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/吴笑寒天大ShawnWu.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
@@ -704,7 +774,10 @@
 							<a href="images/td_jd_tc/天财章琪.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/天财章琪.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/周嘉琦.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/周嘉琦.jpg" alt="Open Imagination" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/幽思悠然.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/幽思悠然.jpg" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/四月晴天.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/四月晴天.jpg" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/portrait1.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/portrait1.png" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/庞笑天－天大.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/庞笑天－天大.jpg" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/Marvin.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/Marvin.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 						</div>
 
 					
@@ -733,7 +806,7 @@
 								<div class="fbox-icon">
 									<a href="#"><img src="images/icons/restaurant/glass.png" alt="Icon" data-animate="zoomIn"></a>
 								</div>
-								<h3>1 场<span class="subtitle">空前的联欢会</span></h3>
+								<h3>1 场<span class="subtitle">盛况空前的联欢会</span></h3>
 							</div>
 						</div>
 
@@ -797,7 +870,7 @@
 								<div class="fbox-icon">
 									<a href="#"><img src="images/td_jd_tc/attendee.png" alt="Icon" data-animate="zoomIn" data-delay="600"></a>
 								</div>
-								<h3>100 位<span class="subtitle"> 渴望相聚的来宾</span></h3>
+								<h3>100 位<span class="subtitle"> 渴望与你相聚的来宾</span></h3>
 							</div>
 						</div>
 
@@ -990,7 +1063,7 @@
 				<div class="container clearfix">
 
 					<div class="col_half">
-						Copyrights &copy; 2014 All Rights Reserved by td_jd_tc Inc.<br>
+						Copyrights &copy; 2018 All Rights Reserved by td_jd_tc Inc.<br>
 						<div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>
 					</div>
 

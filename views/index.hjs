@@ -676,7 +676,7 @@
 					
 
 						<div class="fancy-title title-border">
-							<h4>Staff</h4>
+							<h4>筹备组</h4>
 						</div>
 
 						<div class="masonry-thumbs col-6 clearfix" data-lightbox="gallery" style="width: 100.3%;">
@@ -695,6 +695,7 @@
 							<a href="images/td_jd_tc/李欣冉.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/李欣冉.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/李雪伦Sharon.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/李雪伦Sharon.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/刘永奇.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/刘永奇.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+
 							<a href="images/td_jd_tc/孙金钊-天津大学.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/孙金钊-天津大学.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
 							<a href="images/td_jd_tc/Hao_Wang.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/Hao_Wang.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/吴笑寒天大ShawnWu.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/吴笑寒天大ShawnWu.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
@@ -702,7 +703,10 @@
 							<a href="images/td_jd_tc/天财章琪.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/天财章琪.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/周嘉琦.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/周嘉琦.jpg" alt="Open Imagination" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/幽思悠然.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/幽思悠然.jpg" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/四月晴天.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/四月晴天.jpg" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/portrait1.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/portrait1.png" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/庞笑天－天大.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/庞笑天－天大.jpg" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/Marvin.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/Marvin.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 						</div>
 
 					
@@ -755,7 +759,7 @@
 								<div class="fbox-icon">
 									<a href="#"><img src="images/td_jd_tc/perform.png" alt="Icon" data-animate="zoomIn" data-delay="600"></a>
 								</div>
-								<h3>10+<span class="subtitle"> Entertaining performances that takes your breath away</span></h3>
+								<h3>10+<span class="subtitle"> Entertaining performances that will take your breath away</span></h3>
 							</div>
 						</div>
 
@@ -792,7 +796,7 @@
 								<div class="fbox-icon">
 									<a href="#"><img src="images/td_jd_tc/attendee.png" alt="Icon" data-animate="zoomIn" data-delay="600"></a>
 								</div>
-								<h3>100 <span class="subtitle"> Guests you cannot wait to meet</span></h3>
+								<h3>100 <span class="subtitle"> Guests who cannot wait to meet you</span></h3>
 							</div>
 						</div>
 
@@ -991,7 +995,7 @@
 				<div class="container clearfix">
 
 					<div class="col_half">
-						Copyrights &copy; 2014 All Rights Reserved by td_jd_tc Inc.<br>
+						Copyrights &copy; 2018 All Rights Reserved by td-jd-tc Inc.<br>
 						<div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>
 					</div>
 
