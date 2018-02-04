@@ -123,69 +123,7 @@
 			<div class="tp-banner-container">
 				<div class="tp-banner" >
 					<ul>    <!-- SLIDE  -->
-						<li class="dark" data-transition="fade" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/happyChineseNewYearThumb.jpg" data-delay="6000"  data-saveperformance="off" data-title="Delicious Recipes">
-							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/happyChineseNewYear.jpg"  alt="kenburns1"  data-bgposition="left center" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right center">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 2 -->
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
-							data-x="600"
-							data-y="215"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1000"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
-							data-x="-3"
-							data-y="230"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1200"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text tleft"
-							data-x="600"
-							data-y="340"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1400"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; max-width: 550px; white-space: normal;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme"
-							data-x="600"
-							data-y="450"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1550"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							
-
-						</li>
+						
 						<!-- SLIDE  -->
 						<li data-transition="slidedown" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/nycChineseNewYearThumb.jpg" data-delay="6000"  data-saveperformance="off"  data-title="Book your Tables">
 							<!-- MAIN IMAGE -->
@@ -654,7 +592,7 @@
 								</div>
 								<div class="fbox-desc">
 									<h3>活动目的<span class="subtitle"></span></h3>
-									<p>辞旧岁，迎新春！又一年的新春校友联欢会即将开始啦！值此佳节来临之际，天津大学（北洋大学）北美校友会，吉林大学海外校友会、天津财经大学美国校友会，诚邀各位校友和亲属，共同举办一场别开生面，诚意满满的新年聚会！</p>
+									<p>辞旧岁，迎新春！又一年的新春校友联欢会即将开始啦！值此佳节来临之际，天津大学（北洋大学）北美校友会，吉林大学海外校友会、天津财经大学美国校友会，诚邀各位校友和亲属，共同举办一场别开生面，诚意满满的新年聚会！<br />本次活动是本着联络校友感情，服务校友，帮助校友扩展人脉资源而举办的可持续性极强的 大型特色活动。</p>
 								</div>
 							</div>
 						</div>
