@@ -125,7 +125,7 @@
 					<ul>    <!-- SLIDE  -->
 						
 						<!-- SLIDE  -->
-						<li data-transition="slidedown" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/nycChineseNewYearThumb.jpg" data-delay="6000"  data-saveperformance="off"  data-title="Book your Tables">
+						<li data-transition="slidedown" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/nycChineseNewYearThumb.jpg" data-delay="4000"  data-saveperformance="off"  data-title="Book your Tables">
 							<!-- MAIN IMAGE -->
 							<img src="images/td_jd_tc/nycChineseNewYear.jpg"  alt="kenburns6"  data-bgposition="center top" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="120" data-scaleend="100" data-bgpositionend="center center">
 							<!-- LAYERS -->
@@ -188,8 +188,75 @@
 							
 
 						</li>
+
+                        <!-- SLIDE  -->
+						<li data-transition="slidedown" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/eventBriteThumb.png" data-delay="6000"  data-saveperformance="off"  data-title="Book your Tables">
+							<!-- MAIN IMAGE -->
+							<img src="images/td_jd_tc/eventBrite.png"  alt="kenburns6"  data-bgposition="center top" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="120" data-scaleend="100" data-bgpositionend="center center" >
+							<!-- LAYERS -->
+
+							<!-- LAYER NR. 2 -->
+							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
+							data-x="0"
+							data-y="215"
+							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
+							data-speed="800"
+							data-start="1000"
+							data-easing="easeOutQuad"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.01"
+							data-endelementdelay="0.1"
+							data-endspeed="1000"
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #222;"></div>
+
+							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
+							data-x="-3"
+							data-y="230"
+							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
+							data-speed="800"
+							data-start="1200"
+							data-easing="easeOutQuad"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.01"
+							data-endelementdelay="0.1"
+							data-endspeed="1000"
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;"> Click button below on left to attend</div>
+
+							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text tleft"
+							data-x="0"
+							data-y="340"
+							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
+							data-speed="800"
+							data-start="1400"
+							data-easing="easeOutQuad"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.01"
+							data-endelementdelay="0.1"
+							data-endspeed="1000"
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #222; max-width: 550px; white-space: normal;"></div>
+
+							<div class="tp-caption customin ltl tp-resizeme"
+							data-x="0"
+							data-y="450"
+							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
+							data-speed="800"
+							data-start="1550"
+							data-easing="easeOutQuad"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.01"
+							data-endelementdelay="0.1"
+							data-endspeed="1000"
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 120px;"><a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="button button-border button-dirtygreen button-dark button-large button-rounded tright nomargin"><span>Attend</span> <i class="icon-angle-right"></i></a></div>
+							
+
+						</li>
+
 						<!-- SLIDE  -->
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/BeiyangThumb.jpg" data-delay="6000"  data-saveperformance="off"  data-title="Full Featured Menu">
+						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/BeiyangThumb.jpg" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
 							<img src="images/td_jd_tc/Beiyang.jpg"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
@@ -252,7 +319,7 @@
 							
 						</li>
 						<!-- SLIDE  -->
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/jdThumb.jpg" data-delay="6000"  data-saveperformance="off"  data-title="Full Featured Menu">
+						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/jdThumb.jpg" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
 							<img src="images/td_jd_tc/jd.jpg"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
@@ -315,7 +382,7 @@
 							
 						</li>
 						<!-- SLIDE  -->
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/tjufe_watercolorThumb.png" data-delay="6000"  data-saveperformance="off"  data-title="Full Featured Menu">
+						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/tjufe_watercolorThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
 							<img src="images/td_jd_tc/tjufe_watercolor.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
@@ -377,7 +444,7 @@
 							data-endspeed="1000"
 							
 						</li>
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/diamondThumb.png" data-delay="6000"  data-saveperformance="off"  data-title="Full Featured Menu">
+						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/diamondThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
 							<img src="images/td_jd_tc/diamond.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
@@ -439,7 +506,7 @@
 							data-endspeed="1000"
 							
 						</li>
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/goldThumb.png" data-delay="6000"  data-saveperformance="off"  data-title="Full Featured Menu">
+						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/goldThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
 							<img src="images/td_jd_tc/gold.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
@@ -501,7 +568,7 @@
 							data-endspeed="1000"
 							
 						</li>
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/silverThumb.png" data-delay="6000"  data-saveperformance="off"  data-title="Full Featured Menu">
+						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/silverThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
 							<img src="images/td_jd_tc/silver.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
@@ -590,7 +657,8 @@
 								</div>
 								<div class="fbox-desc">
 									<h3>Why this event<span class="subtitle"></span></h3>
-									<p>Happy Lunar New Year! Another Spring Festival alumni party is about to begin! On the occasion of this festive season, the North American Alumni Association of Tianjin University (Beiyang University), the Overseas Alumni Association of Jilin University and the American Alumni Association of Tianjin University of Finance and Economics invite all alumni and relatives to jointly hold a New Year's party which is full of heart and contentment!</p>
+									<p>Happy Lunar New Year! Another Spring Festival alumni party is about to begin! On the occasion of this festive season, the North American Alumni Association of Tianjin University (Beiyang University), the Overseas Alumni Association of Jilin University and the American Alumni Association of Tianjin University of Finance and Economics invite all alumni and relatives to jointly hold a New Year's party which is full of heart and contentment!</p><br />
+									<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">我想参加</a>
 								</div>
 							</div>
 						</div>
@@ -667,6 +735,7 @@
 							<li><i class="icon-time text-danger"></i> <strong>4 pm:</strong> Raffle</li><br />
 						</ul>
 
+						<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">我想参加</a>
 					
 				  </div>
 				  <br />
@@ -803,7 +872,8 @@
 						<div class="clear"></div>
 
 					</div>
-
+                    <br />
+					<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">我想参加</a>
 
 
 
@@ -911,6 +981,8 @@
 
 					</div>
 				</div>
+				<br />
+				<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">我想参加</a>
               </div>
 				
 			  <div id="section-sponsors" class="container clearfix">	
