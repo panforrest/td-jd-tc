@@ -190,9 +190,9 @@
 						</li>
 
                         <!-- SLIDE  -->
-						<li data-transition="slidedown" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/eventBriteThumb.png" data-delay="6000"  data-saveperformance="off"  data-title="Book your Tables">
+						<li data-transition="slidedown" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/happyChineseNewYearThumb.jpg" data-delay="6000"  data-saveperformance="off"  data-title="Book your Tables">
 							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/eventBrite.png"  alt="kenburns6"  data-bgposition="center top" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="120" data-scaleend="100" data-bgpositionend="center center" >
+							<img src="images/td_jd_tc/happyChineseNewYear.jpg"  alt="kenburns6"  data-bgposition="center top" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="120" data-scaleend="100" data-bgpositionend="center center" >
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 2 -->
@@ -222,7 +222,7 @@
 							data-elementdelay="0.01"
 							data-endelementdelay="0.1"
 							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;"> Click button below on left to attend</div>
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;">Tickets running out fast！<br />25% until one week before event！<br /></div>
 
 							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text tleft"
 							data-x="0"
@@ -250,7 +250,7 @@
 							data-elementdelay="0.01"
 							data-endelementdelay="0.1"
 							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 120px;"><a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="button button-border button-dirtygreen button-dark button-large button-rounded tright nomargin"><span>Attend</span> <i class="icon-angle-right"></i></a></div>
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 120px;"><a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="button button-border button-blue button-dark button-large button-rounded tright nomargin" style="z-index: 3; color: #fff; font-size: 90px;">Attend <i class="icon-angle-right"></i></a></div>
 							
 
 						</li>
