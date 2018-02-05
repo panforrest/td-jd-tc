@@ -222,7 +222,7 @@
 							data-elementdelay="0.01"
 							data-endelementdelay="0.1"
 							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;">机会难得，心动不如快快行动！<br />活动开始前一周购票可享约7.5折优惠哟！<br />请点击左下角按钮</div>
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;">机会难得，心动不如快快行动！<br />活动开始前一周购票可享约7.5折优惠哟！<br /></div>
 
 							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text tleft"
 							data-x="0"
@@ -250,7 +250,7 @@
 							data-elementdelay="0.01"
 							data-endelementdelay="0.1"
 							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 120px;"><a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="button button-border button-blue button-dark button-large button-rounded tright nomargin"><span>我想参加</span> <i class="icon-angle-right"></i></a></div>
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 120px;"><a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="button button-border button-blue button-dark button-large button-rounded tright nomargin" style="z-index: 3; color: #fff; font-size: 120px;">我参加 <i class="icon-angle-right"></i></a></div>
 							
 
 						</li>
