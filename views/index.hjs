@@ -222,7 +222,7 @@
 							data-elementdelay="0.01"
 							data-endelementdelay="0.1"
 							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;">Tickets running out fast！<br />25% until one week before event！<br /></div>
+							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;">Tickets running out fast！<br />25% off until one week before event！<br /></div>
 
 							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text tleft"
 							data-x="0"
@@ -444,9 +444,9 @@
 							data-endspeed="1000"
 							
 						</li>
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/diamondThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
+						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/diamondThumb.png" data-delay="4000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/diamond.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
+							<img src="images/td_jd_tc/LineMoney.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
@@ -508,7 +508,7 @@
 						</li>
 						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/goldThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/gold.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
+							<img src="images/td_jd_tc/ChinaSouthern.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
@@ -568,9 +568,9 @@
 							data-endspeed="1000"
 							
 						</li>
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/silverThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
+						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/legendThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/silver.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
+							<img src="images/td_jd_tc/legend.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
@@ -975,14 +975,14 @@
 
 						<div class="col_half bottommargin-sm center col_last">
 
-							<img src="images/td_jd_tc/jd.jpg" alt="Image" data-animate="fadeInRight">
+							<img src="images/td_jd_tc/田永驰博士.jpg" alt="Image" style="width:210px; border-radius:100px; margin-top:24px; border: 1px solid #ddd; padding:8px; background:#fff" data-animate="fadeInRight">
 
 						</div>
 
 					</div>
 				</div>
 				<br />
-				<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">我想参加</a>
+				<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">Attend</a>
               </div>
 				
 			  <div id="section-sponsors" class="container clearfix">	
@@ -998,17 +998,17 @@
 								<div class="flexslider">
 									<div class="slider-wrap">
 										<div class="slide">
-											<p class="lead">LineMoney</p>
+											<p class="lead">LineMoney<br />LineMoney 快汇 is a technology finance company based in New York City designed to provide safe, fast, transparent and preferential international money transfer service and to provide care and support to loved ones and friends far away from home in the most secure and convenient way.<br />LineMoney currently cross-border remittance business between the United States, China and Japan has been opened and about 30 countries will be opened soon. LineMoney provides various remittance methods for users with different needs, such as small-amount remittance and ordinary remittance, and supports two-way remittance between China and the United States. Small fast remittance quickly, suitable for the arrival time of the high demand customers, low fees, exchange rate concessions, the amount of flexibility. Whether it is studying abroad, traveling, business or other purposes, to meet your remittance needs in all directions and to change the way people send money.<br />Tel：(888) 875-6876<br />Email：CUSTOMERSERVICE@LINEMONEY.COM<br />Wechat：LINEMONEYOFFICIAL</p>
 											<span><strong></strong></span><br>
 											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i>
 										</div>
 										<div class="slide">
-											<p class="lead">China Southern Airlines</p>
+											<p class="lead">China Southern Airlinesbr />China Southern Airlines, headquartered in Guangzhou, ranks first in Asia and fourth in the world in terms of fleet size and passenger traffic (data source: IATA). Safety record and safety management level in the international leader in China's domestic security star of the highest airlines.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p></p>
 											<span><strong></strong></span><br>
 											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> 
 										</div>
 										<div class="slide">
-											<p class="lead">留香72</p>
+											<p class="lead">Legend 72<br /> <br /><br />127 West 72nd Street, New York, New York (917) 441-4790<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
 											<span><strong></strong></span><br>
 											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> 
 										</div>
@@ -1054,7 +1054,7 @@
 					<div class="col_full">
 
 						<div class="heading-block center nobottommargin">
-							<h2>Want to be a sponsor? <strong>Call +212.123.4567</strong></h2>
+							<h2>Want to be a sponsor? <strong>Please email to td.jd.tc@gmail.com</strong></h2>
 						</div>
 
 					</div>

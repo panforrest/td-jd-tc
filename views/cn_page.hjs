@@ -978,7 +978,7 @@
 
 						<div class="col_half bottommargin-sm center col_last">
 
-							<img src="images/td_jd_tc/jd.jpg" alt="Image" data-animate="fadeInRight">
+							<img src="images/td_jd_tc/田永驰博士.jpg" alt="Image" style="width:210px; border-radius:100px; margin-top:24px; border: 1px solid #ddd; padding:8px; background:#fff" data-animate="fadeInRight">
 
 						</div>
 
@@ -1000,17 +1000,17 @@
 								<div class="flexslider">
 									<div class="slider-wrap">
 										<div class="slide">
-											<p class="lead">LineMoney</p>
+											<p class="lead">LineMoney<br />LineMoney快汇是一家诞生于纽约的科技金融公司，旨在提供安全、快捷、透明、优惠的国际汇款服务, 用最安全方便的线上汇款方式为远在异国他乡的亲人和朋友送上关心与支持。<br />LineMoney目前已开通了美国、中国、日本三国之间的跨境汇款业务, 即将开通30多国业务。LineMoney为不同需求的用户提供小额快汇和普通汇款等多种汇款方式，支持中美双向汇款。小额快汇到账迅速，适合对到账时间高要求的客户，手续费低，汇率优惠，额度灵活。无论是留学、旅行、商业或是其他用途，全方位满足您的汇款需求，改变人们的汇款方式。<br />电话：(888) 875-6876<br />Email：CUSTOMERSERVICE@LINEMONEY.COM<br />微信：LINEMONEYOFFICIAL</p>
 											<span><strong></strong></span><br>
 											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i>
 										</div>
 										<div class="slide">
-											<p class="lead">中国南方航空公司</p>
+											<p class="lead">中国南方航空公司<br />总部设在广州的中国南方航空，机队规模和旅客运输量均居亚洲第一、世界第四（数据来源：国际航协）。安全纪录和安全管理水平处于国际领先地位，是中国国内安全星级最高的航空公司。<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
 											<span><strong></strong></span><br>
 											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> 
 										</div>
 										<div class="slide">
-											<p class="lead">留香72</p>
+											<p class="lead">留香72 <br /> <br /><br />127 West 72nd Street, New York, New York (917) 441-4790<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
 											<span><strong></strong></span><br>
 											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i>
 										</div>
@@ -1056,7 +1056,7 @@
 					<div class="col_full">
 
 						<div class="heading-block center nobottommargin">
-							<h2>请您大力赞助我们!<strong>请致电 +212.123.4567</strong></h2>
+							<h2>请您大力赞助我们!<strong>请电邮致 td.jd.tc@gmail.com</strong></h2>
 						</div>
 
 					</div>
