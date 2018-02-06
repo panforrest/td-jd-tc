@@ -444,9 +444,9 @@
 							
 						</li>
 						
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/diamondThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
+						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/diamondThumb.png" data-delay="5000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/diamond.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
+							<img src="images/td_jd_tc/LineMoney.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
@@ -506,9 +506,9 @@
 							data-endspeed="1000"
 							
 						</li>
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/goldThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
+						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/goldThumb.png" data-delay="5000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/gold.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
+							<img src="images/td_jd_tc/ChinaSouthern.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
@@ -568,9 +568,9 @@
 							data-endspeed="1000"
 							
 						</li>
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/silverThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
+						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/silverThumb.png" data-delay="5000"  data-saveperformance="off"  data-title="Full Featured Menu">
 							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/silver.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
+							<img src="images/td_jd_tc/legend.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
