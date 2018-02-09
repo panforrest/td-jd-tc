@@ -93,7 +93,9 @@
 					<nav id="primary-menu" class="style-5">
 
 						<ul class="one-page-menu" data-easing="easeInOutExpo" data-speed="1500" style="border:none">
+                        <!---
 							<li><a href="/"><div><i class="icon-home2"></i>English</div></a></li>
+                        -->
 							<li><a href="#" data-href="#section-about"><div><i class="icon-file-alt"></i>关于</div></a></li>
 							<li><a href="#" data-href="#section-schedule"><div><i class="icon-th"></i>时间表</div></a></li>
 							<li><a href="#" data-href="#section-staff"><div><i class="icon-users2"></i>筹备组</div></a></li>
@@ -114,43 +116,78 @@
 
         </header><!-- #header end -->
 
-        <section id="slider" class="slider-parallax swiper_wrapper full-screen clearfix" data-autoplay="7000" data-speed="650" data-loop="true">
+        <section id="slider" class="slider-parallax swiper_wrapper full-screen clearfix" data-autoplay="3000" data-speed="350" data-loop="true">
 
 			<div class="slider-parallax-inner">
 
 				<div class="swiper-container swiper-parent">
 					<div class="swiper-wrapper">
-						<div class="swiper-slide dark" style="background-image: url('images/slider/swiper/1.jpg');">
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/nycChineseNewYear.jpg');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp">迎新春三校联欢会 <br /> 2018年2月18日 <br /> 雅博艺廊<br/> 265西37街，纽约</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/happyChineseNewYear.jpg');">
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-center">
-									<h2 data-caption-animate="fadeInUp">Welcome to Canvas</h2>
-									<p data-caption-animate="fadeInUp" data-caption-delay="200">Create just what you need for your Perfect Website. Choose from a wide range of Elements &amp; simply put them on our Canvas.</p>
+									<h2 data-caption-animate="fadeInUp" style="z-index: 3;  color: #111">机会难得，心动不如行动！<br />活动开始前一周购票可享约7.5折优惠哟！</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
 								</div>
 							</div>
 						</div>
-						<div class="swiper-slide dark">
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/Beiyang.jpg');">
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-center">
-									<h2 data-caption-animate="fadeInUp">Beautifully Flexible</h2>
-									<p data-caption-animate="fadeInUp" data-caption-delay="200">Looks beautiful &amp; ultra-sharp on Retina Screen Displays. Powerful Layout with Responsive functionality that can be adapted to any screen size.</p>
+									<h2 data-caption-animate="fadeInUp" style="z-index: 3;  color: #111">主办：天津大学（北洋大学）北美校友会</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
 								</div>
 							</div>
-							<div class="video-wrap">
-								<video id="slide-video" poster="images/videos/explore.jpg" preload="auto" loop autoplay muted>
-									<source src='images/videos/explore.webm' type='video/webm' />
-									<source src='images/videos/explore.mp4' type='video/mp4' />
-								</video>
-								<div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>
-							</div>
 						</div>
-						<div class="swiper-slide" style="background-image: url('images/slider/swiper/3.jpg'); background-position: center top;">
+
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/jd.jpg');">
 							<div class="container clearfix">
-								<div class="slider-caption">
-									<h2 data-caption-animate="fadeInUp">Great Performance</h2>
-									<p data-caption-animate="fadeInUp" data-caption-delay="200">You'll be surprised to see the Final Results of your Creation &amp; would crave for more.</p>
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp">主办：吉林大学 </h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
 								</div>
 							</div>
 						</div>
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/tjufe_watercolor.png');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-center">
+									<h2 data-caption-animate="fadeInUp">主办：天津财经大学</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/LineMoney.png');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-center">
+									<h2 data-caption-animate="fadeInUp" style="z-index: 3; color: #f0f; font-size: 60px;">特别鸣谢：钻石赞助</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/ChinaSouthern.png');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-center">
+									<h2 data-caption-animate="fadeInUp" style="z-index: 3; color: #0ff; font-size: 60px;" >特别鸣谢：金牌赞助</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/legend.png');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-center">
+									<h2 data-caption-animate="fadeInUp" style="z-index: 3; color: #0ff; font-size: 60px;">特别鸣谢：银牌赞助</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
+						
 					</div>
 					<div id="slider-arrow-left"><i class="icon-angle-left"></i></div>
 					<div id="slider-arrow-right"><i class="icon-angle-right"></i></div>
@@ -172,6 +209,7 @@
 					<div class="container clearfix">
 
 						<div class="heading-block center">
+							<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">我想参加</a>
 							<span>天津大学 <br /> 吉林大学 <br /> 天津财经大学</span>
 							<h2>隆重推出, 倾情奉献<br /><span> 春节联欢晚会</span></h2>
 							
