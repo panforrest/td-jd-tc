@@ -10,6 +10,7 @@
 	<link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="/css/bootstrap.css" type="text/css" />
     <link rel="stylesheet" href="/style.css" type="text/css" />
+    <link rel="stylesheet" href="css/swiper.css" type="text/css" />
     <link rel="stylesheet" href="/css/dark.css" type="text/css" />
     <link rel="stylesheet" href="/css/font-icons.css" type="text/css" />
     <link rel="stylesheet" href="/css/animate.css" type="text/css" />
@@ -113,525 +114,50 @@
 
         </header><!-- #header end -->
 
-        <section id="slider" class="slider-parallax revslider-wrap full-screen clearfix">
+        <section id="slider" class="slider-parallax swiper_wrapper full-screen clearfix" data-autoplay="7000" data-speed="650" data-loop="true">
 
-			<!--
-			#################################
-				- THEMEPUNCH BANNER -
-			#################################
-			-->
-			<div class="tp-banner-container">
-				<div class="tp-banner" >
-					<ul>    <!-- SLIDE  -->
-						
-						<!-- SLIDE  -->
-						<li data-transition="slidedown" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/nycChineseNewYearThumb.jpg" data-delay="4000"  data-saveperformance="off"  data-title="Book your Tables">
-							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/nycChineseNewYear.jpg"  alt="kenburns6"  data-bgposition="center top" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="120" data-scaleend="100" data-bgpositionend="center center">
-							<!-- LAYERS -->
+			<div class="slider-parallax-inner">
 
-							<!-- LAYER NR. 2 -->
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
-							data-x="0"
-							data-y="215"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1000"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #222;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
-							data-x="-3"
-							data-y="230"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1200"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;">迎新春三校联欢会 <br /> 2018年2月18日 <br /> 雅博艺廊<br/> 265 西 37 街，纽约</div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text tleft"
-							data-x="0"
-							data-y="340"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1400"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #222; max-width: 550px; white-space: normal;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme"
-							data-x="0"
-							data-y="450"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1550"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							
-
-						</li>
-
-						<!-- SLIDE  -->
-						<li data-transition="slidedown" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/happyChineseNewYearThumb.jpg" data-delay="6000"  data-saveperformance="off"  data-title="Book your Tables">
-							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/happyChineseNewYear.jpg"  alt="kenburns6"  data-bgposition="center top" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="120" data-scaleend="100" data-bgpositionend="center center" >
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 2 -->
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
-							data-x="0"
-							data-y="215"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1000"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #222;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
-							data-x="-3"
-							data-y="230"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1200"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;">机会难得，心动不如快快行动！<br />活动开始前一周购票可享约7.5折优惠哟！<br /></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text tleft"
-							data-x="0"
-							data-y="340"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1400"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #222; max-width: 550px; white-space: normal;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme"
-							data-x="0"
-							data-y="450"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1550"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 120px;"><a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="button button-border button-blue button-dark button-large button-rounded tright nomargin" style="z-index: 3; color: #fff; font-size: 90px;">我想参加 <i class="icon-angle-right"></i></a></div>
-							
-
-						</li>
-						<!-- SLIDE  -->
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/BeiyangThumb.jpg" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
-							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/Beiyang.jpg"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
-							data-x="440"
-							data-y="215"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1000"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
-							data-x="-3"
-							data-y="230"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1200"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;  color: #111"> 主办：天津大学（北洋大学）北美校友会</div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text"
-							data-x="245"
-							data-y="340"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1400"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; max-width: 650px; white-space: normal;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme"
-							data-x="496"
-							data-y="450"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1550"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							
-						</li>
-						<!-- SLIDE  -->
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/jdThumb.jpg" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
-							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/jd.jpg"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
-							data-x="440"
-							data-y="215"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1000"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
-							data-x="287"
-							data-y="230"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1200"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;  color: #f0f">主办：吉林大学 </div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text"
-							data-x="245"
-							data-y="340"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1400"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; max-width: 650px; white-space: normal;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme"
-							data-x="496"
-							data-y="450"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1550"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							
-						</li>
-						<!-- SLIDE  -->
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/tjufe_watercolorThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
-							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/tjufe_watercolor.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
-							data-x="440"
-							data-y="215"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1000"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
-							data-x="-3"
-							data-y="230"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1200"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #f0f; font-size: 60px;">主办：天津财经大学</div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text"
-							data-x="245"
-							data-y="340"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1400"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; max-width: 650px; white-space: normal;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme"
-							data-x="496"
-							data-y="450"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1550"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							
-						</li>
-						
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/diamondThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
-							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/diamond.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
-							data-x="440"
-							data-y="215"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1000"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
-							data-x="-3"
-							data-y="230"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1200"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #f0f; font-size: 60px;">特别鸣谢：钻石赞助</div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text"
-							data-x="245"
-							data-y="340"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1400"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; max-width: 650px; white-space: normal;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme"
-							data-x="496"
-							data-y="450"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1550"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							
-						</li>
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/goldThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
-							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/gold.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
-							data-x="440"
-							data-y="215"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1000"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
-							data-x="-3"
-							data-y="230"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1200"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #0ff; font-size: 60px;">特别鸣谢：金牌赞助</div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text"
-							data-x="245"
-							data-y="340"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1400"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; max-width: 650px; white-space: normal;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme"
-							data-x="496"
-							data-y="450"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1550"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							
-						</li>
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/silverThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
-							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/silver.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
-							data-x="440"
-							data-y="215"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1000"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
-							data-x="-3"
-							data-y="230"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1200"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #0ff; font-size: 60px;">特别鸣谢：银牌赞助</div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text"
-							data-x="245"
-							data-y="340"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1400"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; max-width: 650px; white-space: normal;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme"
-							data-x="496"
-							data-y="450"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1550"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							
-						</li>
-					</ul>
+				<div class="swiper-container swiper-parent">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide dark" style="background-image: url('images/slider/swiper/1.jpg');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-center">
+									<h2 data-caption-animate="fadeInUp">Welcome to Canvas</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200">Create just what you need for your Perfect Website. Choose from a wide range of Elements &amp; simply put them on our Canvas.</p>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide dark">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-center">
+									<h2 data-caption-animate="fadeInUp">Beautifully Flexible</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200">Looks beautiful &amp; ultra-sharp on Retina Screen Displays. Powerful Layout with Responsive functionality that can be adapted to any screen size.</p>
+								</div>
+							</div>
+							<div class="video-wrap">
+								<video id="slide-video" poster="images/videos/explore.jpg" preload="auto" loop autoplay muted>
+									<source src='images/videos/explore.webm' type='video/webm' />
+									<source src='images/videos/explore.mp4' type='video/mp4' />
+								</video>
+								<div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>
+							</div>
+						</div>
+						<div class="swiper-slide" style="background-image: url('images/slider/swiper/3.jpg'); background-position: center top;">
+							<div class="container clearfix">
+								<div class="slider-caption">
+									<h2 data-caption-animate="fadeInUp">Great Performance</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200">You'll be surprised to see the Final Results of your Creation &amp; would crave for more.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="slider-arrow-left"><i class="icon-angle-left"></i></div>
+					<div id="slider-arrow-right"><i class="icon-angle-right"></i></div>
+					<div id="slide-number"><div id="slide-number-current"></div><span>/</span><div id="slide-number-total"></div></div>
+					<div class="swiper-pagination"></div>
 				</div>
+
 			</div>
 
 		</section>
@@ -978,7 +504,7 @@
 
 						<div class="col_half bottommargin-sm center col_last">
 
-							<img src="images/td_jd_tc/jd.jpg" alt="Image" data-animate="fadeInRight">
+							<img src="images/td_jd_tc/田永驰博士.jpg" alt="Image" style="width:210px; border-radius:100px; margin-top:24px; border: 1px solid #ddd; padding:8px; background:#fff" data-animate="fadeInRight">
 
 						</div>
 
@@ -1000,17 +526,17 @@
 								<div class="flexslider">
 									<div class="slider-wrap">
 										<div class="slide">
-											<p class="lead">LineMoney</p>
+											<p class="lead">LineMoney<br />LineMoney快汇是一家诞生于纽约的科技金融公司，旨在提供安全、快捷、透明、优惠的国际汇款服务, 用最安全方便的线上汇款方式为远在异国他乡的亲人和朋友送上关心与支持。<br />LineMoney目前已开通了美国、中国、日本三国之间的跨境汇款业务, 即将开通30多国业务。LineMoney为不同需求的用户提供小额快汇和普通汇款等多种汇款方式，支持中美双向汇款。小额快汇到账迅速，适合对到账时间高要求的客户，手续费低，汇率优惠，额度灵活。无论是留学、旅行、商业或是其他用途，全方位满足您的汇款需求，改变人们的汇款方式。<br />电话：(888) 875-6876<br />Email：CUSTOMERSERVICE@LINEMONEY.COM<br />微信：LINEMONEYOFFICIAL</p>
 											<span><strong></strong></span><br>
 											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i>
 										</div>
 										<div class="slide">
-											<p class="lead">中国南方航空公司</p>
+											<p class="lead">中国南方航空公司<br />总部设在广州的中国南方航空，机队规模和旅客运输量均居亚洲第一、世界第四（数据来源：国际航协）。安全纪录和安全管理水平处于国际领先地位，是中国国内安全星级最高的航空公司。<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
 											<span><strong></strong></span><br>
 											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> 
 										</div>
 										<div class="slide">
-											<p class="lead">留香72</p>
+											<p class="lead">留香72 <br /> <br /><br />127 West 72nd Street, New York, New York (917) 441-4790<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
 											<span><strong></strong></span><br>
 											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i>
 										</div>
@@ -1056,7 +582,7 @@
 					<div class="col_full">
 
 						<div class="heading-block center nobottommargin">
-							<h2>请您大力赞助我们!<strong>请致电 +212.123.4567</strong></h2>
+							<h2>请您大力赞助我们!<strong>请电邮致 td.jd.tc@gmail.com</strong></h2>
 						</div>
 
 					</div>
@@ -1073,53 +599,47 @@
 						<div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>
 					</div>
 
-					<div class="col_half col_last tright">
-						<div class="fright clearfix">
-							<a href="#" class="social-icon si-small si-borderless si-facebook">
+					    <div class="fright clearfix">
+                            <a href="https://www.facebook.com/najluer/" target="_blank" class="social-icon si-dark si-large si-facebook">
 								<i class="icon-facebook"></i>
 								<i class="icon-facebook"></i>
 							</a>
 
-							<a href="#" class="social-icon si-small si-borderless si-twitter">
-								<i class="icon-twitter"></i>
-								<i class="icon-twitter"></i>
-							</a>
+                            <a href="#" class="social-icon si-dark si-large si-twitter">
+                                <i class="icon-twitter"></i>
+                                <i class="icon-twitter"></i>
+                            </a>
 
-							<a href="#" class="social-icon si-small si-borderless si-gplus">
-								<i class="icon-gplus"></i>
-								<i class="icon-gplus"></i>
-							</a>
+                            <a href="#" class="social-icon si-dark si-large si-gplus">
+                                <i class="icon-gplus"></i>
+                                <i class="icon-gplus"></i>
+                            </a>
 
-							<a href="#" class="social-icon si-small si-borderless si-pinterest">
-								<i class="icon-pinterest"></i>
-								<i class="icon-pinterest"></i>
-							</a>
+                            <a href="#" class="social-icon si-dark si-large si-pinterest">
+                                <i class="icon-pinterest"></i>
+                                <i class="icon-pinterest"></i>
+                            </a>
 
-							<a href="#" class="social-icon si-small si-borderless si-vimeo">
-								<i class="icon-vimeo"></i>
-								<i class="icon-vimeo"></i>
-							</a>
+                            <a href="#" class="social-icon si-dark si-large si-vimeo">
+                                <i class="icon-vimeo"></i>
+                                <i class="icon-vimeo"></i>
+                            </a>
 
-							<a href="#" class="social-icon si-small si-borderless si-github">
-								<i class="icon-github"></i>
-								<i class="icon-github"></i>
-							</a>
+                            <a href="#" class="social-icon si-dark si-large si-github">
+                                <i class="icon-github"></i>
+                                <i class="icon-github"></i>
+                            </a>
 
-							<a href="#" class="social-icon si-small si-borderless si-yahoo">
-								<i class="icon-yahoo"></i>
-								<i class="icon-yahoo"></i>
-							</a>
+                            <a href="#" class="social-icon si-dark si-large si-yahoo">
+                                <i class="icon-yahoo"></i>
+                                <i class="icon-yahoo"></i>
+                            </a>
 
-							<a href="#" class="social-icon si-small si-borderless si-linkedin">
-								<i class="icon-linkedin"></i>
-								<i class="icon-linkedin"></i>
-							</a>
-						</div>
-
-						<div class="clear"></div>
-
-					</div>
-
+                            <a href="#" class="social-icon si-dark si-large si-linkedin">
+                                <i class="icon-linkedin"></i>
+                                <i class="icon-linkedin"></i>
+                            </a>
+                        </div>
 				</div>
 
 			</div><!-- #copyrights end -->

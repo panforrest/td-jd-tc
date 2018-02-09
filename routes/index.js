@@ -6,12 +6,8 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
 
-router.get('/en_page', function(req, res, next) {
-  res.render('en_page', null);
-});
-
-router.get('/plan_B', function(req, res, next) {
-  res.render('plan_B', null);
+router.get('/test', function(req, res, next) {
+  res.render('test', null);
 });
 
 router.get('/cn_page', function(req, res, next) {
