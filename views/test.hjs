@@ -151,7 +151,7 @@
 						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/Beiyang.jpg');">
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-left">
-									<h2 data-caption-animate="fadeInUp" style="z-index: 3;  color: #111">主办：天津大学<br />（北洋大学）<br />北美校友会</h2>
+									<h2 data-caption-animate="fadeInUp" style="z-index: 3;  color: #111">主办：<br />天津大学<br />（北洋大学）<br />北美校友会</h2>
 									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
 								</div>
 							</div>
@@ -160,7 +160,7 @@
 						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/jd.jpg');">
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-left">
-									<h2 data-caption-animate="fadeInUp">主办：吉林大学<br />海外校友会 </h2>
+									<h2 data-caption-animate="fadeInUp">主办：<br />吉林大学<br />海外校友会 </h2>
 									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
 								</div>
 							</div>
@@ -168,7 +168,7 @@
 						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/tiancai.jpg');">
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-left">
-									<h2 data-caption-animate="fadeInUp">主办:天津财经大学<br />美国校友会</h2>
+									<h2 data-caption-animate="fadeInUp">主办:<br />天津财经大学<br />美国校友会</h2>
 									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
 								</div>
 							</div>
