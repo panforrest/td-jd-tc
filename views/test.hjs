@@ -98,7 +98,9 @@
                         -->
 							<li><a href="#" data-href="#section-about"><div><i class="icon-file-alt"></i>关于</div></a></li>
 							<li><a href="#" data-href="#section-schedule"><div><i class="icon-th"></i>时间表</div></a></li>
+                        <!---
 							<li><a href="#" data-href="#section-staff"><div><i class="icon-users2"></i>筹备组</div></a></li>
+                        -->
 							<li><a href="#" data-href="#section-facts"><div><i class="icon-folder-open"></i>概况</div></a></li>
 							<li><a href="#" data-href="#section-gallery"><div><i class="icon-picture"></i>画廊</div></a></li>
 							<li><a href="#" data-href="#section-speakers"><div><i class="icon-star3"></i>分享嘉宾</div></a></li>
@@ -122,6 +124,14 @@
 
 				<div class="swiper-container swiper-parent">
 					<div class="swiper-wrapper">
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/poster.jpg');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp"></h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
 						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/nycChineseNewYear.jpg');">
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-left">
@@ -132,16 +142,16 @@
 						</div>
 						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/happyChineseNewYear.jpg');">
 							<div class="container clearfix">
-								<div class="slider-caption slider-caption-center">
-									<h2 data-caption-animate="fadeInUp" style="z-index: 3;  color: #111">机会难得，心动不如行动！<br />活动开始前一周购票可享约7.5折优惠哟！</h2>
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp" style="z-index: 3;  color: #111">机会难得，心动不如行动！<br />活动开始前一周 <br />可享约7.5折优惠</h2>
 									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
 								</div>
 							</div>
 						</div>
 						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/Beiyang.jpg');">
 							<div class="container clearfix">
-								<div class="slider-caption slider-caption-center">
-									<h2 data-caption-animate="fadeInUp" style="z-index: 3;  color: #111">主办：天津大学（北洋大学）北美校友会</h2>
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp" style="z-index: 3;  color: #111">主办：天津大学<br />（北洋大学）<br />北美校友会</h2>
 									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
 								</div>
 							</div>
@@ -150,39 +160,39 @@
 						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/jd.jpg');">
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-left">
-									<h2 data-caption-animate="fadeInUp">主办：吉林大学 </h2>
+									<h2 data-caption-animate="fadeInUp">主办：吉林大学<br />海外校友会 </h2>
 									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
 								</div>
 							</div>
 						</div>
-						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/tjufe_watercolor.png');">
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/tiancai.jpg');">
 							<div class="container clearfix">
-								<div class="slider-caption slider-caption-center">
-									<h2 data-caption-animate="fadeInUp">主办：天津财经大学</h2>
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp">主办:天津财经大学<br />美国校友会</h2>
 									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
 								</div>
 							</div>
 						</div>
-						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/LineMoney.png');">
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/diamond_backup.png');">
 							<div class="container clearfix">
-								<div class="slider-caption slider-caption-center">
-									<h2 data-caption-animate="fadeInUp" style="z-index: 3; color: #f0f; font-size: 60px;">特别鸣谢：钻石赞助</h2>
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp" style="color: #f0f; font-size: 22px;">特别鸣谢：钻石赞助<br />赞助商:  LineMoney快汇<br />业务：科技金融公司<br >电话：(888) 875-6876<br />微信：LINEMONEYOFFICIAL</h2>
 									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
 								</div>
 							</div>
 						</div>
 						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/ChinaSouthern.png');">
 							<div class="container clearfix">
-								<div class="slider-caption slider-caption-center">
-									<h2 data-caption-animate="fadeInUp" style="z-index: 3; color: #0ff; font-size: 60px;" >特别鸣谢：金牌赞助</h2>
+								<div class="slider-caption slider-caption-left">
+									<h3 data-caption-animate="fadeInUp" style="color: #0ff; font-size: 22px;">特别鸣谢：金牌赞助<br />赞助商:  中国南方航空<br />业务：航空公司<br >电话：212-332-8888<br /></h3>
 									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
 								</div>
 							</div>
 						</div>
-						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/legend.png');">
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/silver.png');">
 							<div class="container clearfix">
-								<div class="slider-caption slider-caption-center">
-									<h2 data-caption-animate="fadeInUp" style="z-index: 3; color: #0ff; font-size: 60px;">特别鸣谢：银牌赞助</h2>
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp" style="color: #0ff; font-size: 22px;">特别鸣谢：银牌赞助<br />赞助商: Legend72<br />电话：917-441-4790<br /><br />
 									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
 								</div>
 							</div>
@@ -211,7 +221,7 @@
 						<div class="heading-block center">
 							<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">我想参加</a>
 							<span>天津大学 <br /> 吉林大学 <br /> 天津财经大学</span>
-							<h2>隆重推出, 倾情奉献<br /><span> 春节联欢晚会</span></h2>
+							<h2>隆重推出, 倾情奉献<br /><span> 迎新春三校联欢会</span></h2>
 							
 						</div>
 
@@ -307,10 +317,9 @@
 
 					
 				  </div>
-				  <br />
-				  <br />	
+				  	
 
-                 
+            <!---     
                   <div id="section-staff" class="container clearfix">
 					
 
@@ -350,13 +359,10 @@
 
 					
                   </div>
+            -->      
                   <br />
                   <br />
-                  <br />
-                  <br />
-                  <br />
-                  <br />
-                  <br />
+                  
 
 
                   <div id="section-facts" class="container clearfix">
@@ -491,16 +497,16 @@
 			  <div id="section-speakers" class="container clearfix">
                     <div class="heading-block center">
 							<h2>分享嘉宾 <span>包括</span></h2>
-							<span></span>
+							
 						</div>
                         
 
-				<div class="section nobg topmargin-lg nobottommargin">
+				<div class="section nobg  nobottommargin">
 					<div class="container clearfix">
 
 						<div class="col_half nobottommargin center">
 
-							<img src="images/td_jd_tc/tj_university.PNG" alt="Image" data-animate="fadeInLeft">
+							<img src="images/td_jd_tc/石山铭.jpg" alt="Image" style="width:210px; border-radius:100px; margin-top:24px; border: 1px solid #ddd; padding:8px; background:#fff" data-animate="fadeInRight">
 
 						</div>
 
