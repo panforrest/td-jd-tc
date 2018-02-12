@@ -98,10 +98,10 @@
                         -->
 							<li><a href="#" data-href="#section-about"><div><i class="icon-file-alt"></i>关于</div></a></li>
 							<li><a href="#" data-href="#section-schedule"><div><i class="icon-th"></i>时间表</div></a></li>
-                        <!---
-							<li><a href="#" data-href="#section-staff"><div><i class="icon-users2"></i>筹备组</div></a></li>
-                        -->
-							<li><a href="#" data-href="#section-facts"><div><i class="icon-folder-open"></i>概况</div></a></li>
+                        
+							<li><a href="#" data-href="#section-food"><div><i class="icon-users2"></i>美食</div></a></li>
+                        
+							<li><a href="#" data-href="#section-raffle"><div><i class="icon-folder-open"></i>抽奖</div></a></li>
 							<li><a href="#" data-href="#section-gallery"><div><i class="icon-picture"></i>画廊</div></a></li>
 							<li><a href="#" data-href="#section-speakers"><div><i class="icon-star3"></i>分享嘉宾</div></a></li>
 							<li><a href="#" data-href="#section-sponsors"><div><i class="icon-pencil2"></i>赞助商</div></a></li>
@@ -143,7 +143,7 @@
 						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/happyChineseNewYear.jpg');">
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-left">
-									<h2 data-caption-animate="fadeInUp" style="z-index: 3;  color: #111">机会难得，心动不如行动！<br />活动开始前一周 <br />可享约7.5折优惠</h2>
+									<h2 data-caption-animate="fadeInUp" style="z-index: 3;  color: #111">机会难得，心动不如行动！<br />Early Bird优惠即将截止！</h2>
 									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
 								</div>
 							</div>
@@ -181,6 +181,14 @@
 								</div>
 							</div>
 						</div>
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/orrick.png');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp" style="color: #f0f; font-size: 22px;">特别鸣谢：钻石赞助<br />赞助商:  Orrick<br />业务：律师楼<br >电话：(212) 506-5000<br /></h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
 						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/ChinaSouthern.png');">
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-left">
@@ -193,6 +201,14 @@
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-left">
 									<h2 data-caption-animate="fadeInUp" style="color: #0ff; font-size: 22px;">特别鸣谢：银牌赞助<br />赞助商: Legend72<br />电话：917-441-4790<br /><br />
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/thanks_artosino.png');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp" style="color: #0ff; font-size: 22px;">特别鸣谢：博雅艺廊<br />电话：212-888-9338 <br /><br />
 									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
 								</div>
 							</div>
@@ -247,6 +263,45 @@
 								<div class="fbox-desc">
 									<h3>活动内容<span class="subtitle"></span></h3>
 									<p>在这里，我们共叙大学时光，畅谈当下发展，展望美好未来；在这里，既有年味满满的包饺子活动，趣味益智的有奖灯谜，更有包括杂技、萨克斯、古筝、舞蹈、北洋军乐团小乐队等众多精彩纷呈的节目。此外，我们还特别邀请了两位杰出校友，和大家分享金融职业和产业发展和中美创业体会与机会。欢迎校友们，朋友们来和他们以及包括中国驻纽约总领馆教育和科技参赞，中国国家外专局总代表等贵宾和纽约各界社团领导及媒体嘉宾们一起交流。</p>
+									
+								</div>
+							</div>
+						</div>
+
+						<div class="col_one_third nobottommargin col_last">
+							<div class="feature-box media-box">
+								<div class="fbox-media">
+									<img src="images/td_jd_tc/yanchu.png" alt="Event Venue">
+								</div>
+								<div class="fbox-desc">
+									<h3>演出<span class="subtitle"></span></h3>
+									<p> 为了给联欢会助兴，多才多艺的校友们和特邀前来的专业艺术家将倾情演出文艺节目，包括校友原创的相声《尬相声》；北洋军乐团组合的《Despacito》，《viva La Vida》；纽约梨园社的戏曲精品；国家二级演员的专业杂技演出；来自哥伦比亚大学学生充满青春活力的舞蹈《一抹红》；具有专业水平的的演唱《我爱你中国》和萨克斯风表演；以及技艺精湛的古筝，二胡和独舞表演《碧波孔雀》等等，精彩纷呈，不容错过!</p>
+									
+								</div>
+							</div>
+						</div>
+
+						<div class="col_one_third nobottommargin col_last">
+							<div class="feature-box media-box">
+								<div class="fbox-media">
+									<img src="images/td_jd_tc/dumpling.png" alt="Event Venue">
+								</div>
+								<div class="fbox-desc">
+									<h3>包饺子<span class="subtitle"></span></h3>
+									<p> 联欢会开始时，我们安排了包饺子环节，雅博艺廊为我们准备了一千个饺子用皮和馅，用具和手套，让大家来一起享受包饺子的乐趣，一起体味居家过年的氛围。</p>
+									
+								</div>
+							</div>
+						</div>
+
+						<div class="col_one_third nobottommargin col_last">
+							<div class="feature-box media-box">
+								<div class="fbox-media">
+									<img src="images/td_jd_tc/chunlian.png" alt="Event Venue">
+								</div>
+								<div class="fbox-desc">
+									<h3>书法<span class="subtitle"></span></h3>
+									<p> 我们也邀请来书法造诣深厚的校友给大家现场写春联</p>
 									
 								</div>
 							</div>
@@ -319,95 +374,84 @@
 				  </div>
 				  	
 
-            <!---     
-                  <div id="section-staff" class="container clearfix">
+                 
+                  <div id="section-food" class="container clearfix">
 					
 
 						<div class="fancy-title title-border">
-							<h4>筹备组</h4>
+							<h4>美食</h4>
+							<p>过节少不了大餐，雅博艺廊将提供十七八道广式美味菜肴，包括专门为我们准备的特色烤全乳猪，广式烤鸭，芝麻鱼片，青椒鸡丁，烩大虾，炸猪排，酱牛肉，素什锦，苦瓜炒蛋，炒年糕，排骨煲，猪皮鱼丸萝卜煲等等，还有饺子，甜点，水果和红酒，远超门票所值，只等您来大快朵颐，尽情享受。</p>
 						</div>
 
-						<div class="masonry-thumbs col-6 clearfix" data-lightbox="gallery" style="width: 100.3%;">
+						<div class="masonry-thumbs col-3 clearfix" data-lightbox="gallery" style="width: 100.3%;">
 							
-							<a href="images/td_jd_tc/颜为民天津大学.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/颜为民天津大学.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
-							<a href="images/td_jd_tc/红门.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/红门.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/姜天婵－吉大.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/姜天婵－吉大.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/张宇吉林大学.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/张宇吉林大学.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/April.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/April.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/艾筱豆.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/艾筱豆.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/白芳薇.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/白芳薇.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/杜若森天大.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/杜若森天大.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
-							<a href="images/td_jd_tc/姜昕卓－天津大学.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/姜昕卓－天津大学.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/leannisgood.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/leannisgood.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/101.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/101.png" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
+							<a href="images/td_jd_tc/102.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/102.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/103.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/103.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/104.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/104.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/105.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/105.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/106.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/106.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/107.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/107.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/108.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/108.png" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
+							<a href="images/td_jd_tc/109.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/109.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/110.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/110.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							
-							<a href="images/td_jd_tc/李欣冉.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/李欣冉.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/李雪伦Sharon.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/李雪伦Sharon.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/刘永奇.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/刘永奇.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-
-							<a href="images/td_jd_tc/孙金钊-天津大学.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/孙金钊-天津大学.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
-							<a href="images/td_jd_tc/Hao_Wang.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/Hao_Wang.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/吴笑寒天大ShawnWu.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/吴笑寒天大ShawnWu.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/Zelun.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/Zelun.jpg" alt="Gallery Thumb 1" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/天财章琪.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/天财章琪.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/周嘉琦.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/周嘉琦.jpg" alt="Open Imagination" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/幽思悠然.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/幽思悠然.jpg" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/四月晴天.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/四月晴天.jpg" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/portrait1.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/portrait1.png" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/庞笑天－天大.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/庞笑天－天大.jpg" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/Marvin.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/Marvin.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/111.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/111.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/112.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/112.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							
 						</div>
 
 					
                   </div>
-            -->      
+                 
                   <br />
                   <br />
                   
 
 
-                  <div id="section-facts" class="container clearfix">
+                  <div id="section-raffle" class="container clearfix">
 
 
 
 
 	                <div class="container clearfix">
 	                	<div class="fancy-title title-border">
-							<h4>概况</h4>
+							<h4>抽奖</h4>
 						</div>
 
 						<div class="col_one_fourth nobottommargin">
 							<div class="feature-box fbox-center fbox-plain nobottomborder">
 								<div class="fbox-icon">
-									<a href="#"><img src="images/icons/restaurant/glass.png" alt="Icon" data-animate="zoomIn"></a>
+									<a href="#"><img src="images/td_jd_tc/prize1.png" alt="Icon" data-animate="zoomIn"></a>
 								</div>
-								<h3>1 场<span class="subtitle">盛况空前的联欢会</span></h3>
+								<h3>特等奖（1个）<span class="subtitle">Apple Watch Nike+ Series 3 (GPS)</span></h3>
 							</div>
 						</div>
 
 						<div class="col_one_fourth nobottommargin">
 							<div class="feature-box fbox-center fbox-plain nobottomborder">
 								<div class="fbox-icon">
-									<a href="#"><img src="images/td_jd_tc/speaker.png" alt="Icon" data-animate="zoomIn" data-delay="200"></a>
+									<a href="#"><img src="images/td_jd_tc/prize2.png" alt="Icon" data-animate="zoomIn" data-delay="200"></a>
 								</div>
-								<h3>2 位<span class="subtitle"> 德高望重的分享嘉宾</span></h3>
+								<h3>一等奖(2个)<span class="subtitle"> Anker PowerCore20100充电宝(可以给iPhone 7充满电7次)</span></h3>
 							</div>
 						</div>
 
 						<div class="col_one_fourth nobottommargin">
 							<div class="feature-box fbox-center fbox-plain nobottomborder">
 								<div class="fbox-icon">
-									<a href="#"><img src="images/td_jd_tc/SponsorIcon.png" alt="Icon" data-animate="zoomIn" data-delay="400"></a>
+									<a href="#"><img src="images/td_jd_tc/prize3.png" alt="Icon" data-animate="zoomIn" data-delay="400"></a>
 								</div>
-								<h3>3 家<span class="subtitle"> 慷慨解囊的赞助商</span></h3>
+								<h3>二等奖(3个）<span class="subtitle"> Zojirushi象印牌SM-SA48BA 16oz保温杯</span></h3>
 							</div>
 						</div>
 
 						<div class="col_one_fourth nobottommargin col_last">
 							<div class="feature-box fbox-center fbox-plain nobottomborder">
 								<div class="fbox-icon">
-									<a href="#"><img src="images/td_jd_tc/perform.png" alt="Icon" data-animate="zoomIn" data-delay="600"></a>
+									<a href="#"><img src="images/td_jd_tc/prize4.png" alt="Icon" data-animate="zoomIn" data-delay="600"></a>
 								</div>
-								<h3>10 多项<span class="subtitle"> 精心准备、精彩纷呈的节目</span></h3>
+								<h3>三等奖（5个）span class="subtitle">  ATGOIN Sweatproof Noise Cancelling蓝牙耳机</span></h3>
 							</div>
 						</div>
 
@@ -442,9 +486,9 @@
 						<div class="col_one_fourth nobottommargin col_last">
 							<div class="feature-box fbox-center fbox-plain nobottomborder">
 								<div class="fbox-icon">
-									<a href="#"><img src="images/td_jd_tc/attendee.png" alt="Icon" data-animate="zoomIn" data-delay="600"></a>
+									<a href="#"><img src="images/td_jd_tc/prize5.png" alt="Icon" data-animate="zoomIn" data-delay="600"></a>
 								</div>
-								<h3>100 位<span class="subtitle"> 渴望与你相会的来宾</span></h3>
+								<h3>50份<span class="subtitle"> 此外，我们还准备了小奖品给猜对了灯谜的校友们：）</span></h3>
 							</div>
 						</div>
 
@@ -473,6 +517,7 @@
 
 						<div class="fancy-title title-border">
 							<h4>画廊</h4>
+							<p>这些照片带给我们2017年新年联欢会的美好回忆</p>
 						</div>
 
 						<div class="masonry-thumbs col-3 clearfix" data-lightbox="gallery" style="width: 100.3%;">
@@ -486,6 +531,12 @@
 							<a href="images/td_jd_tc/4.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/4Thumb.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/5.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/5Thumb.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/6.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/6Thumb.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/10.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/10.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/11.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/11.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/12.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/12.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/13.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/13.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/14.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/14.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/15.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/15.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							
 						</div>
 
@@ -496,8 +547,8 @@
                 <br />
 			  <div id="section-speakers" class="container clearfix">
                     <div class="heading-block center">
-							<h2>分享嘉宾 <span>包括</span></h2>
-							
+							<h2>分享嘉宾 <span></span></h2>
+							<p>年轻校友们期待已久的两位成功校友石山铭，田永驰（两位嘉宾详细介绍见后）将以问答形式分享职场和创业经验，并分析行业发展，对比中美两国特点给大家的职业发展和创业指点迷津。两位嘉宾都绝少有空暇，交流机会实属难得。</p>
 						</div>
                         
 
@@ -515,11 +566,13 @@
 							<div class="heading-block" style="padding-top: 40px;">
 
 								<h2>石山铭博士</h2>
-								<span>天津大学校友 <br />野村证劵 全球股本市场自营交易部，董事总经理</span>
+								<span>天津大学校友 <br />野村证劵全球股本市场自营交易部董事总经理（2012年-now）</span>
 
 							</div>
 
-							<p>拥有超过二十年全球股市量化交易经验。在数家大型国际银行管理自营量化交易团队以及十亿美元规模的资产。涉及量化研究，机器学习（AI），资产管理，风险控制等多个领域。主要交易策略包括：统计套利，多空策略，指数套利，以及期货管理等。1990年代在天大和科罗拉多大学读博士的研究方向即为神经网络原理与预测和人工智能系统。</p>
+							<p>曾任德意志银行股本量化交易主管 董事总经理(2010-2012)，法国巴黎银行自动系统量化交易董事总经理(2008-2010)，美国银行全球股本市场Co-Head of Proprietary Trading Desk at ETS（2006-2008）等，拥有超过二十年全球股市量化交易经验。在数家大型国际银行管理自营量化交易团队以及十亿美元规模的资产。涉及量化研究，机器学习（AI），资产管理，风险控制等多个领域。主要交易策略包括：统计套利，多空策略， 指数套利，以及期货管理等。<br /><br />
+							科罗拉多大学人工智能方向计算机科学博士 <br /> <br />
+                            天津大学系统工程博士</p>
 
 							
 
@@ -536,11 +589,12 @@
 							<div class="heading-block" style="padding-top: 40px;">
 
 								<h2>田永驰博士</h2>
-								<span>吉林大学杰出校友，国家“千人计划”专家。</span>
+								<span>吉林大学杰出校友<br />杭州聚力氢能科技有限公司 总经理（2015-now），国家“千人计划”专家</span>
 
 							</div>
 
-							<p>目前，他担任杭州聚力氢能科技有限公司总经理，主要负责制定研发策略、规划及指导团队从事客户导向的荧光材料产品开发。他先后成功地将两个系列的荧光材料产品推向全球市场，创造年产值两千万美元。此前，他创立了莱凯材料公司（LMI），并于2012年被陶氏化学（Dow Chemical）以高溢价收购。</p>
+							<p>曾任美国陶氏化学公司(Dow Chemical Company) 荧光材料部 研发总监（2012-2015），美国莱凯材料公司（Lightscape Materials, Inc.， LMI） 创始人(2009-2012），美国萨尔诺夫公司（Sarnoff Corporation）高级科学家和 LED 部门 CTO（1999-2005）。曾获美国能源部固体发光研发成就奖，萨尔诺夫科研成就奖等。已获授权美国专利 34 项。领导研发团队开发用于 LED 照明工业的荧光材料。成功地将两个系列的荧光材料 产品推向全球市场，创造年产值两千万美元。  创立莱凯材料公司(LMI)以开发用于 LED 发光器件的荧光材料并将其产业化，被陶氏化学于 2012 年以高溢价（约原始估价的 20 倍）收 购。发明一系列高性能碳氮化物为基质的 LED 荧光材料；发明一种基于生物脱氢酶的生物燃料电池；开拓一类高效荧光材料，用于车用照明器件，并将该项技术授权与日本车用照明公司，为这 家公司带来上千万美元的附加价值。<br /><br />日本国立京都大学理学博士<br /><br />
+							吉林大学理学学士及硕士</p>
 
 							
 
