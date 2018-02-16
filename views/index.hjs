@@ -10,6 +10,7 @@
 	<link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="/css/bootstrap.css" type="text/css" />
     <link rel="stylesheet" href="/style.css" type="text/css" />
+    <link rel="stylesheet" href="css/swiper.css" type="text/css" />
     <link rel="stylesheet" href="/css/dark.css" type="text/css" />
     <link rel="stylesheet" href="/css/font-icons.css" type="text/css" />
     <link rel="stylesheet" href="/css/animate.css" type="text/css" />
@@ -35,7 +36,7 @@
 
     <!-- Document Title
     ============================================= -->
-	<title>天大-吉大-天财|迎新春 三校联欢 </title>
+	<title>天大-吉大-天财 | 迎新春三校联欢 </title>
 
     	<style>
 
@@ -92,16 +93,20 @@
 					<nav id="primary-menu" class="style-5">
 
 						<ul class="one-page-menu" data-easing="easeInOutExpo" data-speed="1500" style="border:none">
-							<li><a href="/cn_page"><div><i class="icon-home2"></i>中文</div></a></li>
-							<li><a href="#" data-href="#section-about"><div><i class="icon-file-alt"></i>About</div></a></li>
-							<li><a href="#" data-href="#section-schedule"><div><i class="icon-th"></i>Schedule</div></a></li>
-							<li><a href="#" data-href="#section-staff"><div><i class="icon-users2"></i>Staff</div></a></li>
-							<li><a href="#" data-href="#section-facts"><div><i class="icon-folder-open"></i>Facts</div></a></li>
-							<li><a href="#" data-href="#section-gallery"><div><i class="icon-picture"></i>Gallery</div></a></li>
-							<li><a href="#" data-href="#section-speakers"><div><i class="icon-star3"></i>Speakers</div></a></li>
-							<li><a href="#" data-href="#section-sponsors"><div><i class="icon-pencil2"></i>Sponsors</div></a></li>
-							<li><a href="https://www.eventbrite.com/e/42486678800" target="_blank" ><div><i class="icon-thumbs-up"></i>Attend</div></a></li>
-							<li><a href="#" data-href="#section-contact"><div><i class="icon-map-marker2"></i>Contact</div></a></li>
+                        <!---
+							<li><a href="/"><div><i class="icon-home2"></i>English</div></a></li>
+                        -->
+							<li><a href="#" data-href="#section-about"><div><i class="icon-file-alt"></i>关于</div></a></li>
+							<li><a href="#" data-href="#section-schedule"><div><i class="icon-th"></i>时间表</div></a></li>
+                        
+							<li><a href="#" data-href="#section-food"><div><i class="icon-users2"></i>美食</div></a></li>
+                        
+							<li><a href="#" data-href="#section-raffle"><div><i class="icon-folder-open"></i>抽奖</div></a></li>
+							<li><a href="#" data-href="#section-gallery"><div><i class="icon-picture"></i>画廊</div></a></li>
+							<li><a href="#" data-href="#section-speakers"><div><i class="icon-star3"></i>分享嘉宾</div></a></li>
+							<li><a href="#" data-href="#section-sponsors"><div><i class="icon-pencil2"></i>赞助商</div></a></li>
+							<li><a href="https://www.eventbrite.com/e/42486678800" target="_blank" ><div><i class="icon-thumbs-up"></i>我想参加</div></a></li>
+							<li><a href="#" data-href="#section-contact"><div><i class="icon-map-marker2"></i>联络方式</div></a></li>
 							
 						</ul>
 
@@ -113,525 +118,109 @@
 
         </header><!-- #header end -->
 
-        <section id="slider" class="slider-parallax revslider-wrap full-screen clearfix">
+        <section id="slider" class="slider-parallax swiper_wrapper full-screen clearfix" data-autoplay="3000" data-speed="350" data-loop="true">
 
-			<!--
-			#################################
-				- THEMEPUNCH BANNER -
-			#################################
-			-->
-			<div class="tp-banner-container">
-				<div class="tp-banner" >
-					<ul>    <!-- SLIDE  -->
+			<div class="slider-parallax-inner">
+
+				<div class="swiper-container swiper-parent">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/poster.jpg');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp"></h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/nycChineseNewYear.jpg');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp">迎新春三校联欢会 <br /> 2018年2月18日 <br /> 雅博艺廊<br/> 265西37街，纽约</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/happyChineseNewYear.jpg');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp" style="z-index: 3;  color: #111">机会难得，心动不如行动！<br />Early Bird优惠即将截止！</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/Beiyang.jpg');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp" style="z-index: 3;  color: #111">主办：<br />天津大学<br />（北洋大学）<br />北美校友会</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
+
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/jd.jpg');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp">主办：<br />吉林大学<br />海外校友会 </h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/tiancai.jpg');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp">主办:<br />天津财经大学<br />美国校友会</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/diamond_backup.png');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp" style="color: #f0f; font-size: 22px;">特别鸣谢：钻石赞助<br />赞助商:  LineMoney快汇<br />业务：科技金融公司<br >电话：(888) 875-6876<br />微信：LINEMONEYOFFICIAL</h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/orrick.png');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp" style="color: #f0f; font-size: 22px;">特别鸣谢：钻石赞助<br />赞助商:  Orrick<br />业务：律师楼<br >电话：(212) 506-5000<br /></h2>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/ChinaSouthern.png');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-left">
+									<h3 data-caption-animate="fadeInUp" style="color: #0ff; font-size: 22px;">特别鸣谢：金牌赞助<br />赞助商:  中国南方航空<br />业务：航空公司<br >电话：212-332-8888<br /></h3>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/silver.png');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp" style="color: #0ff; font-size: 22px;">特别鸣谢：银牌赞助<br />赞助商: Legend72<br />电话：917-441-4790<br /><br />
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/thanks_artosino.png');">
+							<div class="container clearfix">
+								<div class="slider-caption slider-caption-left">
+									<h2 data-caption-animate="fadeInUp" style="color: #0ff; font-size: 22px;">特别鸣谢：博雅艺廊<br />电话：212-888-9338 <br /><br />
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
+								</div>
+							</div>
+						</div>
 						
-						<!-- SLIDE  -->
-						<li data-transition="slidedown" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/nycChineseNewYearThumb.jpg" data-delay="4000"  data-saveperformance="off"  data-title="Book your Tables">
-							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/nycChineseNewYear.jpg"  alt="kenburns6"  data-bgposition="center top" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="120" data-scaleend="100" data-bgpositionend="center center">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 2 -->
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
-							data-x="0"
-							data-y="215"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1000"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #222;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
-							data-x="-3"
-							data-y="230"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1200"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;">Lunar new year Extravaganza <br> Feb. 18, 2018 <br> Artosino <br /> 265 W 37th St., NYC </div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text tleft"
-							data-x="0"
-							data-y="340"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1400"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #222; max-width: 550px; white-space: normal;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme"
-							data-x="0"
-							data-y="450"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1550"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							
-
-						</li>
-
-                        <!-- SLIDE  -->
-						<li data-transition="slidedown" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/happyChineseNewYearThumb.jpg" data-delay="6000"  data-saveperformance="off"  data-title="Book your Tables">
-							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/happyChineseNewYear.jpg"  alt="kenburns6"  data-bgposition="center top" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-scalestart="120" data-scaleend="100" data-bgpositionend="center center" >
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 2 -->
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
-							data-x="0"
-							data-y="215"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1000"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #222;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
-							data-x="-3"
-							data-y="230"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1200"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 60px;">Tickets running out fast！<br />25% off until one week before event！<br /></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text tleft"
-							data-x="0"
-							data-y="340"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1400"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #222; max-width: 550px; white-space: normal;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme"
-							data-x="0"
-							data-y="450"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1550"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #fff; font-size: 120px;"><a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="button button-border button-blue button-dark button-large button-rounded tright nomargin" style="z-index: 3; color: #fff; font-size: 90px;">Attend <i class="icon-angle-right"></i></a></div>
-							
-
-						</li>
-
-						<!-- SLIDE  -->
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/BeiyangThumb.jpg" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
-							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/Beiyang.jpg"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
-							data-x="440"
-							data-y="215"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1000"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
-							data-x="-3"
-							data-y="230"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1200"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;  color: #111">Co-host: Tianjin (Peiyang) University <Br /> Alumni Association in North America</div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text"
-							data-x="245"
-							data-y="340"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1400"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; max-width: 650px; white-space: normal;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme"
-							data-x="496"
-							data-y="450"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1550"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							
-						</li>
-						<!-- SLIDE  -->
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/jdThumb.jpg" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
-							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/jd.jpg"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
-							data-x="440"
-							data-y="215"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1000"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
-							data-x="287"
-							data-y="230"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1200"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;  color: #f0f">Co-host: Jilin University </div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text"
-							data-x="245"
-							data-y="340"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1400"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; max-width: 650px; white-space: normal;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme"
-							data-x="496"
-							data-y="450"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1550"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							
-						</li>
-						<!-- SLIDE  -->
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/tjufe_watercolorThumb.png" data-delay="3000"  data-saveperformance="off"  data-title="Full Featured Menu">
-							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/tjufe_watercolor.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
-							data-x="440"
-							data-y="215"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1000"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
-							data-x="-3"
-							data-y="230"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1200"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #f0f; font-size: 60px;">Co-host: Tianjin U. of Finance & Economics </div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text"
-							data-x="245"
-							data-y="340"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1400"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; max-width: 650px; white-space: normal;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme"
-							data-x="496"
-							data-y="450"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1550"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							
-						</li>
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/diamondThumb.png" data-delay="5000"  data-saveperformance="off"  data-title="Full Featured Menu">
-							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/LineMoney.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
-							data-x="440"
-							data-y="215"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1000"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
-							data-x="-3"
-							data-y="230"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1200"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #f0f; font-size: 60px;">Special thanks：Diamond sponsor</div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text"
-							data-x="245"
-							data-y="340"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1400"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; max-width: 650px; white-space: normal;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme"
-							data-x="496"
-							data-y="450"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1550"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							
-						</li>
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/goldThumb.png" data-delay="5000"  data-saveperformance="off"  data-title="Full Featured Menu">
-							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/ChinaSouthern.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
-							data-x="440"
-							data-y="215"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1000"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
-							data-x="-3"
-							data-y="230"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1200"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #0ff; font-size: 60px;">Special thanks：Gold sponsor</div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text"
-							data-x="245"
-							data-y="340"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1400"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; max-width: 650px; white-space: normal;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme"
-							data-x="496"
-							data-y="450"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1550"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							
-						</li>
-						<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/td_jd_tc/legendThumb.png" data-delay="5000"  data-saveperformance="off"  data-title="Full Featured Menu">
-							<!-- MAIN IMAGE -->
-							<img src="images/td_jd_tc/legend.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-caps-text uppercase"
-							data-x="440"
-							data-y="215"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1000"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
-							data-x="-3"
-							data-y="230"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1200"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; color: #0ff; font-size: 60px;">Special thanks：Silver sponsor</div>
-
-							<div class="tp-caption customin ltl tp-resizeme revo-slider-desc-text"
-							data-x="245"
-							data-y="340"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1400"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							data-endeasing="Power4.easeIn" style="z-index: 3; max-width: 650px; white-space: normal;"></div>
-
-							<div class="tp-caption customin ltl tp-resizeme"
-							data-x="496"
-							data-y="450"
-							data-customin="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-							data-speed="800"
-							data-start="1550"
-							data-easing="easeOutQuad"
-							data-splitin="none"
-							data-splitout="none"
-							data-elementdelay="0.01"
-							data-endelementdelay="0.1"
-							data-endspeed="1000"
-							
-						</li>
-					</ul>
+					</div>
+					<div id="slider-arrow-left"><i class="icon-angle-left"></i></div>
+					<div id="slider-arrow-right"><i class="icon-angle-right"></i></div>
+					<div id="slide-number"><div id="slide-number-current"></div><span>/</span><div id="slide-number-total"></div></div>
+					<div class="swiper-pagination"></div>
 				</div>
+
 			</div>
 
 		</section>
@@ -646,8 +235,10 @@
 					<div class="container clearfix">
 
 						<div class="heading-block center">
-							<h2>Spring Festival Gala <br /><span> jointly presented by</span></h2>
-							<span>Tianjin University <br /> Jilin University <br /> Tianjin University of Finance & Economics</span>
+							<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">我想参加</a>
+							<span>天津大学 <br /> 吉林大学 <br /> 天津财经大学</span>
+							<h2>隆重推出, 倾情奉献<br /><span> 迎新春三校联欢会</span></h2>
+							
 						</div>
 
 						<div class="col_one_third nobottommargin">
@@ -656,9 +247,10 @@
 									<img src="images/td_jd_tc/ChineseNewYear2018.PNG" alt="Why this event">
 								</div>
 								<div class="fbox-desc">
-									<h3>Why this event<span class="subtitle"></span></h3>
-									<p>Happy Lunar New Year! Another Spring Festival alumni party is about to begin! On the occasion of this festive season, the North American Alumni Association of Tianjin University (Beiyang University), the Overseas Alumni Association of Jilin University and the American Alumni Association of Tianjin University of Finance and Economics invite all alumni and relatives to jointly hold a New Year's party which is full of heart and contentment!</p><br />
-									<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">Attend</a>
+									<h3>活动目的<span class="subtitle"></span></h3>
+									<p>辞旧岁，迎新春！又一年的新春校友联欢会即将开始啦！值此佳节来临之际，天津大学（北洋大学）北美校友会，吉林大学海外校友会、天津财经大学美国校友会，诚邀各位校友和亲属，共同举办一场别开生面，诚意满满的新年聚会！<br />本次活动是本着联络校友感情，服务校友，帮助校友扩展人脉资源而举办的可持续性极强的 大型特色活动。</p>
+									<br />
+									<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">我想参加</a>
 								</div>
 							</div>
 						</div>
@@ -669,8 +261,53 @@
 									<img src="images/td_jd_tc/what_we_do.jpeg" alt="What we do">
 								</div>
 								<div class="fbox-desc">
-									<h3>What we do<span class="subtitle"></span></h3>
-									<p>Here, we talk about the university time, talk about the current development, looking forward to a better future; here, both the full flavor of dumplings, fun riddled with riddles, but also including acrobatics, saxophone, zither, dance, Beiyang Military Band small band and many other brilliant programs. In addition, we have specially invited two outstanding alumni to share the financial career and industrial development and the entrepreneurial experience and opportunities between China and the United States. Welcome alumni and friends to join them, as well as VIPs including education and technology counselors of the Chinese Consulate General in New York, the General Office of the State Administration of Foreign Experts Affairs of China and New York community leaders and media guests.</p>
+									<h3>活动内容<span class="subtitle"></span></h3>
+									<p>在这里，我们共叙大学时光，畅谈当下发展，展望美好未来；在这里，既有年味满满的包饺子活动，趣味益智的有奖灯谜，更有包括杂技、萨克斯、古筝、舞蹈、北洋军乐团小乐队等众多精彩纷呈的节目。此外，我们还特别邀请了两位杰出校友，和大家分享金融职业和产业发展和中美创业体会与机会。欢迎校友们，朋友们来和他们以及包括中国驻纽约总领馆教育和科技参赞，中国国家外专局总代表等贵宾和纽约各界社团领导及媒体嘉宾们一起交流。</p>
+									
+								</div>
+							</div>
+						</div>
+
+						<div class="col_one_third nobottommargin col_last">
+							<div class="feature-box media-box">
+								<div class="fbox-media">
+									<img src="images/td_jd_tc/yanchu.png" alt="Event Venue">
+								</div>
+								<div class="fbox-desc">
+									<h3>活动内容精选之一: 演出<span class="subtitle"></span></h3>
+									<p> 为了给联欢会助兴，多才多艺的校友们和特邀前来的专业艺术家将倾情演出文艺节目，包括校友原创的相声《尬相声》；北洋军乐团组合的《Despacito》，《viva La Vida》；纽约梨园社的戏曲精品；国家二级演员的专业杂技演出；来自哥伦比亚大学学生充满青春活力的舞蹈《一抹红》；具有专业水平的的演唱《我爱你中国》和萨克斯风表演；以及技艺精湛的古筝，二胡和独舞表演《碧波孔雀》等等，精彩纷呈，不容错过!</p>
+									
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</section>		
+                <section>
+					<div class="container clearfix">	
+
+						<div class="col_one_third nobottommargin">
+							<div class="feature-box media-box">
+								<div class="fbox-media">
+									<img src="images/td_jd_tc/dumpling.png" alt="Event Venue">
+								</div>
+								<div class="fbox-desc">
+									<h3>活动内容精选之二:包饺子<span class="subtitle"></span></h3>
+									<p> 联欢会开始时，我们安排了包饺子环节，雅博艺廊为我们准备了一千个饺子用皮和馅，用具和手套，让大家来一起享受包饺子的乐趣，一起体味居家过年的氛围。</p>
+									
+								</div>
+							</div>
+						</div>
+
+						<div class="col_one_third nobottommargin">
+							<div class="feature-box media-box">
+								<div class="fbox-media">
+									<img src="images/td_jd_tc/chunlian.png" alt="Event Venue">
+								</div>
+								<div class="fbox-desc">
+									<h3>活动内容精选之三: 书法<span class="subtitle"></span></h3>
+									<p> 我们也邀请来书法造诣深厚的校友给大家现场写春联</p>
+									
 								</div>
 							</div>
 						</div>
@@ -681,9 +318,9 @@
 									<img src="images/td_jd_tc/yaboyilang.JPG" alt="Event Venue">
 								</div>
 								<div class="fbox-desc">
-									<h3>Venue provided by: Artosino, 265 W 37th St., NYC<span class="subtitle"></span></h3>
-									<p>
-									Artosino, as a global festival of Chinese traditional Chinese New Year in our hearts have different status and feelings. Let us meet at Artosino Gallery, to welcome the arrival of the New Year! Artosino is a long-term alumni partners, a beautiful environment, in a warm atmosphere. For a better experience, we particularly limit the Spring Festival holiday party to 100 people.</p>
+									<h3>活动地点: 265 西 37 街，纽约<span class="subtitle"></span></h3>
+									<p> 雅博艺廊, 作为全球华人的传统节日，春节在我们的内心拥有不一样的地位和感情。让我们相约雅博艺廊，共同迎接新年的到来！博雅艺廊是校友会的长期合作伙伴，环境优美，气氛温馨。为了更好地保障活动体验，我们特别将本次春节联欢名额限制为100人。</p>
+									
 								</div>
 							</div>
 						</div>
@@ -721,114 +358,105 @@
 					
 
 						<div class="fancy-title title-border">
-							<h4>Schedule</h4><br />
-						</div>
+							<h4>时间表</h4>
+						</div><br />
 
 						<p></p>
 
 						<ul class="iconlist nobottommargin">
-							<li><i class="icon-time color"></i> <strong>11:00 am: </strong> Speakers at the Consulate General's Science and Technology Counselor, Educational Counselor, General Representative of the State Administration of Foreign Affairs, CCPIT General Representative, etc., Official Video and Greeting from the School</li><br />
-							<li><i class="icon-time color"></i> <strong>12:00 am: </strong> Successful Alumni Sharing Session (Theme: Artificial Intelligence, Blockchain Technology Development, Sino-US Entrepreneurship Experience)</li><br />
-							<li><i class="icon-time text-danger"></i> <strong>1 pm: </strong> Art performances: dance, saxophone, guzheng, small band ensemble, comic dialogue, etc., more programs in the increase</li><br />
-							<li><i class="icon-time text-danger"></i> <strong>2 pm: </strong> traditional Chinese New Year activities: dumplings, riddles riddles, calligraphy, couplets, hand-cut window grilles, lanterns, Chinese paintings, sugar people, portrait paper-cut,</li><br />
-							<li><i class="icon-time text-danger"></i> <strong>3 pm:</strong> Games: Stomp stepping on balloons and other games</li><br />
-							<li><i class="icon-time text-danger"></i> <strong>4 pm:</strong> Raffle</li><br />
+							<li><i class="icon-time color"></i> <strong>上午11点：</strong> 领事馆的科技参赞，教育参赞，国家外专局总代表，贸促会总代表等特邀嘉宾到场致辞, 校方官方视频和贺信朗读</li><br /><br />
+							<li><i class="icon-time color"></i> <strong>上午12点：</strong> 成功校友分享会(主题:人工智能，区块链技术发展，中美创业体会)</li><br /><br />
+							<li><i class="icon-time text-danger"></i> <strong>下午1点：</strong> 文艺表演:舞蹈，萨克斯，古筝，小乐队合奏，相声等，更多节目在增加中</li><br /><br />
+							<li><i class="icon-time text-danger"></i> <strong>下午2点：</strong> 传统新春活动:包饺子，猜灯谜，书法、对春联、手工剪窗花、扎灯笼、国画、做糖人、肖 像剪纸、捏面人</li><br /><br />
+							<li><i class="icon-time text-danger"></i> <strong>下午3点：</strong> 游戏:踩气球抢凳子等游戏</li><br /><br />
+							<li><i class="icon-time text-danger"></i> <strong>下午4点：</strong> 抽奖:冲顶大会礼物大派送</li><br /><br />
 						</ul>
+						
 
-						<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">Attend</a>
+						<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">我想参加</a><br /><br /><br />
+
 					
 				  </div>
-				  <br />
-				  <br />	
+				  	
+
                  
-                  <div id="section-staff" class="container clearfix">
+                  <div id="section-food" class="container clearfix">
 					
 
 						<div class="fancy-title title-border">
-							<h4>筹备组</h4>
+							<h4>美食</h4>
+							<p>过节少不了大餐，雅博艺廊将提供十七八道广式美味菜肴，包括专门为我们准备的特色烤全乳猪，广式烤鸭，芝麻鱼片，青椒鸡丁，烩大虾，炸猪排，酱牛肉，素什锦，苦瓜炒蛋，炒年糕，排骨煲，猪皮鱼丸萝卜煲等等，还有饺子，甜点，水果和红酒，远超门票所值，只等您来大快朵颐，尽情享受。</p>
 						</div>
 
-						<div class="masonry-thumbs col-6 clearfix" data-lightbox="gallery" style="width: 100.3%;">
+						<div class="masonry-thumbs col-3 clearfix" data-lightbox="gallery" style="width: 100.3%;">
 							
-							<a href="images/td_jd_tc/颜为民天津大学.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/颜为民天津大学.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
-							<a href="images/td_jd_tc/红门.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/红门.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/姜天婵－吉大.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/姜天婵－吉大.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/张宇吉林大学.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/张宇吉林大学.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/April.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/April.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/艾筱豆.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/艾筱豆.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/白芳薇.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/白芳薇.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/杜若森天大.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/杜若森天大.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
-							<a href="images/td_jd_tc/姜昕卓－天津大学.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/姜昕卓－天津大学.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/leannisgood.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/leannisgood.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/101.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/101.png" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
+							<a href="images/td_jd_tc/102.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/102.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/103.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/103.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/104.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/104.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/105.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/105.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/106.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/106.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/107.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/107.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/108.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/108.png" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
+							<a href="images/td_jd_tc/109.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/109.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/110.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/110.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							
-							<a href="images/td_jd_tc/李欣冉.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/李欣冉.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/李雪伦Sharon.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/李雪伦Sharon.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/刘永奇.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/刘永奇.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-
-							<a href="images/td_jd_tc/孙金钊-天津大学.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/孙金钊-天津大学.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
-							<a href="images/td_jd_tc/Hao_Wang.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/Hao_Wang.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/吴笑寒天大ShawnWu.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/吴笑寒天大ShawnWu.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/Zelun.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/Zelun.jpg" alt="Gallery Thumb 1" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/天财章琪.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/天财章琪.jpg" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/周嘉琦.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/周嘉琦.jpg" alt="Open Imagination" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/幽思悠然.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/幽思悠然.jpg" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/四月晴天.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/四月晴天.jpg" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/portrait1.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/portrait1.png" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/庞笑天－天大.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/庞笑天－天大.jpg" alt="Gallery Thumb 4" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/Marvin.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/Marvin.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/111.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/111.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/112.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/112.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							
 						</div>
 
 					
-                  </div>  
+                  </div>
+                 
                   <br />
                   <br />
-                  <br />
+                  
 
 
-                  <div id="section-facts" class="container clearfix">
-                  
-                  
+                  <div id="section-raffle" class="container clearfix">
+
 
 
 
 	                <div class="container clearfix">
 	                	<div class="fancy-title title-border">
-							<h4>Facts by the numbers</h4>
+							<h4>抽奖</h4>
 						</div>
 
 						<div class="col_one_fourth nobottommargin">
 							<div class="feature-box fbox-center fbox-plain nobottomborder">
 								<div class="fbox-icon">
-									<a href="#"><img src="images/icons/restaurant/glass.png" alt="Icon" data-animate="zoomIn"></a>
+									<a href="#"><img src="images/td_jd_tc/prize1.png" alt="Icon" data-animate="zoomIn"></a>
 								</div>
-								<h3>1 <span class="subtitle">Spectacular party</span></h3>
+								<h3>特等奖（1个）<span class="subtitle">Apple Watch Nike+ Series 3 (GPS)</span></h3>
 							</div>
 						</div>
 
 						<div class="col_one_fourth nobottommargin">
 							<div class="feature-box fbox-center fbox-plain nobottomborder">
 								<div class="fbox-icon">
-									<a href="#"><img src="images/td_jd_tc/speaker.png" alt="Icon" data-animate="zoomIn" data-delay="200"></a>
+									<a href="#"><img src="images/td_jd_tc/prize2.png" alt="Icon" data-animate="zoomIn" data-delay="200"></a>
 								</div>
-								<h3>2 <span class="subtitle"> Distinguished speakers</span></h3>
+								<h3>一等奖(2个)<span class="subtitle"> Anker PowerCore20100充电宝(可以给iPhone 7充满电7次)</span></h3>
 							</div>
 						</div>
 
 						<div class="col_one_fourth nobottommargin">
 							<div class="feature-box fbox-center fbox-plain nobottomborder">
 								<div class="fbox-icon">
-									<a href="#"><img src="images/td_jd_tc/SponsorIcon.png" alt="Icon" data-animate="zoomIn" data-delay="400"></a>
+									<a href="#"><img src="images/td_jd_tc/prize3.png" alt="Icon" data-animate="zoomIn" data-delay="400"></a>
 								</div>
-								<h3>3 <span class="subtitle"> Generous sponsors</span></h3>
+								<h3>二等奖(3个）<span class="subtitle"> Zojirushi象印牌SM-SA48BA 16oz保温杯</span></h3>
 							</div>
 						</div>
 
 						<div class="col_one_fourth nobottommargin col_last">
 							<div class="feature-box fbox-center fbox-plain nobottomborder">
 								<div class="fbox-icon">
-									<a href="#"><img src="images/td_jd_tc/perform.png" alt="Icon" data-animate="zoomIn" data-delay="600"></a>
+									<a href="#"><img src="images/td_jd_tc/prize4.png" alt="Icon" data-animate="zoomIn" data-delay="600"></a>
 								</div>
-								<h3>10+<span class="subtitle"> Entertaining performances that will take your breath away</span></h3>
+								<h3>三等奖（5个）span class="subtitle">  ATGOIN Sweatproof Noise Cancelling蓝牙耳机</span></h3>
 							</div>
 						</div>
 
@@ -863,17 +491,17 @@
 						<div class="col_one_fourth nobottommargin col_last">
 							<div class="feature-box fbox-center fbox-plain nobottomborder">
 								<div class="fbox-icon">
-									<a href="#"><img src="images/td_jd_tc/attendee.png" alt="Icon" data-animate="zoomIn" data-delay="600"></a>
+									<a href="#"><img src="images/td_jd_tc/prize5.png" alt="Icon" data-animate="zoomIn" data-delay="600"></a>
 								</div>
-								<h3>100 <span class="subtitle"> Guests who cannot wait to meet you</span></h3>
+								<h3>50份<span class="subtitle"> 此外，我们还准备了小奖品给猜对了灯谜的校友们：）</span></h3>
 							</div>
 						</div>
 
 						<div class="clear"></div>
 
 					</div>
-                    <br />
-					<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">Attend</a>
+					<br />
+                    <a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">我想参加</a>
 
 
 
@@ -881,12 +509,6 @@
                   </div>
 
 
-
-
-						
-
-					
-                  </div>
                   <br />
                   <br />
                   <br />
@@ -899,7 +521,8 @@
 					
 
 						<div class="fancy-title title-border">
-							<h4>Gallery</h4>
+							<h4>画廊</h4>
+							<p>这些照片带给我们2017年新年联欢会的美好回忆</p>
 						</div>
 
 						<div class="masonry-thumbs col-3 clearfix" data-lightbox="gallery" style="width: 100.3%;">
@@ -913,6 +536,12 @@
 							<a href="images/td_jd_tc/4.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/4Thumb.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/5.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/5Thumb.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/6.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/6Thumb.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/10.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/10.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/11.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/11.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/12.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/12.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/13.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/13.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/14.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/14.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/15.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/15.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							
 						</div>
 
@@ -923,32 +552,42 @@
                 <br />
 			  <div id="section-speakers" class="container clearfix">
                     <div class="heading-block center">
-							<h2>Speakers <span>include</span></h2>
-							<span></span>
+							<h2>分享嘉宾 <span></span></h2>
+							<p>年轻校友们期待已久的两位成功校友石山铭，田永驰（两位嘉宾详细介绍见后）将以问答形式分享职场和创业经验，并分析行业发展，对比中美两国特点给大家的职业发展和创业指点迷津。两位嘉宾都绝少有空暇，交流机会实属难得。</p>
 						</div>
                         
 
-				<div class="section nobg topmargin-lg nobottommargin">
+				<div class="section nobg  nobottommargin">
 					<div class="container clearfix">
 
 						<div class="col_half nobottommargin center">
 
-							<img src="images/td_jd_tc/tj_university.PNG" alt="Image" data-animate="fadeInLeft">
+							<img src="images/td_jd_tc/石山铭.jpg" alt="Image" style="width:210px; border-radius:100px; margin-top:24px; border: 1px solid #ddd; padding:8px; background:#fff" data-animate="fadeInRight">
 
 						</div>
 
-						<div class="col_half nobottommargin col_last">
+						<div class="col_half col_last">
 
 							<div class="heading-block" style="padding-top: 40px;">
 
-								<h2>DR. SHI SHANMING</h2>
-								<span>Tianjin University Alumni <br />Nomura Securities global equity markets proprietary trading, Managing Director</span>
+								<h2>石山铭博士</h2>
+								<span>天津大学校友 </span>
+								<span>野村证劵全球股本市场自营交易部董事总经理（2012年-now）</span>
 
 							</div>
 
-							<p>Has more than two decades of global stock market trading experience. Manage self-operated quantitative trading teams and billions of dollar assets at several large international banks. Involving quantitative research, machine learning (AI), asset management, risk control and other fields. The main trading strategies include: statistical arbitrage, long and short strategies, index arbitrage, and futures management. In the 1990s at the University of Colorado and Ph.D. research direction is the neural network theory and prediction and artificial intelligence systems.</p>
+							<span>曾任德意志银行股本量化交易主管 董事总经理(2010-2012)，法国巴黎银行自动系统量化交易董事总经理(2008-2010)，美国银行全球股本市场Co-Head of Proprietary Trading Desk at ETS（2006-2008）等，拥有超过二十年全球股市量化交易经验。在数家大型国际银行管理自营量化交易团队以及十亿美元规模的资产。涉 及量化研究，机器学习（AI），资产管理，风险控制等多个领域。主要交易策略包括：统计套利，多空策略， 指数套利，以及期货管理等。</span><br />
 
-							
+
+
+
+
+
+                            							
+							<span>科罗拉多大学人工智能方向计算机科学博士 </span><br />
+                            <span>天津大学系统工程博士</span>
+
+
 
 						</div>
 
@@ -962,12 +601,15 @@
 
 							<div class="heading-block" style="padding-top: 40px;">
 
-								<h2>DR. TIAN YONGCHI</h2>
-								<span>Jilin University outstanding alumni, national "thousands of people plan" experts.</span>
+								<h2>田永驰博士</h2>
+								<span>吉林大学杰出校友</span><br /><span>杭州聚力氢能科技有限公司 总经理（2015-now),国家“千人计划”专家</span>
 
 							</div>
 
-							<p>Currently, he is the general manager of Hangzhou Juli Hydrogen Energy Co., Ltd. and is mainly responsible for formulating research and development strategies, planning and guiding the team to develop customer-oriented fluorescent material products. He has successfully two series of fluorescent material products to the global market, creating an annual output value of 20 million US dollars. Previously, he founded LMI and was acquired by Dow Chemical at a high premium in 2012.</p>
+							
+
+							<span >曾任美国陶氏化学公司(Dow Chemical Company) 荧光材料部 研发总监（2012-2015），美国莱凯材料公司（Lightscape Materials, Inc.， LMI） 创始人(2009-2012），美国萨尔诺夫公司（Sarnoff Corporation）高级科学家和 LED 部门 CTO（1999-2005）。曾获美国能源部固体发光研发成就奖，萨尔诺夫科研成就奖等。已获授权美国专利 34 项。领导研发团队开发用于 LED 照明工业的荧光材料。成功地将两个系列的荧光材料 产品推向全球市场，创造年产值两千万美元。  创立莱凯材料公司(LMI)以开发用于 LED 发光器件的荧光材料并将其产业化，被陶氏化学于 2012 年以高溢价（约原始估价的 20 倍）收 购。发明一系列高性能碳氮化物为基质的 LED 荧光材料；发明一种基于生物脱氢酶的生物燃料电池；开拓一类高效荧光材料，用于车用照明器件，并将该项技术授权与日本车用照明公司，为这 家公司带来上千万美元的附加价值。<br /><br />日本国立京都大学理学博士<br /><br />
+							吉林大学理学学士及硕士</span>
 
 							
 
@@ -980,9 +622,8 @@
 						</div>
 
 					</div>
+					<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">我想参加</a>
 				</div>
-				<br />
-				<a href="https://www.eventbrite.com/e/42486678800" target="_blank" class="btn btn-info">Attend</a>
               </div>
 				
 			  <div id="section-sponsors" class="container clearfix">	
@@ -991,26 +632,26 @@
 						<div class="col_three_fifth nobottommargin">
 
 							<div class="heading-block nobottomborder">
-								<h3>Sponsors</h3>
+								<h3>赞助商</h3>
 							</div>
 
 							<div class="fslider restaurant-reviews" data-arrows="false" data-animation="slide">
 								<div class="flexslider">
 									<div class="slider-wrap">
 										<div class="slide">
-											<p class="lead">LineMoney<br />LineMoney 快汇 is a technology finance company based in New York City designed to provide safe, fast, transparent and preferential international money transfer service and to provide care and support to loved ones and friends far away from home in the most secure and convenient way.<br />LineMoney currently cross-border remittance business between the United States, China and Japan has been opened and about 30 countries will be opened soon. LineMoney provides various remittance methods for users with different needs, such as small-amount remittance and ordinary remittance, and supports two-way remittance between China and the United States. Small fast remittance quickly, suitable for the arrival time of the high demand customers, low fees, exchange rate concessions, the amount of flexibility. Whether it is studying abroad, traveling, business or other purposes, to meet your remittance needs in all directions and to change the way people send money.<br />Tel：(888) 875-6876<br />Email：CUSTOMERSERVICE@LINEMONEY.COM<br />Wechat：LINEMONEYOFFICIAL</p>
+											<p class="lead">LineMoney<br />LineMoney快汇是一家诞生于纽约的科技金融公司，旨在提供安全、快捷、透明、优惠的国际汇款服务, 用最安全方便的线上汇款方式为远在异国他乡的亲人和朋友送上关心与支持。<br />LineMoney目前已开通了美国、中国、日本三国之间的跨境汇款业务, 即将开通30多国业务。LineMoney为不同需求的用户提供小额快汇和普通汇款等多种汇款方式，支持中美双向汇款。小额快汇到账迅速，适合对到账时间高要求的客户，手续费低，汇率优惠，额度灵活。无论是留学、旅行、商业或是其他用途，全方位满足您的汇款需求，改变人们的汇款方式。<br />电话：(888) 875-6876<br />Email：CUSTOMERSERVICE@LINEMONEY.COM<br />微信：LINEMONEYOFFICIAL</p>
 											<span><strong></strong></span><br>
 											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i>
 										</div>
 										<div class="slide">
-											<p class="lead">China Southern Airlines<br />China Southern Airlines, headquartered in Guangzhou, ranks first in Asia and fourth in the world in terms of fleet size and passenger traffic (data source: IATA). Safety record and safety management level in the international leader in China's domestic security star of the highest airlines.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p></p>
+											<p class="lead">中国南方航空公司<br />总部设在广州的中国南方航空，机队规模和旅客运输量均居亚洲第一、世界第四（数据来源：国际航协）。安全纪录和安全管理水平处于国际领先地位，是中国国内安全星级最高的航空公司。<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
 											<span><strong></strong></span><br>
 											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> 
 										</div>
 										<div class="slide">
-											<p class="lead">Legend 72<br /> <br /><br />127 West 72nd Street, New York, New York (917) 441-4790<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
+											<p class="lead">留香72 <br /> <br /><br />127 West 72nd Street, New York, New York (917) 441-4790<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
 											<span><strong></strong></span><br>
-											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> 
+											<i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i>
 										</div>
 									</div>
 								</div>
@@ -1054,7 +695,7 @@
 					<div class="col_full">
 
 						<div class="heading-block center nobottommargin">
-							<h2>Want to be a sponsor? <strong>Please email to td.jd.tc@gmail.com</strong></h2>
+							<h2>请您大力赞助我们!<strong>请电邮致 td.jd.tc@gmail.com</strong></h2>
 						</div>
 
 					</div>
@@ -1067,11 +708,11 @@
 				<div class="container clearfix">
 
 					<div class="col_half">
-						Copyrights &copy; 2018 All Rights Reserved by td-jd-tc Inc.<br>
+						Copyrights &copy; 2018 All Rights Reserved by td_jd_tc Inc.<br>
 						<div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>
 					</div>
 
-					<div class="fright clearfix">
+					    <div class="fright clearfix">
                             <a href="https://www.facebook.com/najluer/" target="_blank" class="social-icon si-dark si-large si-facebook">
 								<i class="icon-facebook"></i>
 								<i class="icon-facebook"></i>
@@ -1112,7 +753,6 @@
                                 <i class="icon-linkedin"></i>
                             </a>
                         </div>
-
 				</div>
 
 			</div><!-- #copyrights end -->

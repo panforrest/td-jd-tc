@@ -274,33 +274,38 @@
 									<img src="images/td_jd_tc/yanchu.png" alt="Event Venue">
 								</div>
 								<div class="fbox-desc">
-									<h3>演出<span class="subtitle"></span></h3>
+									<h3>活动内容精选之一: 演出<span class="subtitle"></span></h3>
 									<p> 为了给联欢会助兴，多才多艺的校友们和特邀前来的专业艺术家将倾情演出文艺节目，包括校友原创的相声《尬相声》；北洋军乐团组合的《Despacito》，《viva La Vida》；纽约梨园社的戏曲精品；国家二级演员的专业杂技演出；来自哥伦比亚大学学生充满青春活力的舞蹈《一抹红》；具有专业水平的的演唱《我爱你中国》和萨克斯风表演；以及技艺精湛的古筝，二胡和独舞表演《碧波孔雀》等等，精彩纷呈，不容错过!</p>
 									
 								</div>
 							</div>
 						</div>
 
-						<div class="col_one_third nobottommargin col_last">
+					</div>
+				</section>		
+                <section>
+					<div class="container clearfix">	
+
+						<div class="col_one_third nobottommargin">
 							<div class="feature-box media-box">
 								<div class="fbox-media">
 									<img src="images/td_jd_tc/dumpling.png" alt="Event Venue">
 								</div>
 								<div class="fbox-desc">
-									<h3>包饺子<span class="subtitle"></span></h3>
+									<h3>活动内容精选之二:包饺子<span class="subtitle"></span></h3>
 									<p> 联欢会开始时，我们安排了包饺子环节，雅博艺廊为我们准备了一千个饺子用皮和馅，用具和手套，让大家来一起享受包饺子的乐趣，一起体味居家过年的氛围。</p>
 									
 								</div>
 							</div>
 						</div>
 
-						<div class="col_one_third nobottommargin col_last">
+						<div class="col_one_third nobottommargin">
 							<div class="feature-box media-box">
 								<div class="fbox-media">
 									<img src="images/td_jd_tc/chunlian.png" alt="Event Venue">
 								</div>
 								<div class="fbox-desc">
-									<h3>书法<span class="subtitle"></span></h3>
+									<h3>活动内容精选之三: 书法<span class="subtitle"></span></h3>
 									<p> 我们也邀请来书法造诣深厚的校友给大家现场写春联</p>
 									
 								</div>
@@ -561,20 +566,28 @@
 
 						</div>
 
-						<div class="col_half nobottommargin col_last">
+						<div class="col_half col_last">
 
 							<div class="heading-block" style="padding-top: 40px;">
 
 								<h2>石山铭博士</h2>
-								<span>天津大学校友 <br />野村证劵全球股本市场自营交易部董事总经理（2012年-now）</span>
+								<span>天津大学校友 </span>
+								<span>野村证劵全球股本市场自营交易部董事总经理（2012年-now）</span>
 
 							</div>
 
-							<p>曾任德意志银行股本量化交易主管 董事总经理(2010-2012)，法国巴黎银行自动系统量化交易董事总经理(2008-2010)，美国银行全球股本市场Co-Head of Proprietary Trading Desk at ETS（2006-2008）等，拥有超过二十年全球股市量化交易经验。在数家大型国际银行管理自营量化交易团队以及十亿美元规模的资产。涉及量化研究，机器学习（AI），资产管理，风险控制等多个领域。主要交易策略包括：统计套利，多空策略， 指数套利，以及期货管理等。<br /><br />
-							科罗拉多大学人工智能方向计算机科学博士 <br /> <br />
-                            天津大学系统工程博士</p>
+							<span>曾任德意志银行股本量化交易主管 董事总经理(2010-2012)，法国巴黎银行自动系统量化交易董事总经理(2008-2010)，美国银行全球股本市场Co-Head of Proprietary Trading Desk at ETS（2006-2008）等，拥有超过二十年全球股市量化交易经验。在数家大型国际银行管理自营量化交易团队以及十亿美元规模的资产。涉 及量化研究，机器学习（AI），资产管理，风险控制等多个领域。主要交易策略包括：统计套利，多空策略， 指数套利，以及期货管理等。</span><br />
 
-							
+
+
+
+
+
+                            							
+							<span>科罗拉多大学人工智能方向计算机科学博士 </span><br />
+                            <span>天津大学系统工程博士</span>
+
+
 
 						</div>
 
@@ -589,12 +602,14 @@
 							<div class="heading-block" style="padding-top: 40px;">
 
 								<h2>田永驰博士</h2>
-								<span>吉林大学杰出校友<br />杭州聚力氢能科技有限公司 总经理（2015-now），国家“千人计划”专家</span>
+								<span>吉林大学杰出校友</span><br /><span>杭州聚力氢能科技有限公司 总经理（2015-now),国家“千人计划”专家</span>
 
 							</div>
 
-							<p>曾任美国陶氏化学公司(Dow Chemical Company) 荧光材料部 研发总监（2012-2015），美国莱凯材料公司（Lightscape Materials, Inc.， LMI） 创始人(2009-2012），美国萨尔诺夫公司（Sarnoff Corporation）高级科学家和 LED 部门 CTO（1999-2005）。曾获美国能源部固体发光研发成就奖，萨尔诺夫科研成就奖等。已获授权美国专利 34 项。领导研发团队开发用于 LED 照明工业的荧光材料。成功地将两个系列的荧光材料 产品推向全球市场，创造年产值两千万美元。  创立莱凯材料公司(LMI)以开发用于 LED 发光器件的荧光材料并将其产业化，被陶氏化学于 2012 年以高溢价（约原始估价的 20 倍）收 购。发明一系列高性能碳氮化物为基质的 LED 荧光材料；发明一种基于生物脱氢酶的生物燃料电池；开拓一类高效荧光材料，用于车用照明器件，并将该项技术授权与日本车用照明公司，为这 家公司带来上千万美元的附加价值。<br /><br />日本国立京都大学理学博士<br /><br />
-							吉林大学理学学士及硕士</p>
+							
+
+							<span >曾任美国陶氏化学公司(Dow Chemical Company) 荧光材料部 研发总监（2012-2015），美国莱凯材料公司（Lightscape Materials, Inc.， LMI） 创始人(2009-2012），美国萨尔诺夫公司（Sarnoff Corporation）高级科学家和 LED 部门 CTO（1999-2005）。曾获美国能源部固体发光研发成就奖，萨尔诺夫科研成就奖等。已获授权美国专利 34 项。领导研发团队开发用于 LED 照明工业的荧光材料。成功地将两个系列的荧光材料 产品推向全球市场，创造年产值两千万美元。  创立莱凯材料公司(LMI)以开发用于 LED 发光器件的荧光材料并将其产业化，被陶氏化学于 2012 年以高溢价（约原始估价的 20 倍）收 购。发明一系列高性能碳氮化物为基质的 LED 荧光材料；发明一种基于生物脱氢酶的生物燃料电池；开拓一类高效荧光材料，用于车用照明器件，并将该项技术授权与日本车用照明公司，为这 家公司带来上千万美元的附加价值。<br /><br />日本国立京都大学理学博士<br /><br />
+							吉林大学理学学士及硕士</span>
 
 							
 
