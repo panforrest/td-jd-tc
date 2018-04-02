@@ -161,7 +161,7 @@
 							</div>
 						</div>
 
-						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/jd.jpg');">
+						<div class="swiper-slide dark" style="background-image: url('images/td_jd_tc/jd-compressor.jpg');">
 							<div class="container clearfix">
 								<div class="slider-caption slider-caption-left">
 									<h2 data-caption-animate="fadeInUp">主办：<br />吉林大学<br />海外校友会 </h2>
@@ -530,16 +530,17 @@
 						</div>
 
 						<div class="masonry-thumbs col-3 clearfix" data-lightbox="gallery" style="width: 100.3%;">
-							<a href="images/td_jd_tc/0.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/0Thumb.png" alt="Gallery Thumb 1" data-animate="zoomIn"></a>
+							<a href="images/td_jd_tc/0-compressor.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/0Thumb.png" alt="Gallery Thumb 1" data-animate="zoomIn"></a>
 							<a href="images/td_jd_tc/td2017.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/td2017Thumb.jpg" alt="Gallery Thumb 1" data-animate="zoomIn"></a>
 							<a href="images/td_jd_tc/jdoverseas.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/jdoverseasThumb.jpg" alt="Gallery Thumb 1" data-animate="zoomIn"></a>
 							<a href="images/td_jd_tc/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/7Thumb.jpg" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+<!-- 
 							<a href="images/td_jd_tc/1.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/1Thumb.png" alt="Gallery Thumb 2" data-animate="zoomIn" data-delay="100"></a>
-							<a href="images/td_jd_tc/2.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/2Thumb.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							
+							<a href="images/td_jd_tc/2.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/2Thumb.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>							
 							<a href="images/td_jd_tc/4.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/4Thumb.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
-							<a href="images/td_jd_tc/5.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/5Thumb.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							<a href="images/td_jd_tc/5-compressor.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/5Thumb.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/6.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/6Thumb.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
+							 -->
 							<a href="images/td_jd_tc/10.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/10.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/11.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/11.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
 							<a href="images/td_jd_tc/12.png" data-lightbox="gallery-item"><img class="image_fade" src="images/td_jd_tc/12.png" alt="Gallery Thumb 3" data-animate="zoomIn" data-delay="200"></a>
